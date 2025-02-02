@@ -66,4 +66,4 @@ Build cuda_12.1.r12.1/compiler.32688072_0
 
 # Execution
 
-The execution of fine-tuning can be found in the file Gemma_2_2b-it-finetuning.ipynb.
+The execution of fine-tuning can be found in the file Gemma_2_2b-it-finetuning.ipynb. A fine-tuned model can be found at [Huggingface](https://huggingface.co/mlconvexai/gemma-2-2b-it-S-Group).
