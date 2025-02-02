@@ -1,4 +1,4 @@
-# Gemma-2-2b-it finetuning in a local laptop using S-Group's Q&A data
+# Gemma-2–2b-it fine-tuning on a local laptop using S Group's Q&A data
 
 This repository demonstrates how to fine-tune the Gemma-2-2b-it model on a local laptop using the Unsloth library. Unsloth enables fast and memory-efficient fine-tuning. The example uses a small dataset of 248 question-answer pairs from S-Group. While this small dataset will likely lead to overfitting, it effectively showcases the fine-tuning process using Unsloth. This repository is intended as a demonstration of the fine-tuning method, not a production-ready solution.
 
