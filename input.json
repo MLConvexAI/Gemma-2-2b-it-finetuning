@@ -1,0 +1,1242 @@
+[
+    {
+        "tulos": "Peruuta ensin vanhaan osoitteeseen tilattu uutiskirje kirjeen alareunan “Peruuta tilaus” -linkistä.\nTilaa uutiskirje uudelleen oikeaan osoitteeseen.",
+        "syöte": "",
+        "ohje": "Kuinka vaihdan uutiskirjeen sähköpostiosoitteen?"
+    },
+    {
+        "tulos": "Sähköpostiosoitteiden vahvistaminen on yleisesti käytössä oleva tapa varmistua siitä, että henkilöllä itsellään on pääsy hänen tiedoissaan olevaan sähköpostiosoitteeseen.\n\nSähköpostiosoite tulee vahvistaa itse, joko S-mobiilissa tai samalla kun luot itsellesi S-käyttäjätilin. Kun lähetät vahvistusviestin omissa tiedoissasi näkyvään sähköpostiosoitteeseen ja vahvistat itse osoitteen oikeaksi sähköpostiisi lähetetyllä vahvistuskoodilla, saamme varmistuksen, että osoitteesi on voimassa ja kuuluu juuri sinulle.\n\nJos asiakastiedoissasi olevasta sähköpostiosoitteesta puuttuu vielä vahvistus, näkyy osoitteen yhteydessä Vahvista -painike.\n\nBonustiedot ja muut henkilökohtaiset tiedotteet lähetetään vain vahvistettuun sähköpostiosoitteeseen. Bonustilanteesi voit kuitenkin jatkossakin tarkastaa S-mobiilista, S-käyttäjätililtä sekä toimipaikkojen S-Etukorttipäätteiltä.",
+        "syöte": "",
+        "ohje": "Miksi sähköpostiosoite tulee vahvistaa?"
+    },
+    {
+        "tulos": "Osoitetiedot päivittyvät meille väestötietojärjestelmästä, jos olet tehnyt virallisen muuttoilmoituksen väestörekisteriin, eikä sinulla ole voimassa osoitteenluovutuskieltoa väestötietojärjestelmässä.\n\nSähköpostiosoitettasi ja puhelinnumeroasi, sekä niihin liittyviä markkinointilupia voit ylläpitää  S-käyttäjätilillä ja S-mobiilissa (S-mobiilissa S-Pankin pankkitunnuksilla kirjautuneena).",
+        "syöte": "",
+        "ohje": "Missä voin ylläpitää yhteystietojani ja markkinointilupiani?"
+    },
+    {
+        "tulos": "Jos huomaat omissa asiakastiedoissasi virheitä, asioi Asiakasomistajapalvelu ja S-Pankki -pisteellä (useimmat Prismat ja Sokokset, valikoidut S-marketit) tai soita S-ryhmän asiakasomistajapalveluun puh. 010 76 5858 ma-pe 9-16 (mpm/pvm). Voit myös itse päivittää osaa tiedoistasi kirjautumalla S-käyttäjätilille.\n\nOsoitetiedot päivittyvät meille väestötietojärjestelmästä. Sinun ei siis tarvitse ilmoittaa meille osoitteenmuutosta, jos olet tehnyt virallisen muuttoilmoituksen väestörekisteriin, eikä sinulla ole voimassa osoitteenluovutuskieltoa väestötietojärjestelmässä.",
+        "syöte": "",
+        "ohje": "Mitä teen, jos huomaan asiakastiedoissani virheitä?"
+    },
+    {
+        "tulos": "S-ryhmän asiakasomistaja- ja asiakasrekisterissä olevat nimi- ja osoitetiedot päivitetään automaattisesti väestötietojärjestelmästä. Jos olet tehnyt virallisen nimenmuutoksen tai muuttoilmoituksen maistraattiin, niin pääsääntöisesti sinun ei tarvitse erikseen ilmoittaa siitä meille.\n\nAutomaattinen tietojen päivitys ei kuitenkaan ole mahdollista, jos sinulla on väestötietojärjestelmässä asiakasrekisterin päivityskielto tai turvakielto, tai asiakastietosi meillä ovat puutteelliset (esim. henkilötunnus puuttuu). Tällöin voit toimia seuraavasti:\n\nJos et ole S-Pankin asiakas, voit ilmoittaa muuttuneen osoitteesi meille viestillä, soittamalla S-ryhmän asiakasomistajapalveluun puh. 010 76 5858 ma-pe 9-16 (mpm/pvm) tai Asiakasomistajapalvelu ja S-Pankki -pisteellä (useimmat Prismat ja Sokokset, valikoidut S-marketit).\nPankkiasiakkuuteen tehtäviin asiakastietojen muutoksiin tarvitaan vahva tunnistus. Jos olet S-Pankin asiakas ja sinulla on S-Pankin verkkopankkitunnukset, voit tehdä osoitteenmuutoksen lähettämällä viestin S-Pankin verkkopankissa tai soittamalla S-Pankin asiakaspalveluun puh. 010 76 5800 ma-pe 9-16 (mpm/pvm). Jos sinulla ei ole S-Pankin verkkopankkitunnuksia, voit ilmoittaa muuttuneen osoitteesi Asiakasomistajapalvelu ja S-Pankki -pisteellä. Toimipaikassa tehtävän muutoksen yhteydessä henkilöllisyys tarkistetaan virallisesta henkilöllisyystodistuksesta.\nHuomaathan, että nimesi muuttuessa tulee sinun itse tilata S-Etukortti uudella nimellä. Uuden käteiskortin voit tilata kätevimmin S-käyttäjätilin kautta. Jos kortissasi on maksuominaisuuksia, voit tilata uuden kortin S-Pankin verkkopankissa joko kortin tiedoissa tai viestillä. Maksukortin uusimisesta veloitetaan S-Pankin palveluhinnaston mukainen maksu.\n\nSähköpostiosoitteen sekä matkapuhelinnumeron voit päivittää itse S-käyttäjätilin kautta tai S-mobiilissa.",
+        "syöte": "",
+        "ohje": "Miksi osoitteeni ei ole päivittynyt osoitteenmuutoksen jälkeen? Mihin ilmoitan osoitteenmuutoksen / nimenmuutoksen?"
+    },
+    {
+        "tulos": "S-mobiilissa ja S-käyttäjätilillä voit tarkastaa ja seurata monia asiakkuuteesi liittyviä asioita. Voit esimerkiksi päivittää siellä sähköpostiosoitteesi ja matkapuhelinnumerosi sekä niihin liittyviä markkinointilupia. Saat myös käyttöösi sähköiset kassa- ja takuukuitit.\n\nLöydät omista tiedoistasi myös asiakastunnuksesi S-Etukorttipäätettä varten.\n\nOsoitteen- ja nimenmuutokset saamme automaattisesti väestötietojärjestelmästä noin parin viikon kuluessa muutoksen rekisteröinnistä, mikäli et ole estänyt tietojen luovuttamista.\n\nS-käyttäjätilillä voit mm. tilata kadonneen tai vioittuneen käteiskortin tilalle uuden sekä itsellesi että asiakasomistajatalouden pääjäsenenä myös perheenjäsenellesi. Lisäksi voit ylläpitää asiakasomistajataloutesi kokoonpanoa poistamalla tai lisäämällä siihen perheenjäseniä.",
+        "syöte": "",
+        "ohje": "Mitä asiakkuuteeni liittyviä muutoksia voin tehdä itse sähköisissä kanavissa?"
+    },
+    {
+        "tulos": "Asiakasomistajataloutesi pääjäsenenä voit poistaa haluamasi henkilön taloudestasi S-käyttäjätilillä. Sinun tulee ilmoittaa taloudesta poistamallesi henkilölle, että hänen oikeutensa S-Etukorttiin ja muihin asiakasomistajaetuihin on päättynyt.\n\nAsiakasomistajatalouden henkilönä voit itse poistua asiakasomistajataloudesta S-käyttäjätilillä tai ilmoittamalla siitä S-ryhmän asiakasomistajapalveluun puh. 010 76 5858 ma-pe 9-16 (mpm/pvm).\n\nHuom! Asiakasomistajataloudesta poistaminen ei automaattisesti lopeta S-Pankin tuotteita ja palveluita, mutta niistä saatavat asiakasomistajaedut päättyvät. Mahdolliset tilin käyttöoikeudet ja tiliin liitetyt maksuominaisuuskortit tulee lopettaa erikseen. Lisätietoa S-Pankista.",
+        "syöte": "",
+        "ohje": "Muutoksia asiakasomistajataloudessa – miten poistan henkilön taloudestani tai miten poistun itse toisen henkilön taloudesta?"
+    },
+    {
+        "tulos": "S-ryhmän asiakasomistaja- ja asiakasrekisterissä olevien asiakastietojesi käyttämistä viestintään voit ohjata S-käyttäjätilin kautta tai ottamalla yhteyttä S-ryhmän asiakasomistajapalveluun puh. 010 76 5858 ma-pe 9-16 (mpm/pvm).\n\nMikäli valitset markkinoinnin eston, kiellät kaiken suoramarkkinoinnin ja tutkimuskyselyt, jolloin saat asiakasomistajana vain viralliset, osuuskaupan asiakasomistajuuteen liittyvät tiedotteet.\n\nJos et halua asiakasomistajuuteen liittyvää markkinointiviestintää paperisena postituksena, voit seurata esim. asiakasomistajaetuja ja Bonuksen kertymistä S-käyttäjätilillä sekä S-mobiilissa.",
+        "syöte": "",
+        "ohje": "Miten voin estää minulle lähetettävän markkinoinnin?"
+    },
+    {
+        "tulos": "Kun liityt osuuskaupan jäseneksi eli asiakasomistajaksi, saat 10-numeroisen jäsennumeron. Löydät sen S-Etukortiltasi sekä asiakastiedoistasi S-mobiilista ja S-käyttäjätililtä.\n\nMyös asiakasomistajatalouteen kuuluvien henkilöiden S-Etukortissa on oma, henkilökohtainen 10-numeroinen numerosarja. Se on asiointinumero, jota perheenjäsen käyttää, kuten asiakasomistaja jäsennumeroaan.\n\nS-Etukortissa jäsen-/asiointinumero löytyy osuuskaupan nimen yhteydestä. Jäsen-/asiointinumero ei ole sama kuin S-Etukortissa kortinhaltijan nimen yläpuolella oleva korttinumero.\n\nJäsen-/asiointinumeron neljä ensimmäistä numeroa kertovat osuuskaupan ja kuusi viimeistä oman yksilöivän jäsen-/asiointinumerosi. Numerosarjan muoto on siis 4 + 6 numeroa.",
+        "syöte": "",
+        "ohje": "Mistä löydän jäsennumeroni tai asiointinumeroni?"
+    },
+    {
+        "tulos": "S-ryhmällä on oikeus käyttää asiakkaan antamia tietoja markkinointiin ja tutkimuksiin ellei asiakas ole niitä erikseen kieltänyt. Tutkimuskyselyssä ei ole kyseessä markkinointiviestintä, vaan kyselyn tarkoituksena on kerätä asiakasomistajilta mielipiteitä S-ryhmän palvelujen kehittämiseksi. Markkinointi, joka kohdistuu asiakkaan mobiiliin päätelaitteeseen (matkapuhelimeen) tai sähköpostiin on kiellettyä, ellei asiakas ole erikseen antanut siihen suostumustaan.\n\nMikäli et halua saada tutkimuskyselyjä sähköpostiisi, voit lisätä niiden kiellon S-käyttäjätilillä.",
+        "syöte": "",
+        "ohje": "Sähköpostiosoitteeseeni lähetettiin tutkimuskysely, vaikka en ole antanut markkinointilupaa sähköpostiini. Miksi?"
+    },
+    {
+        "tulos": "S-ryhmä ei myy asiakkaidensa henkilötietoja. Esimerkiksi yhteistyökumppaneiden asiakasomistajille lähettämä markkinointi tehdään yhteistyössä S-ryhmän kanssa ilman rekisteritietojen luovuttamista yhteistyökumppanille.",
+        "syöte": "",
+        "ohje": "Myydäänkö osoitetietojani muille yrityksille?"
+    },
+    {
+        "tulos": "S-ryhmän asiakasomistaja- ja asiakasrekisteriin tallennetaan tietoja osuuskaupan asiakasomistajista sekä heidän asiakasomistajatalouksiinsa kuuluvista henkilöistä sekä muista asiakkaista, jotka ovat tilanneet joitain tämän rekisterin tietojen perusteella tuotettavia palveluita. Rekisteriin tallennetaan mm. asiakkaan asiakasomistajasopimuksella antamat tiedot kuten nimi, henkilötunnus, yhteystiedot ja asiakasomistajaksi liittymisaika sekä myöhemmin asiointitilanteissa annetut tiedot kuten tiedot tilatuista palveluista, kuten uutiskirjeistä.\n\nS-ryhmän asiakasomistaja- ja asiakasrekisteriin kerätään ostotiedot tuotetasolla S-marketeista, Prismoista, Saleista, Alepoista, Foodmarket Herkuista, Sokoksista, Sokos Emotioneista, Prisma Raudoista, S-Raudoista, ABC:ltä sekä Sokos-, Prisma- ja S-kaupat -verkkokaupoista. Ostotiedot S-ryhmän muista toimipaikoista (esim. hotellit, ravintolat) sekä yhteistyökumppaneilta kertyvät rekisteriin kuitin loppusummatasolla. Ostotietoja käytetään mm. Bonuksen ja muiden rahana maksettavien etujen laskentaan, markkinoinnin kohdentamiseen ja liiketoiminnan kehittämiseen. Rekisterissä on myös tiedot maksetuista Bonuksista ja muista rahana maksetuista eduista sekä etujen maksuosoitteesta.\n\nS-Pankin asiakkuuteen liittyviä tietoja hallinnoidaan S-Pankin asiakasrekisterissä www.s-pankki.fi.\n\nTarkempaa tietoa S-ryhmän asiakasomistajajärjestelmässä käsiteltävistä henkilötiedoista ja niiden käyttötarkoituksista sekä omista oikeuksistasi löydät S-ryhmän asiakasomistaja- ja asiakasrekisterin tietosuojainformaatiosta osoitteesta www.s-kanava.fi/tietosuoja. S-ryhmän  asiakasomistaja- ja asiakasrekisterin tietosuojaselosteen löydät osoitteesta https://www.s-kanava.fi/asiakasomistajuus/asiakasomistaja-ja-asiakasrekisteri/",
+        "syöte": "",
+        "ohje": "Mitä tietoja S-ryhmä kerää minusta ja ostoistani?"
+    },
+    {
+        "tulos": "Asiakasomistajatietoa (mm. asiakasomistajan perustiedot, ostohistoriatiedot) käytetään mm. Bonuksen, maksutapaedun ja ylijäämänpalautuksen laskentaan, jäsenhallinnon ja asiakaspalvelun hoitamiseen, viestinnän kohdentamiseen sekä etutarjonnan ja S-ryhmän liiketoiminnan, kuten valikoimien ja palveluverkoston kehittämiseen. Tietoja käytetään myös erilaisten asiakasomistajille tarkoitettujen palvelujen tuottamiseen.\n\nViestinnän kohdentamisen apuvälineenä käytetään mm. ostotietoja sekä tietoja joita asiakasomistaja on antanut asiakasomistajasopimuksessa tai myöhemmin.",
+        "syöte": "",
+        "ohje": "Mihin asiakasomistajista kerättyä tietoa käytetään?"
+    },
+    {
+        "tulos": "S-ryhmän asiakasomistaja- ja asiakasrekisterissä käsitellään asiakasomistajajärjestelmään liittyneiden asiakkaiden tietoja. Käytämme kerättyjä tietoja asiakasomistajien hyödyksi tuottamalla heille palveluja ja etuja.\n\nAsiakasomistajatietoa (mm. asiakasomistajan perustiedot, ostohistoriatiedot) käytetään mm. Bonuksen, maksutapaedun ja ylijäämänpalautuksen laskentaan, osuuskaupan jäsenhallinnon ja asiakaspalvelun hoitamiseen, asiakasviestinnän kohdentamiseen sekä etutarjonnan ja S-ryhmän liiketoiminnan, kuten valikoimien ja palveluverkoston kehittämiseen. Tietoja käytetään myös erilaisten asiakasomistajille tarkoitettujen palvelujen tuottamiseen.\n\nViestinnän kohdentamisen apuvälineenä käytetään mm. ostotietoja sekä tietoja joita asiakasomistaja on antanut asiakasomistajasopimuksessaan tai myöhemmin. Ostotietojen perusteella tuotetaan myös erilaisia palveluita asiakasomistajille, esim. Omat ostot -palvelu ja  sähköinen kuittiarkisto, jonne takuukuitit ja kassakuitit omista ostoistasi tallentuvat automaattisesti ja ovat saatavilla S-käyttäjätilillä sekä ja S-mobiilissa.\n\nAsiakasomistaja hyötyy ostotietojensa luovuttamisesta Bonuksen, maksutapaedun ja ylijäämänpalautuksen lisäksi mm. paremmin hänen tarpeitaan vastaavana viestintänä, etu- ja palvelutarjontana sekä toimipaikkaverkostona.\n\nSaat lisää tietoa S-ryhmän asiakasomistaja- ja asiakasrekisteriin kerättävistä tiedoista ja niiden käyttötarkoituksista tietosuojainformaatiosta osoitteesta www.s-kanava.fi/tietosuoja.",
+        "syöte": "",
+        "ohje": "Miten hyödyn asiakastietojeni keräämisestä?"
+    },
+    {
+        "tulos": "Voit valita kahdesta vaihtoehdosta:\n\nSähköinen rekisteriotteen tarkistus (nopein ja helpoin tapa):\nKirjaudu henkilökohtaiselle S-käyttäjätilillesi osoitteessa https://s-kayttajatili.fi/.\nTunnistaudu palvelussa vahvasti omilla pankkitunnuksillasi.\nRekisteriotteesi löydät S-käyttäjätililtä kohdasta “Omat tiedot” ja sieltä “Omat tiedot/Rekisteritiedot”.\nRekisteriotteen tilaaminen postitse:\nVoit tilata rekisteriotteesi kirjeenä myös postitse. Huomioithan, että toimitusaika on pidempi kuin sähköisellä rekisteriotteella.\nTäytä pyyntölomake osoitteessa https://rekisteriotepyynto.s-kanava.fi/#/input-details/.",
+        "syöte": "",
+        "ohje": "Miten ja mistä voin tarkistaa, mitä tietoja minusta löytyy S-ryhmän asiakasomistaja- ja asiakasrekisteristä?"
+    },
+    {
+        "tulos": "S-ryhmän asiakasomistaja- ja asiakasrekisterin rekisteriotteella näet kaikki sinusta tässä rekisterissä olevat tiedot. Tämä rekisteri on S-ryhmän suurin rekisteri. S-ryhmällä on kuitenkin muitakin henkilörekistereitä, esim. S-Pankki Oy:n asiakasrekisteri, hotellien S-Card kanta-asiakas -rekisteri ja ketjujen ja osuuskauppojen markkinointi- ja kilpailurekistereitä. Näiden muiden rekistereiden tiedot eivät näy S-ryhmän asiakasomistaja- ja asiakasrekisterin rekisteriotteella.\n\nJos haluat tarkastaa S-ryhmän asiakasomistaja- ja asiakasrekisterissä olevat tietosi, voit valita kahdesta vaihtoehdosta:\n\nSähköinen rekisteriotteen tarkistus (nopein ja helpoin tapa):\nKirjaudu henkilökohtaiselle S-käyttäjätilillesi osoitteessa https://s-kayttajatili.fi/.\nTunnistaudu palvelussa vahvasti omilla pankkitunnuksillasi.\nRekisteriotteesi löydät S-käyttäjätililtä kohdasta “Omat tiedot” ja sieltä “Omat tiedot/Rekisteritiedot”.\nRekisteriotteen tilaaminen postitse:\nVoit tilata rekisteriotteesi kirjeenä myös postitse. Huomioithan, että toimitusaika on pidempi kuin sähköisellä rekisteriotteella.\nTäytä pyyntölomake osoitteessa https://rekisteriotepyynto.s-kanava.fi/#/input-details/.",
+        "syöte": "",
+        "ohje": "Näenkö rekisteriotteellanne kaikki S-ryhmässä minusta olevat tiedot?"
+    },
+    {
+        "tulos": "S-ryhmän asiakasomistaja- ja asiakasrekisterin rekisteriselosteen mukaisesti rekisteriin voidaan kerätä ostotietoa tuotetasolla. Ostotietoja kerätään mm. Bonuksen ja muiden rahana maksettavien etujen laskemista ja maksamista varten, markkinoinnin kohdentamiseksi, liiketoiminnan kehittämiseksi ja erilaisten ostotietoja hyödyntävien palvelujen tuottamiseksi asiakasomistajille.\n\nEsimerkiksi takuukuitit sisältävät tuotetasoista ostotietoa.",
+        "syöte": "",
+        "ohje": "Miten asiakastietoihin voidaan yhdistää ostotietoja?"
+    },
+    {
+        "tulos": "Kyllä, voit kieltää tarkan ostotiedon käyttämisen S-käyttäjätilillä, kohdassa Asiakasomistajuus/Rajoitukset. Tällöin ostotietoja käytetään kuitin loppusummatasolla.\n\nVoit kuitenkin kerryttää Bonusta, vaikka kieltäisit tarkan ostotiedon käyttämisen.",
+        "syöte": "",
+        "ohje": "Voinko estää tuotetasoisten ostotietojen keräämisen?"
+    },
+    {
+        "tulos": "S-mobiilia voi käyttää iPhone- ja Android-älypuhelimilla. Varmista, että käytössäsi on seuraavat tai uudemmat käyttöjärjestelmät: iOS 12 tai Android 8.0.\n\nNäin tarkistat käyttöjärjestelmäversion:\n\niOS: Asetukset -> Yleiset -> Tietoja. Täältä löydät laitteen ohjelmistoversion ja puhelimen mallin.\nAndroid (esim. Samsung Galaxy S10): Asetukset -> Tietoja puhelimesta -> Ohjelmiston tiedot\nNäin päivität käyttöjärjestelmäversion:\n\niOS: Asetukset -> Yleiset -> Ohjelmistopäivitys\nAndroid (esim. Samsung Galaxy S10+): Asetukset -> Ohjelmistopäivitys\nAndroid (esim Nokia 3): Asetukset -> Järjestelmä -> Järjestelmäpäivitys",
+        "syöte": "",
+        "ohje": "Millä laitteilla S-mobiilia voi käyttää?"
+    },
+    {
+        "tulos": "S-mobiili on S-ryhmän asiakasomistajille tarkoitettu mobiilisovellus, joka sisältää asiakasomistajuuteen sekä S-Pankin asiakkuuteen liittyviä palveluja, bonustietoja sekä ajankohtaisia etuja.\n\nS-mobiilissa voit tarkastella muun muassa bonustietojasi, sähköisiä kassa- ja takuukuittejasi ja sinulle tarjottavia etuja. Sähköiset kuitit näet, kun olet ottanut ne käyttöön S-mobiilissa tai Omalla S-kanavalla.\n\nS-mobiili on myös pankki puhelimessasi. Voit tarkastella tilitapahtumia ja maksaa laskuja. Näet korttisi ja voit esimerkiksi muokata korttien turvarajoja ja tarkastella luottotapahtumia. Voit myös ostaa rahastoja ja seurata rahastosäästöjäsi sekä hoitaa laina-asioita. Lue lisää pankkipalveluista S-Pankin verkkosivuilta.",
+        "syöte": "",
+        "ohje": "Mikä on S-mobiili?"
+    },
+    {
+        "tulos": "S-mobiili 2.24.0 (päivitetty joulukuussa 2023):\n\nS-mobiilin asiakasomistajan osio uudistettu, nyt nimeltään S-Etukortti\nVoit kerätä Bonusta ja hyödyntää etuja nyt myös S-Etukortin viivakoodilla\nMerkitse suosikkitoimipaikkasi ja löydät entistä helpommin niiden edut ja kampanjat\nEdut selkeästi eroteltu muista sisällöistä\nBonus- ja oman kulutuksen seuranta yhdistetty samaan paikkaan Bonus ja Ostot -osiossa\nUlkonäköä päivitetty ja toimintojen saavutettavuutta parannettu\nS-mobiilin päivitysversio 2.22.0 (heinäkuu 2023):\n\nOtimme käyttöön korttimaksun lisävahvistusilmoitukset maksamisen turvallisuuden parantamiseksi. Saat ne käyttöösi, kun otat S-mobiilin ilmoitukset käyttöön Minä-osiosta kohdasta “Ilmoitukset”.\nParansimme sovelluksen käyttöönottoa ja virhetilanteiden käsittelyä\nS-mobiilin versio 2.21.0 (huhtikuu 2023):\n\nJotta voimme mahdollistaa sinulle jatkossa sopivampia palveluita, olemme päivittäneet S-mobiilin käyttöehdot ja kysymme sinulta suostumuksia esimerkiksi siihen, että voimme kerätä käyttötietoa sovelluksen käytöstä.\nVoit nyt tilata e-laskun suoraan S-mobiilissa maksamastasi laskusta.\nKäytettävyys- ja saavutettavuusparannuksia esimerkiksi ruudunlukijan toimivuuteen.\nS-mobiilin versio 2.20.0 (helmikuu 2023):\n\nDigitaalinen S-Etukortti Android-puhelimiin\nLöydät nyt myös S-ryhmän verkkopalveluiden edut S-mobiilista\nVoit vaihtaa S-Etukortti Visan tunnusluvun haluamaksesi",
+        "syöte": "",
+        "ohje": "Mitä parannuksia S-mobiiliin on viime aikoina tehty?"
+    },
+    {
+        "tulos": "S-mobiilin saavutettavuusseloste on nähtävissä täällä.",
+        "syöte": "",
+        "ohje": "Mistä löydän S-mobiilin saavutettavuusselosteen?"
+    },
+    {
+        "tulos": "Siirtymä sovelluksen uuteen versioon saattaa aiheuttaa ruuhkia, jotka ilmenevät tilapäisinä häiriöinä sovelluksen käyttöönoton yhteydessä, joten käyttöönottoa kannattaa yrittää myöhemmin uudelleen. Jos lataus ei etene, voit koittaa ottaa VPN:n pois päältä sekä vaihtaa Wi-Fi-verkosta mobiiliverkkoon tai toisin päin.\n\nKannattaa myös tutustua sovelluskaupan tarjoajan ohjeisiin, esim. Googlen Play Kaupan osalta täällä: https://support.google.com/googleplay/answer/7513003?hl=fi ja AppleStoren osalta täällä: https://support.apple.com/fi-fi/HT207165\n\nTarvittaessa voit vapauttaa laitteesta tilaa esim. poistamalla sovelluksia tai kuvia, tai tyhjentämällä Play-kaupan välimuistin asetuksista (-> tallennustila). Tämän sijainti voi vaihdella eri puhelinmallien kohdalla esim: Nokia:  Asetukset -> Tallennustila -> Muut sovellukset -> Google Play Kauppa tai Samsung (A3): Asetukset -> Laitteen ylläpito -> Tallennustila. Ja siellä on nappi “Vapauta tallennustilaa poistamalla tarpeettomat tiedot…”",
+        "syöte": "",
+        "ohje": "Mitä kannattaa tehdä, jos S-mobiilin päivittäminen uuteen versioon ei meinaa onnistua?"
+    },
+    {
+        "tulos": "Kehitämme jatkuvasti S-mobiilin toimintoja ja käytettävyyttä saamamme palautteen ja kehitystoiveiden pohjalta. Haluamme varmistaa, että kaikilla S-mobiilin käyttäjillä on käytössään uusin versio, joka varmistaa kaikkien uusimpien toimintojen saatavuuden.\n\nVoit päivittää sovelluksen uusimpaan versioon sovelluskaupassa. Jos olet sallinut sovellusten automaattipäivitykset, päivittyy S-mobiili automaattisesti.\n\nPäivitä sovellus hyvissä ajoin sinulle sopivana hetkenä. Päivittämällä S-mobiilin ajoissa, varmistat sovelluksen sujuvan käytön ennen vanhemman version käytön päättymistä.\n\nVoit tarkistaa nykyisen sovellusversion S-mobiilin Minä-osiosta, laitteesi asetuksista sovelluksen tiedoista tai sovelluskaupasta.",
+        "syöte": "",
+        "ohje": "Miksi S-mobiilisovellus pitää päivittää?"
+    },
+    {
+        "tulos": "Tarkista, onko sovelluksesta saatavilla uusi versiopäivitys ja lataa se sovelluskaupasta, jos on.\nJos et pysty käyttämään S-mobiilia lainkaan, poista sovellus puhelimestasi ja lataa se uudestaan sovelluskaupastasi.\nJos pystyt käyttämään S-mobiilia, mutta se ei toimi normaalisti, toimi seuraavasti:\nKirjaudu ulos sovelluksesta Minä-osiossa\nSulje S-mobiili avoinna olevien sovellusten joukosta\nAvaa sovellus kokonaan uudelleen ja kirjaudu uudelleen sisään\nVoit tarvittaessa ottaa meihin yhteyttä verkkopankin viestillä tai puhelimitse.\n\nKerro mahdollisimman tarkasti:\n\nMitä tapahtui ja milloin\nPuhelinmallisi (esim. iPhone 10)\nMikä puhelimen käyttöjärjestelmäversio sinulla on käytössä (esim. iOS 10.3.3 tai Android 7.0)\nS-mobiilin versio (löytyy S-mobiilin Minä-osiosta)",
+        "syöte": "",
+        "ohje": "S-mobiili ei toimi. Mitä teen?"
+    },
+    {
+        "tulos": "Lataa ensin S-mobiili puhelimesi sovelluskaupasta (toistaiseksi Google Play ja Applen AppStore). Voit ladata sovelluksen joko Android- tai iPhone-puhelimeen. Huomioithan, että kaikista Huawein Android-puhelimista ei ole pääsyä Google Play-kauppaan, jolloin näihin puhelimiin S-mobiilia ei toistaiseksi ole saatavilla.\n\nHuom! Turvallisuussyistä S-mobiilin voi ottaa käyttöön vain Suomessa.\n\nTarvitset ensimmäiseen kirjautumiseen S-Pankin tai jonkin toisen pankin verkkopankkitunnukset ja sinun tulee olla asiakasomistaja tai kuulua asiakasomistajatalouteen.\n\nS-mobiilin käyttöönotossa tehdään tekstiviestivahvistus, jotta sovelluksessa voidaan ottaa käyttöön myös pankin palvelut. Tätä varten S-Pankin asiakastiedoissasi tulee olla puhelinnumero, johon tekstiviestivahvistus voidaan lähettää. Numeron voi lisätä omiin asiakastietoihinsa joko S-Pankin verkkopankissa tai lähimmässä S-Pankin asiakaspalvelupisteessä.\n\nEnsimmäisen kirjautumisen yhteydessä saat käyttöösi S-mobiilin tunnistamisen, jonka avulla voit jatkossa kirjautua sormenjäljellä, itse valitsemallasi tunnusluvulla tai Face ID:llä niillä iOS-puhelimilla, joissa on kasvojentunnistustoiminto.\n\nS-mobiilissa voit tarkastella muun muassa bonustietojasi, sähköisiä kassa- ja takuukuittejasi ja sinulle tarjottavia etuja. Sähköiset kuitit näet, kun olet ottanut ne käyttöön S-mobiilissa tai Omalla S-kanavalla.\n\nS-mobiili on myös pankki puhelimessasi. Voit tarkastella tilitapahtumia ja maksaa laskuja. Näet korttisi ja voit esimerkiksi muokata korttien turvarajoja ja tarkastella luottotapahtumia. Voit myös ostaa rahastoja ja seurata rahastosäästöjäsi sekä hoitaa laina-asioita. Lue lisää pankkipalveluista S-Pankin verkkosivuilta.",
+        "syöte": "",
+        "ohje": "Miten otan S-mobiilin käyttöön?"
+    },
+    {
+        "tulos": "S-mobiilin toiminnot tarvitsevat tiettyjä laitteen käyttöoikeuksia toimiakseen. Tarvittavat oikeudet vaihtelevat hieman käyttöjärjestelmästä riippuen.\n\nEsimerkiksi oikeudet kameran/valokuvien käyttöön tarvitaan mm. laskujen maksamisessa viivakoodin avulla tai palaute-toiminnallisuudessa valokuvan liittämiseksi. Puhelimen oikeuksia tarvitaan, jotta sovelluksesta voidaan soittaa suoraan asiakaspalvelun puhelinnumeroihin. Toimipaikkahaku puolestaan käyttää paikannusta löytääkseen käyttäjää lähellä olevat toimipaikat.",
+        "syöte": "",
+        "ohje": "Miksi S-mobiili pyytää erilaisia käyttöoikeuksia?"
+    },
+    {
+        "tulos": "S-mobiililla tunnistautuminen nopeuttaa kirjautumista verkkopankkiin ja palveluihin, jotka vaativat verkkopankkitunnuksilla tunnistautumisen. S-mobiilin avulla voit kirjautua sormenjäljellä, itse valitsemallasi tunnusluvulla tai Face ID:llä niillä iOS-puhelimilla, joissa on kasvojentunnistustoiminto. Et tarvitse enää tunnuslukutaulukkoa kirjautumiseen tai tunnistautumiseen, mutta säilytäthän sen kuitenkin vielä. Tarvitset tunnuslukutaulukkoa edelleen, jos esimerkiksi vaihdat puhelinta tai unohdat tunnistuskoodisi. Voit ottaa tunnistamisen käyttöösi S-Pankin verkkopankkitunnusten tai toisen pankin verkkopankkitunnusten avulla. Katso tarkemmat ohjeet ja lue lisää S-Pankin verkkosivuilta.",
+        "syöte": "",
+        "ohje": "Miten voin käyttää S-mobiilia tunnistautumisvälineenä?"
+    },
+    {
+        "tulos": "S-mobiili on pankki puhelimessasi. Voit tarkastella tilitapahtumia ja maksaa laskuja. Näet korttisi ja voit esimerkiksi muokata korttien turvarajoja ja tarkastella luottotapahtumia. Voit myös ostaa rahastoja ja seurata rahastosäästöjäsi sekä hoitaa laina-asioita. Lue lisää pankkipalveluista S-Pankin verkkosivuilta.\n\nS-mobiili tuo käyttöösi myös kätevän Säästäjä-palvelun, joka tekee säästämisestä helppoa ja edullista. Säästäjä on Suomen ensimmäinen mikrosäästämisen palvelu, joka tekee säästämisestä ylivoimaisen helppoa. Säästäjän avulla voit kartuttaa säästöjä jokapäiväisen rahankäytön yhteydessä. Voit esimerkiksi mikrosäästää korttiostoksistasi, jolloin jokaisesta debit-korttitapahtumasta siirtyy oletuksena 1 euro säästöön. Oman profiilin kautta voit muuttaa säästösummaa 0,50-5 euron välillä. Voit myös ohjata Bonuksen suoraan rahastoon. Lue lisää Säästäjästä ja sen käyttöönotosta S-Pankin verkkosivuilta.",
+        "syöte": "",
+        "ohje": "Mitä S-Pankin palveluita voin käyttää S-mobiilissa?"
+    },
+    {
+        "tulos": "S-mobiilissa näytetään ensin sinulle relevanteimmaksi lasketut edut. Jos etu on voimassa useammassa toimipaikassa, näytetään sinulle näistä toimipaikoista lähin, mikäli olet sallinut paikannuksen. Jos et ole sallinut paikannusta, näet sinulle relevanteimmaksi laskemamme toimipaikan.\n\nS-mobiilin yleiset sisällöt näkyvät kaikkien eri osuuskauppojen asiakkaille, jokaiselle asiakkaalle relevantissa järjestyksessä. Tästä johtuen sisältövirrassa on etuja myös muualta päin Suomea ja muilta kuin omalta osuuskaupalta.\n\nHakutoiminnolla voit hakea tietyn toimipaikan voimassa olevia sisältöjä. Voit hakea etukuponkeja tai muita sisältöjä toimipaikan nimellä, osoitteella tai paikkakunnalla. Jos käytät esimerkiksi hakusanaa ”ravintola”, saat hakutuloksena sellaiset toimipaikat, joiden nimessä tai osoitteessa esiintyy sana ”ravintola”.\n\n",
+        "syöte": "",
+        "ohje": "Mihin S-mobiilin etujen näyttäminen perustuu?"
+    },
+    {
+        "tulos": "Jos olet kieltänyt analytiikan, profiloinnin ja asiakasryhmittelyn tai tuotetasoisen ostotiedon käsittelyn, emme voi käyttää kaikkia tietojasi etukuponkien ja muiden sisältöjen kohdentamisessa.  Kohdennettujen etujen näyttämisen estää myös se, jos asiakasomistajatalouteesi liitetty henkilö on lisännyt itselleen edellä mainitut kiellot. Tällöin tarjolla olevat sisällöt näytetään järjestettynä toimipaikan etäisyyden suhteessa Helsingin rautatieasemaan. Emme voi myöskään näyttää etuja, jotka on tarkoitettu vain täysi-ikäisille (kuten alkoholiin liittyvät edut). Kaikki muut yleiset edut ovat kuitenkin saatavillasi. Etuja voi hakea myös suoraan kirjoittamalla hakukenttään esim. Prisma. Huomioithan, että valitset oikean toimipaikan, listassa voi näkyä myös Prisman yhteydessä olevat muut myymälät ja palvelupisteet.\n\nJos lisäät näitä rajoituksia asiakastietoihisin, tieto estosta päivittyy suosittelulaskentaan ja tuo muutokset Edut ja vinkit-näkymään viimeistään kahden päivän kuluttua.\n\nSamoin jos perut eston, tieto päivittyy suosittelulaskentaan ja tuo muutokset etusisältöihin viimeistään kahden päivän kuluttua.",
+        "syöte": "",
+        "ohje": "Miten erilaiset kieltotiedot vaikuttavat S-mobiilin etuihin?"
+    },
+    {
+        "tulos": "Voit muokata asiakkuuteesi liittyvien tietojen käsittelyä ja hyödyntämistä S-käyttäjätilin kautta. Lisätietoa S-käyttäjätilistä",
+        "syöte": "",
+        "ohje": "Missä voin muokata itselläni voimassaolevia rajoituksia?"
+    },
+    {
+        "tulos": "Viestien saapumisessa voi ajoittain esiintyä viivettä. Jos et ole saanut vahvistuskoodia muutaman minuutin kuluessa, tilaa uusi vahvistuskoodi. Varmistathan myös, että olet ilmoittanut puhelinnumerosi oikein.",
+        "syöte": "",
+        "ohje": "Yritän ottaa S-mobiilin käyttöön, mutta en saanut vahvistustekstiviestiä. Mitä minun täytyy tehdä?"
+    },
+    {
+        "tulos": "Sisällöllä voi olla eri julkaisuajankohta kuin voimassaolon ajankohta. Näin ollen esimerkiksi etukuponki voi olla näkyvissä, ennen kuin se voidaan lunastaa. Tällä halutaan varmistaa, että olet tietoinen edusta jo ennen kuin etu on voimassa. Tällöin lunastuspainike on valkoinen.",
+        "syöte": "",
+        "ohje": "Miksi en saa S-mobiilin etukuponkia lunastettua?"
+    },
+    {
+        "tulos": "S-mobiilin käyttö on turvallista. Huolehdi kuitenkin älypuhelimesi turvallisesta säilyttämisestä ja käytöstä. Laitteen suojaamiseksi on suositeltavaa käyttää suojakoodia tai biometriikkaa (kasvojentunnistus tai sormenjälki). Lataa älypuhelimeesi sovelluksia vain virallisista sovelluskaupoista (Google Play ja Apple AppStore) ja huolehdi puhelimesi tietoturvasta.\n\nJos kadotat laitteen, jolla olet kirjautuneena S-mobiiliin S-Pankin pankkitunnuksilla, tai muutoin ilmenee vaara tai epäilys S-mobiilin oikeudettomasta käytöstä, ota yhteyttä pankkitunnusten sulkupalveluun ja pyydä sulkupalvelua estämään palvelun käyttö. Pankkitunnusten sulkupalvelun numero on 09 6964 6820 (24 h/vrk, pvm/mpm), jos soitat ulkomailta, käytä numeroa +358 9 6964 6820. Jos pankkitunnukset suljetaan, sulkeutuu S-mobiili kaikista rekisteröidyistä laitteista. Vaihtoehtoisesti voit myös sulkea pelkän S-mobiilin haluamaltasi laitteelta, jolloin kyseisellä laitteella tulee kirjautua uudelleen S-Pankin verkkopankin salasanalla sisään. S-mobiilin sulkeminen laitteelta onnistuu verkkopankin välilehdeltä Asetukset / S-mobiili tai kirjautuneena toisella laitteella S-mobiiliin: Minä / Tunnistaminen / Poista käytöstä.\n\nJos olet kirjautuneena S-mobiiliin jonkin muun pankin pankkitunnuksilla, ota yhteyttä S-ryhmän asiakasomistajapalveluun p. 010 76 5858 (mpm/pvm) ja pyydä estämään palvelun käyttö. Jos soitat ulkomailta, käytä numeroa +358 10 76 5858.",
+        "syöte": "",
+        "ohje": "Mitä teen, jos puhelimeni katoaa tai varastetaan? Miten käytän S-mobiilia turvallisesti?"
+    },
+    {
+        "tulos": "Voit ladata S-mobiilin sovelluskaupasta ja rekisteröityä käyttäjäksi alusta alkaen, aivan samoin kuin aiemmin toisella laitteellasi. S-mobiilin laitemäärää ei ole rajoitettu, vaan voit olla rekisteröityneenä S-mobiiliin useammalla laitteella.\n\nJos otat S-mobiilin käyttöön S-Pankin pankkitunnuksilla toiseen laitteeseen, kannattaa sinun käyttöönoton jälkeen poistaa tarpeettomat laitteet: Minä / Tunnistaminen / Poista käytöstä.",
+        "syöte": "",
+        "ohje": "Vaihdoin puhelinta, miten voin ottaa S-mobiilin käyttöön toiseen laitteeseen, kun olen ottanut sen jo käyttöön toisella laitteella?"
+    },
+    {
+        "tulos": "Kun olet valinnut S-mobiilin käyttökieleksi ruotsin, näytetään sisältö ruotsiksi silloin, kun siitä löytyy ruotsinkielinen versio, ja muussa tapauksessa suomeksi.",
+        "syöte": "",
+        "ohje": "Olen ottanut S-mobiilin käyttöön ruotsin kielellä, miksi minulla näkyy sekä suomen- että ruotsinkielisiä sisältöjä?"
+    },
+    {
+        "tulos": "Etukupongit voidaan käyttää kerran ja vain yhdessä edun toimipaikassa. Kuponki näytetään ja käytetään kassalla, jonka jälkeen se ei ole enää käytettävissä uudelleen.",
+        "syöte": "",
+        "ohje": "Kuinka monta kertaa S-mobiilin etukupongin voi käyttää?"
+    },
+    {
+        "tulos": "S-mobiilin ilmoituksia hallitaan S-mobiilin asetuksista. Sovelluksen käyttäjä voi halutessaan kytkeä kaikki ilmoitukset pois päältä tai valita saavansa vain osan ilmoituksista, esimerkiksi tiedot uusista sähköisistä kuiteista tai etukupongeista.",
+        "syöte": "",
+        "ohje": "S-mobiili ilmoittaa uusista sähköisistä kuiteista puhelimen ilmoitusten avulla. Miten ilmoitukset voi kytkeä pois päältä?"
+    },
+    {
+        "tulos": "Jos S-mobiili ei näy puhelimesi sovelluskaupassa (Google play tai Appstore), se voi johtua käyttämäsi sovelluskaupan maa-asetuksista.\n\nNäin vaihdat sovelluskaupan maa-alueen:\n\niOS-laitteet (Appstore)\n\nAvaa iOS-laitteessasi Appstore\nKlikkaa oikean yläkulman profiilikuvaketta\nNapauta oman tilisi nimeä (esim. Matti Meikäläinen) ja siirryt tilin asetuksiin\nAvaa ”Maa/alue”\nValitse Storea varten maa tai alue joka vastaa maksutapasi laskutusosoitetta: Suomi\nAndroid-laitteet (Google Play)\n\nAvaa Android-laitteella Google Play Kauppa-sovellus\nNapauta oikeassa yläkulmassa olevaa profiilikuvaketta\nValitse Asetukset -> Yleiset -> Tili- ja laiteasetukset -> Maa ja profiilit\nValitse maa, jolle haluat lisätä tilin\nLisää maalle maksutapa seuraamalla ohjeita näytöllä",
+        "syöte": "",
+        "ohje": "Miksi S-mobiilisovellus ei näy puhelimeni sovelluskaupassa (Google Play tai Appstore)?"
+    },
+    {
+        "tulos": "S-mobiilissa tarjottavat edut näkyvät kirjautuneelle asiakasomistajalle myös Yhteishyvän nettisivuilla, Edut ja vinkit-osiossa (https://yhteishyva.fi/edut). Voit myös lunastaa edut sitä kautta, kun kirjaudut Yhteishyvän sivuille mobiililaitteella.\n\nSamat edut ja lunastusmahdollisuudet löydät myös osoitteesta S-käyttäjätili.fi.",
+        "syöte": "",
+        "ohje": "Miten voin lunastaa S-mobiilissa tarjotut edut, jos käytössäni ei ole S-mobiilisovellusta?"
+    },
+    {
+        "tulos": "Kyse on fyysisen S-Etukortin digitaalisesta versiosta, jonka voi ladata Android-puhelimen S-mobiiliin. Digitaalisen S-Etukortin avulla saat puhelimella samat edut kuin S-Etukortillakin:\n\nBonusta jopa 5 %\nMaksutapaetua 0,5 % maksettaessa Google Paylla (S-Etukortti Visalla)\nAsiakasomistajaedut *)\nSähköiset kassakuitit ja takuukuitit, jos olet ottanut palvelut käyttöön\nPaperiton asiointi, jos olet luopunut paperikuiteista\n*) S-mobiilin etukupongit lunastetaan normaaliin tapaan näyttämällä avattu etukuponki kassalla ja klikkaamalla “Lunasta kuponki”-painiketta.",
+        "syöte": "",
+        "ohje": "Mikä on digitaalinen S-Etukortti? "
+    },
+    {
+        "tulos": "Digitaalinen S-Etukortti on saatavilla S-mobiilin 2.20.0 versiosta alkaen Android-älypuhelimilla, joissa on NFC-lähilukuominaisuus ja joiden Android–versio on 8.0 tai uudempi. \n\nDigitaalinen S-Etukortti löytyy S-mobiilin Minä-osiosta, josta pääset siirtymään käyttöönottoon. Käyttöohjeisiin tutustuminen on osa S-Etukortin käyttöönottoa.  S-kanavalta https://www.s-kanava.fi/digitaalinen-s-etukortti löydät ohjeet ja opasvideot, joissa opastetaan digitaalisen S-Etukortin käyttöönotossa ja käytössä. ",
+        "syöte": "",
+        "ohje": "Mistä digitaalisen S-Etukortin saa? "
+    },
+    {
+        "tulos": "Ei voi. Maksaa voi haluamallaan tavalla – mobiilimaksusovelluksella kuten Google Paylla, maksukortilla, käteisellä tai lahjakortilla.",
+        "syöte": "",
+        "ohje": "Voiko digitaalisella S-Etukortilla maksaa? "
+    },
+    {
+        "tulos": "Maksaa voi haluamallaan tavalla – mobiilimaksusovelluksella kuten Google Paylla, maksukortilla, käteisellä tai lahjakortilla.",
+        "syöte": "",
+        "ohje": "Mitä maksutapoja voin käyttää digitaalisen S-Etukortin kanssa? "
+    },
+    {
+        "tulos": "Kyllä, saat 0,5 % maksutapaetua, kun maksat ostot Google Paylla, jossa maksukorttina on S-Etukortti Visa (pois lukien Food Market Herkku, maksut hotellien vastaanotoissa sekä toistaiseksi kahvilat ja ravintolat). Kirjaa ensin Bonus digitaalisella S-Etukortilla ja siirry tämän jälkeen maksamaan Google Payn kautta S-Etukortti Visa-kortilla.",
+        "syöte": "",
+        "ohje": "Saanko maksutapaetua digitaalisen S-Etukortin käytön yhteydessä?"
+    },
+    {
+        "tulos": "Digitaalinen S-Etukortti on käytössä seuraavissa S-ryhmän paikoissa:​\n\nPrisma, S-market, Sale, Alepa, ABC Market, Food Market Herkku​\nSokos, Emotion​\nPrisma Rauta​\nSokos Hotels, Radisson Blu Hotels, Radisson RED Hotels​\nkahvilat ja ravintolat (pois lukien Hesburger), jotka löydät raflaamo.fi-sivulta",
+        "syöte": "",
+        "ohje": "Missä digitaalista S-Etukorttia voi käyttää?"
+    },
+    {
+        "tulos": "Digitaalinen S-Etukortti on toistaiseksi käytössä vain Android-puhelimissa.\n\nMuiden puhelinten käyttäjille S-mobiilin uusimmasta versiosta (2.24.0) löytyy S-Etukortin viivakoodi, jolla voi kerryttää Bonusta ja hyödyntää etuja mm. ruokakaupoissa, Sokoksella ja Prisma Raudassa. Lue lisää täältä.",
+        "syöte": "",
+        "ohje": "Voiko Applen puhelimella käyttää digitaalista S-Etukorttia? "
+    },
+    {
+        "tulos": "S-mobiili tulee avata kassalla, mutta kirjautumista ei tarvitse tehdä. S-mobiilin alareunaan tulee näkyviin toimintakehote, joka kertoo, että S-Etukortti on käytössä.\n\nVie puhelin maksupäätteen lähilukualueelle Bonuksen kirjausta varten. Useissa maksupäätteissä lähilukualue on vasemmassa sivussa (lähilukualue on sama kuin maksukorteillekin).\nKun Bonuksen kirjaus on onnistunut, maksupääte ilmoittaa ”Bonus ok” ja S-mobiiliin tulee ilmoitus ”Bonus kirjattu”.\nTämän jälkeen sulje S-mobiili ja maksa haluamallasi maksutavalla tai käytä Avaa maksusovellus -linkkiä siirtyäksesi maksusovellukseen (esim. Google Payhin).",
+        "syöte": "",
+        "ohje": "Miten käytän digitaalista S-Etukorttia? "
+    },
+    {
+        "tulos": "Katso, että puhelimesi asetusten valinnat on tehty oikein eli NFC on päällä ja olet valinnut aktiiviseksi ”maksa avoimella sovelluksella ”- valinnan, jotta Bonuksen kirjaaminen onnistuu ennen maksua. (Sanoitus vaihtelee puhelinmalleittain.)\nVie puhelin maksupäätteelle rauhallisesti. Maksupäätteen lähilukualue on useimmiten maksupäätteen vasemmassa sivussa.\nVarmista, että S-mobiili pysyy aktiivisena, kun viet puhelimesi maksupäätteelle. Jos vahingossa suljet S-mobiilin, maksupääte siirtyy suoraan maksuvaiheeseen ja maksu veloitetaan käyttämästäsi maksusovelluksesta ilman Bonuksen kirjaamista.\nSujuvimmin luku onnistuu, kun viet puhelimen takaosan kohti maksupäätettä. Huomio, että puhelimen kuori voi hidastaa tai estää lähiluvun.\nDigitaalisen S-Etukortin käyttöasetuksista voit tarkistaa, onko S-Etukortti käytössäsi suositelluilla asetuksilla. Käyttöasetukset löydät Minä-osion digitaalinen S-Etukortti -kohdasta.",
+        "syöte": "",
+        "ohje": "Mistä johtuu, ettei Bonuksen kirjaaminen onnistu, kun maksan Google Payllä tai muulla mobiilimaksusovelluksella? "
+    },
+    {
+        "tulos": "Sulje S-mobiili Bonuksen kirjaamisen jälkeen tai siirry S-mobiilin toimintakehotteen ”Avaa maksusovellus” -linkistä maksusovellukseen (esim. Google Payhin).\n\nVarmista, että olet valinnut käyttämäsi mobiilimaksusovelluksen ”oletusmaksusovellukseksi” puhelimesi asetuksista. S-mobiilissa oleva digitaalinen S-Etukortti ei ole maksusovellus, joten sillä ei voi maksaa. Mikäli S-mobiili on valittu puhelimen oletusmaksusovellukseksi, maksaminen ei onnistu Google Payllä tai muilla mobiilimaksusovelluksilla, koska puhelimesi tarjoaa maksupäätteelle maksuvaiheessa S-Etukortin eikä maksukortin tietoja.\n\nVarmista, että puhelimesi asetusten valinnat on tehty oikein eli ”maksa avoimella sovelluksella ” -valinta on aktiivinen (sanoitus vaihtelee puhelinmalleittain.) Tällöin Bonusten kirjaaminen onnistuu ennen maksamista ja maksuvaiheessa maksupääte pääsee lukemaan maksusovelluksen tiedot.\n\nDigitaalisen S-Etukortin käyttöasetuksista voit tarkistaa, onko S-Etukortti käytössäsi suositelluilla asetuksilla. Käyttöasetukset löydät Minä-osion digitaalinen S-Etukortti -kohdasta.",
+        "syöte": "",
+        "ohje": "Mistä johtuu, ettei maksaminen Google Payllä tai muilla mobiilimaksusovelluksilla enää onnistu, kun olen ottanut käyttöön digitaalisen S-Etukortin S-mobiilissa? "
+    },
+    {
+        "tulos": "Mobiilikupongit lunastetaan normaaliin tapaan näyttämällä avattu etukuponki kassalla ja klikkaamalla “Lunasta kuponki”-painiketta ennen maksua.",
+        "syöte": "",
+        "ohje": "Miten lunastan S-mobiilin etukupongin käyttäessäni Digitaalista S-Etukorttia? "
+    },
+    {
+        "tulos": "Bonuksen kirjauksen jälkeen maksupääte siirtyy maksuvaiheeseen. Mikäli S-mobiili on avoimena puhelimessa ja puhelin on maksupäätteen lähilukualueella, maksupääte yrittää lukea maksuvälineen tietoja S-mobiilin digitaaliselta S-Etukortilta, mutta ei tunnista tätä, koska kyseessä ei ole maksuväline.",
+        "syöte": "",
+        "ohje": "Miksi maksupääte ilmoittaa ”Tuntematon kortti” digitaalisen S-Etukortin käytön yhteydessä? "
+    },
+    {
+        "tulos": "Digitaalisen S-Etukortin käyttöön tarvitaan älypuhelin, jossa on vähintään Android-käyttöjärjestelmän versio 8.0 ja NFC-lähilukutoiminto. NFC-lähilukutoiminnallisuutta tarvitaan myös lähimaksamiseen. NFC-toiminnon tulee olla päällä, jotta S-Etukortin lähiluku maksupäätteellä onnistuu. Tietyissä puhelinmalleissa kuten esim. OnePlus- ja Huawein puhelimilla puhelimen asetuksissa ei ole mahdollistettu oletusmaksusovelluksen ohitusta, joten digitaalisen S-Etukortin yhteiskäyttö mobiilimaksusovelluksen kanssa ei onnistu.",
+        "syöte": "",
+        "ohje": "Millaisen puhelimen tarvitsen, jotta voin ottaa digitaalisen S-Etukortin käyttöön puhelimessani? "
+    },
+    {
+        "tulos": "Kaikissa puhelinmalleissa ei ole asetusta, joka mahdollistaa oletusmaksusovelluksen ohituksen, jolloin digitaalisen S-Etukortin ja maksusovelluksen yhteiskäyttö ei toimi sujuvasti. Esimerkiksi One Plus-puhelinmalleista ja osasta Huawein puhelinmalleista puuttuu kyseinen asetus.",
+        "syöte": "",
+        "ohje": "Miksi puhelimeni asetuksista ei löydy ”maksa avoimella sovelluksella” asetusta, jonka avulla voin ohittaa oletusmaksusovelluksen? "
+    },
+    {
+        "tulos": "Digitaalinen S-Etukortti toimii ainoastaan Android-puhelimissa, joissa on NFC-lähilukuominaisuus, sekä asetus oletusmaksusovelluksen ohitukseen. Mikäli puhelimesi ei tue näitä, ei digitaalisen S-Etukortin käyttö ole mahdollista. Tuki saattaa puuttua esim. tietyistä OnePlus-malleista sekä Cubot-, Doogee-, Oukitel, Blackview- ja Ulefone-puhelimista.\n\nDigitaalinen S-Etukortti on käytössä seuraavissa S-ryhmän paikoissa: Prisma, S-market, Sale, Alepa, ABC Market, Food Market Herkku, Sokos, Emotion, Prisma Rauta, Sokos Hotels, Radisson Blu Hotels, Radisson RED Hotels sekä kahvilat ja ravintolat (pois lukien Hesburger).\n\nVie puhelin rauhallisesti maksupäätteen NFC-lukualueelle. Pidä puhelinta paikallaan, seuraa maksupäätteen näytön tekstejä ja odota, että maksupääte kuittaa Bonuksen luetuksi.\n\nJos edellä mainitut asiat ovat kunnossa, mutta digitaalisen S-Etukortin käyttö ei silti onnistu, olethan yhteydessä asiakaspalveluumme p. 010 76 5858, ma-pe 9-16 (0,084 €/min). Asian selvittämiseksi kerrothan asiakastietojesi lisäksi seuraavat tiedot:\n\nPuhelimesi malli ja käyttöjärjestelmän versio\nMissä toimipaikassamme asioit\nAsiointihetken päivämäärä ja kellonaika\nOstosten summa\nKuvaus, mitä tapahtui",
+        "syöte": "",
+        "ohje": "Mitä teen, jos digitaalinen S-Etukortti ei toimi lainkaan?"
+    },
+    {
+        "tulos": "NFC tulee sanoista near field communication. NFC-lähilukuteknologiaa käytetään mm. maksukorttien lukemisessa ja sen avulla ostokset voidaan maksaa lähimaksuna. NFC-lähilukua tarvitaan myös, kun kirjaat ostoistasi Bonuksen S-mobiilin digitaalisella S-Etukortilla tai kun maksat ostokset älypuhelimesi maksusovelluksella esim. Google Payllä. NFC-lähilukua käyttäessäsi vie puhelimesi rauhallisesti maksupäätteen lähilukualueelle.\n\nJos olet ottanut käyttöön S-mobiilin digitaalisen S-Etukortin, sinun täytyy antaa puhelimesi asetuksissa S-mobiilille lupa ohittaa oletusmaksusovellus esim. Google Pay. Näin NFC:tä käytetään ensin Bonuksen kerryttämiseen eikä maksupääte siirry heti veloittamaan maksua.\n\nVaikka S-mobiilin digitaaliselle S-Etukortille on annettu lupa ohittaa puhelimen oletusmaksusovellus, se ei estä lähimaksamista puhelimesi oletusmaksusovelluksella. Voit maksaa ostokset Google Payhin lisäämälläsi maksukortilla Bonuksen kirjaamisen jälkeen, kun S-mobiili on suljettu. S-mobiilissa kerrotaan Bonuksen kirjauksen jälkeen “Bonus kirjattu” ja ”Avaa maksusovellus” -linkistä pääset siirtymään Google Payhin. Kun käytät oletusmaksusovellusta muissa kuin S-ryhmän liikkeissä, eikä S-mobiili ole avoimena, pääset suoraan maksuvaiheeseen.",
+        "syöte": "",
+        "ohje": "Mitä tarkoittaa NFC ja miten se liittyy digitaaliseen S-Etukorttiin? "
+    },
+    {
+        "tulos": "Puhelimen asetuksissa on eroavaisuuksia puhelinmallista riippuen. Näin voit etsiä NFC-lähilukutoiminnallisuuden asetukset puhelimestasi:\n\nAvaa Asetukset\nKirjoita Hakuasetukset-kenttään NFC\nJos NFC:tä ei löydy, puhelimessasi ei voi käyttää digitaalista S-Etukorttia tai lähimaksamista.\nJos NFC löytyy, laita se päälle",
+        "syöte": "",
+        "ohje": "Miten voin selvittää, onko puhelimessani NFC-lähilukutoiminto ja laittaa NFC:n päälle? "
+    },
+    {
+        "tulos": "Jotta Bonus voidaan kirjata ennen maksamista, digitaalinen S-Etukortti voi S-mobiilin aktivoituna ollessa ohittaa mobiilimaksamiseen määritellyn oletusmaksusovelluksen.  Siksi puhelimen asetuksista tulee valita oletusmaksusovelluksen asetukseksi “Maksa avoimella sovelluksella”.\n\nOletusmaksusovellusten asetukset löydät esim. Samsungin useimmista puhelinmalleista seuraavilla tavoilla:\n\nVaihtoehto 1: \n\nAvaa asetukset  \nYhteydet  \nNFC ja kontaktittomat maksut: jos NFC ei ole päällä, laita se päälle \nKontaktittomat maksut \nValitse oletusmaksupalvelu: esim. Google Pay \nValitse ”Maksa avoimella sovelluksella”  \n \n\nVaihtoehto 2:\n\nAvaa asetukset\nBluetooth ja laiteyhteys\nLähimaksut\nValitse Oletusmaksusovellukseksi: esim. Google Pay \nValitse: ”Käytä oletusta – Paitsi jos jokin toinen maksusovellus on auki”",
+        "syöte": "",
+        "ohje": "Miten puhelimen asetuksia tulee muuttaa, jotta digitaalinen S-Etukortti toimii sujuvasti Google Payn kanssa? "
+    },
+    {
+        "tulos": "Joskus puhelimelle kuittaus saattaa tulla jo ennen kuin maksupääte on ehtinyt reagoida loppuun asti. Jos puhelimen tässä kohtaa vie pois päätteen luota, signaali ehtii katketa eikä Bonus kirjautunutkaan.\n\nVie puhelin siis rauhallisesti maksupäätteen NFC-lukualueelle. Pidä puhelinta paikallaan, seuraa maksupäätteen näytön tekstejä ja odota, että maksupääte kuittaa Bonuksen luetuksi.\n\nJos Bonus ei tästä huolimatta kirjaudu, olethan yhteydessä asiakaspalveluumme 010 76 5858, ma-pe 9-16 (0,084 €/min).",
+        "syöte": "",
+        "ohje": "S-mobiili näyttää, että Bonus olisi kirjattu digitaalisella S-Etukortilla, mutta Bonus ei kuitenkaan kirjautunut?"
+    },
+    {
+        "tulos": "Jos puhelimessasi on erotettu työ- ja henkilökohtainen profiili, S-mobiili kannattaa asentaa henkilökohtaiseen profiiliin, koska työprofiilissa voi olla rajoituksia maksusovelluksiin tai lähilukutoiminnallisuuden käyttöön.",
+        "syöte": "",
+        "ohje": "Voinko käyttää digitaalista S-Etukorttia puhelimeni työprofiilin kautta? "
+    },
+    {
+        "tulos": "S-Etukortin viivakoodi löytyy S-mobiilista (uusimmasta 2.24.0 versiosta). Sen tavoitteena on palvella erityisesti niitä asiakasomistajia, jotka eivät kanna fyysistä S-Etukorttia mukanaan. Se on saatavilla sekä iPhone- että Android-puhelimien käyttäjille.\nS-Etukortin viivakoodin avulla saa puhelimella lähes samat edut kuin fyysisellä S-Etukortillakin:\nBonusta jopa 5 %\nAsiakasomistajaedu\nMaksutapaetua 0,5% maksettaessa S-Etukortti Visa-kortilla Google Payn kautta (pois lukien Food Market Herkku)\nSähköiset kassakuitit ja takuukuitit (paperikuitti tulostuu, vaikka olisit valinnut paperittoman asioinnin)",
+        "syöte": "",
+        "ohje": "Mikä on S-Etukortin viivakoodi ja mistä sen saa?"
+    },
+    {
+        "tulos": "S-Etukortin viivakoodi on käytössä kaikissa S-ryhmän päivittäistavarakaupoissa (Prisma, S-market, Alepa, Sale, Food Market Herkku, ABC Market), Sokos-, Emotion- ja Prisma Rauta -myymälöissä sekä ABC Ravintoloissa ympäri Suomen. Viivakoodi ei toistaiseksi ole käytössä pikakassoilla.\nOtamme S-Etukortin viivakoodin käyttöön vaiheittain. Tavoitteena on saada ominaisuus käyttöön tulevaisuudessa mahdollisimman laajasti.",
+        "syöte": "",
+        "ohje": "Missä S-Etukortin viivakoodia voi käyttää?"
+    },
+    {
+        "tulos": "S-Etukortin viivakoodia ei toistaiseksi voi käyttää pikakassoilla, S-ryhmän hotelleissa, kahviloissa tai ravintoloissa (lukuun ottamatta ABC Ravintoloita).",
+        "syöte": "",
+        "ohje": "Missä S-Etukortin viivakoodia ei voi käyttää?"
+    },
+    {
+        "tulos": "Teknisistä syistä johtuen S-Etukortin viivakoodia käytettäessä paperikuitti tulostuu toistaiseksi kaikista ostoista.",
+        "syöte": "",
+        "ohje": "Miksi sain S-Etukortin viivakoodilla paperikuitin, vaikka olen valinnut paperittoman asioinnin?"
+    },
+    {
+        "tulos": "Maksutapaetu kertyy toistaiseksi vain, kun ostot maksaa joko fyysisellä S-Etukortti Visa-kortilla tai Google Payn kautta S-Etukortti Visa -kortilla (pois lukien Food Market Herkku).",
+        "syöte": "",
+        "ohje": "Saako S-Etukortin viivakoodilla maksutapaetua?"
+    },
+    {
+        "tulos": "Kyllä, S-Etukortin viivakoodia voivat käyttää sekä iPhone- että Android-käyttäjät.",
+        "syöte": "",
+        "ohje": "Voiko S-Etukortin viivakoodia käyttää iPhonella?"
+    },
+    {
+        "tulos": "Avaa S-mobiili kassalla ja kirjaudu sisään. Löydät S-Etukortin viivakoodin S-Etukortti-osiosta.\nAnna myyjän lukea S-Etukortin viivakoodi ennen ostosten maksua. S-Etukortin viivakoodi ei toistaiseksi ole käytössä pikakassoilla.\nMaksa haluamallasi maksutavalla.",
+        "syöte": "",
+        "ohje": "Miten käytän S-Etukortin viivakoodia?"
+    },
+    {
+        "tulos": "S-mobiilin etukupongit lunastetaan normaaliin tapaan näyttämällä avattu etukuponki myyjälle kassalla ja klikkaamalla “Lunasta kuponki” -painiketta ennen maksua. Voit käyttää etukupongin joko ennen tai jälkeen S-Etukortin viivakoodin näyttämisen.",
+        "syöte": "",
+        "ohje": "Miten lunastan S-mobiilin etukupongin käyttäessäni S-Etukortin viivakoodia?"
+    },
+    {
+        "tulos": "Kyllä, sinun tulee pystyä kirjautumaan S-mobiili -sovellukseen, josta S-Etukortin viivakoodi löytyy. Tämä ei onnistu ilman internet-yhteyttä.",
+        "syöte": "",
+        "ohje": "Tarvitseeko puhelimeni olla yhteydessä internetiin käyttääkseni S-Etukortin viivakoodia?"
+    },
+    {
+        "tulos": "S-Etukortin viivakoodi löytyy S-mobiili -sovelluksesta (uusimmasta 2.24.0 versiosta). Se on saatavilla sekä iPhone, että Android-puhelimien käyttäjille kunhan puhelimeen on mahdollisuus ladata S-mobiilisovellus.",
+        "syöte": "",
+        "ohje": "Millaisen puhelimen tarvitsen, jotta voin ottaa S-Etukortti viivakoodin käyttöön?"
+    },
+    {
+        "tulos": "S-Etukortin viivakoodi on toistaiseksi käytössä S-ryhmän päivittäistavarakaupoissa (Prisma, S-market, Alepa, Sale, Food Market Herkku, ABC Market), Sokos-, Emotion- ja Prisma Rauta -myymälöissä sekä ABC Ravintoloissa. Muissa ravintoloissa, kahviloissa tai hotelleissamme S-Etukortin viivakoodi ei vielä ole käytössä. Huomioithan, ettei S-Etukortin viivakoodi toistaiseksi toimi pikakassoillamme.\nJos puhelimesi näytössä säröjä tai siinä on tietosuojakalvo, ei S-Etukortin viivakoodin lukeminen välttämättä onnistu. Varauduthan tarvittaessa käyttämään fyysistä S-Etukorttia Bonusten kerryttämiseksi.",
+        "syöte": "",
+        "ohje": "Miksi S-Etukortin viivakoodi ei toimi?"
+    },
+    {
+        "tulos": "S-käyttäjätili on S-ryhmän tunnistautumistapa, jota tarvitset, kun kirjaudut S-ryhmän verkkopalveluihin. Voit luoda itsellesi S-käyttäjätilin osoitteessa s-kayttajatili.fi.\n\nOsoitteessa S-käyttäjätili.fi voit myös  tarkastella ja muokata omia asiakastietojasi.\n\nKun liität S-käyttäjätiliin henkilökohtaisen S-Etukorttisi tiedot, näet palvelussa juuri  ajankohtaiset etusi ja omat etukuponkisi. S-käyttäjätilin mobiilinäkymän kautta voit myös lunastaa tarjolla olevat etukupongit samaan tapaan kuin S-mobiilissa.\n\nS-käyttäjätili toimii sähköpostiosoitteella, johon lähetetään kirjautumisen yhteydessä kertakäyttöinen vahvistuskoodi. Erillistä salasanaa ei siis tarvita.",
+        "syöte": "",
+        "ohje": "Mikä on S-käyttäjätili?"
+    },
+    {
+        "tulos": "Kun luot itsellesi S-käyttäjätilin, lisää tiliin samalla oman, henkilökohtaisen S-Etukorttisi tiedot. Näin sinut tunnistetaan asiakasomistajaksi ja saat Bonuksen ja muut asiakasomistajaedut myös verkko-ostoistasi  esimerkiksi Prisman ja Sokoksen verkkosivuilla, S-ryhmän ruoan verkkokaupassa osoitteessa s-kaupat.fi tai Sokos Hotellien verkkosivuilla osoitteessa sokoshotels.fi.\n\nKun olet liittänyt S-käyttäjätiliin S-Etukorttisi tiedot, näet osoitteessa S-käyttäjätili.fi myös ajankohtaiset etusi. S-käyttäjätilin mobiilinäkymän kautta voit myös lunastaa tarjolla olevat etukupongit samaan tapaan kuin S-mobiilissa.\n\nOsoitteessa S-käyttäjätili.fi voit myös seurata, kuinka paljon olet saanut Bonusta ja alennuksia. Lisäksi voit kutsua henkilöitä omaan asiakasomistajatalouteesi.",
+        "syöte": "",
+        "ohje": "Miksi S-käyttäjätiliin kannattaa lisätä S-Etukortin tiedot?"
+    },
+    {
+        "tulos": "S-käyttäjätili on käytössä S-ryhmän verkkosivuilla, esim. prisma.fi, sokos.fi,  sokoshotels.fi, yhteishyvä.fi, s-kaupat.fi. Myös ABC-mobiiliin kirjaudut S-käyttäjätilisi kautta.\n\nOsoitteessa s-käyttäjätili.fi voit tarkastella ja tarvittaessa muokata S-käyttäjätilisi tietoja.",
+        "syöte": "",
+        "ohje": "Missä voin käyttää S-käyttäjätiliä?"
+    },
+    {
+        "tulos": "S-käyttäjätilin pääset luomaan verkkopalveluihin kirjautuessasi kohdasta ”Luo S-käyttäjätili” tai osoitteessa s-käyttäjätili.fi.\n\nTarvitset myös pääsyn sähköpostiisi, koska sinne lähetetään kertakäyttöinen vahvistuskoodi.\n\nS-käyttäjätilin sähköpostiosoitteena kannattaa käyttää S-ryhmässä muissakin yhteyksissä käyttämääsi sähköpostiosoitetta.",
+        "syöte": "",
+        "ohje": "Miten luon S-käyttäjätilin?"
+    },
+    {
+        "tulos": "Voit vaihtaa sähköpostiosoitteen joko S-mobiilissa tai osoitteessa s-käyttäjätili.fi\n\nS-mobiilissa: Avaa S-mobiili ja siirry Minä-osioon > Valitse nimesi alta ”Omat tiedot” > Valitse ”Sähköposti” > Anna sähköpostiosoite ja klikkaa ”Vahvista” > > Avaa sähköpostiisi lähetetty vahvistusviesti ja ota talteen vahvistuskoodi > anna vahvistuskoodi.\n \n\nS-käyttäjätilillä: Mene osoitteeseen s-käyttäjätili.fi ja kirjaudu palveluun. Omat tiedot -sivulla näet asiakastiedoissasi olevan sähköpostiosoitteen. > Klikkaa ”Muokkaa”-painiketta > Anna sähköpostiosoite ja klikkaa ”Vahvista” > Avaa sähköpostiisi lähetetty vahvistusviesti ja ota talteen vahvistuskoodi > anna vahvistuskoodi.\nVastaavalla tavalla voit vaihtaa myös puhelinnumerosi joko S-mobiilissa tai S-käyttäjätilillä.",
+        "syöte": "",
+        "ohje": "Miten vaihdan S-käyttäjätilillä olevan sähköpostin tai puhelinnumeron?"
+    },
+    {
+        "tulos": "Käyttäjätunnuksesi on sähköpostiosoitteesi.\n\nJos sinulla ei enää ole pääsyä sähköpostitiliin, jolla olet S-käyttäjätilin luonut, voit kirjautua pankkitunnuksillasi edellyttäen, että olet liittänyt asiakastietoihin oman S-Etukorttisi.\n\nNäin kirjaudut pankkitunnuksilla:\n\nSyötä näkymään sähköpostiosoite (johon sinulla ei ole enää pääsyä) ja valitse seuraavasta näkymästä “Pankkitunnukset”.\nViimeistele tunnistautuminen valitsemasi pankin sivulla.\nVaihda heti kirjautumisen jälkeen asiakastietoisi sähköpostiosoite, johon sinulla on pääsy.\nJos kirjautuminen pankkitunnuksilla ei ole mahdollista, soita S-ryhmän asiakasomistajapalveluun p. 010 76 5858, ma-pe 9–16 (mpm/pvm) tai laita viestiä palautelomakkeen kautta osoitteessa https://www.s-kanava.fi/palautelomake/.Valitse aiheeksi Asiakasomistajuus, S-Etukortti ja Bonus.",
+        "syöte": "",
+        "ohje": "Unohdin S-käyttäjätilin käyttäjätunnuksen, miten saan sen tietooni?"
+    },
+    {
+        "tulos": "Voit liittää S-Etukortin S-käyttäjätiliisi samalla, kun luot S-käyttäjätilin. Tieto lisätään sen jälkeen, kun olet valinnut, oletko henkilöasiakas vai yritysasiakas.\n\nS-Etukortin voi liittää S-käyttäjätilin myös myöhemmin Omat tiedot -sivulla kohdassa Etukortit ja jäsenyydet. S-kaupat.fi -palvelussa tiedon voi lisätä kohdassa Oma profiili.\n\nS-Etukortin lisääminen vaatii vahvan pankkitunnistautumisen.\n\nJos S-Etukortti -tiedon lisääminen ei onnistu, ota yhteyttä S-ryhmän asiakasomistajapalveluun p. 010 76 5858, ma-pe 9-16 (mpm/pvm) tai laita viestiä palautelomakkeen kautta osoitteessa https://www.s-kanava.fi/web/s/palautelomake. Valitse aiheeksi Asiakasomistajuus, S-Etukortti ja Bonus.",
+        "syöte": "",
+        "ohje": "Miten liitän S-Etukortin S-käyttäjätiliini?"
+    },
+    {
+        "tulos": "Jos et enää pääse sähköpostitiliin, jolla olet S-käyttäjätilin luonut, voit kirjautua pankkitunnuksillasi edellyttäen, että olet liittänyt asiakastietoihin oman S-Etukorttisi.\n\nNäin kirjaudut pankkitunnuksilla:\n\nSyötä näkymään sähköpostiosoite (johon sinulla ei ole enää pääsyä) ja valitse seuraavasta näkymästä “Pankkitunnukset”.\nViimeistele tunnistautuminen valitsemasi pankin sivulla.\nVaihda heti kirjautumisen jälkeen asiakastietoisi sähköpostiosoite, johon sinulla on pääsy.\nJos kirjautuminen pankkitunnuksilla ei ole mahdollista, soita S-ryhmän asiakasomistajapalveluun p. 010 76 5858, ma-pe 9–16 (mpm/pvm) tai laita viestiä palautelomakkeen kautta osoitteessa https://www.s-kanava.fi/palautelomake/.Valitse aiheeksi Asiakasomistajuus, S-Etukortti ja Bonus.",
+        "syöte": "",
+        "ohje": "En pääse enää sähköpostiin, jolla olen luonut S-käyttäjätilin, miten toimin?"
+    },
+    {
+        "tulos": "Varmista, että annoit oikean sähköpostiosoitteen ja pyydä uudelleen vahvistuskoodin lähetystä.\n\nTarkista tarvittaessa myös sähköpostitilisi roskaposti-/mainos- ym. kansiot. Jos et edelleenkään saa sähköpostia voit yrittää myös tekstiviestikirjautumista.\n\nEräiden suomalaisten sähköpostipalveluiden ja käyttämämme palveluntarjoajan  välillä sähköpostien kuluissa voi olla viivettä. Tiedossamme olevia ongelmallisia sähköpostiosoitteita ovat mm. *@iki.fi; *@kolumbus.fi.\n\nJos et saa useamman yrityksenkään jälkeen saa vahvistuskoodia sähköpostiosoitteeseesi, niin suosittelemme mahdollisuuksien mukaan käyttämään S-käyttäjätilisi tiedoissa jotain toista sähköpostiosoitetta.\n\nVoit myös kirjautua S-käyttäjätilille pankkitunnuksillasi edellyttäen, että olet liittänyt asiakastietoihin oman S-Etukorttisi. Näin kirjaudut pankkitunnuksilla:\n\nSyötä näkymään sähköpostiosoite (johon sinulla ei ole enää pääsyä) ja valitse seuraavasta näkymästä “Pankkitunnukset”.\nViimeistele tunnistautuminen valitsemasi pankin sivulla.\nVaihda heti kirjautumisen jälkeen asiakastietoisi sähköpostiosoite, johon sinulla on pääsy.\nJos kirjautuminen ei edelleenkään onnistu, soita S-ryhmän asiakasomistajapalveluun p. 010 76 5858, ma-pe 9–16 (mpm/pvm) tai laita viestiä palautelomakkeen kautta osoitteessa https://www.s-kanava.fi/palautelomake/.Valitse aiheeksi Asiakasomistajuus, S-Etukortti ja Bonus.",
+        "syöte": "",
+        "ohje": "Yritän kirjautua palveluun, mutta en ole saanut antamaani sähköpostiin vahvistuskoodia tai se ei toimi. Miten pääsen kirjautumaan?"
+    },
+    {
+        "tulos": "Selaimesi tietoturva-asetukset saattavat estää kirjautumisen kannalta tärkeän evästeen tallentamisen. Evästeen tallentamisen epäonnistuessa päädyt kirjautumiskoodin syöttämisen jälkeen “Kirjautuminen epäonnistui” sivulle (virhekoodi: AUTH-4376).\nKirjautumisen epäonnistumisen on havaittu toistuvan mobiililaitteiden selaimilla ja erityisesti Samsung Internet -selaimella.\nVirheen tapahtuessa yritä kirjautumista toisella selaimella tai laitteella. Ongelma voi myös korjaantua yrittämällä kirjautumista uudelleen.\nVirhetilanteen jatkuessa ole yhteydessä S-Asiakaspalveluun, puh. 010 76 5858, ma-pe 9-16(mpm/pvm)",
+        "syöte": "",
+        "ohje": "Miksi kirjautumiseni epäonnistuu?"
+    },
+    {
+        "tulos": "Tarkista, että olet antanut oikean puhelinnumeron ja varmista, että olet myös vahvistanut sen numeroon lähetetyllä vahvistuskoodilla. Kun puhelinnumero on vahvistettu S-käyttäjätilillä, voit käyttää sitä jatkossa kirjautumiseen.\n\nEnsimmäisellä kerralla tarvitsen kirjautumiseen sähköpostivahvistusta ja vahvista tämän jälkeen matkapuhelinnumerosi, jotta voit käyttää sitä kirjautumiseen jatkossa. Voit vahvistaa puhelinnumeron S-käyttäjätilin Omat tiedot -sivulla.\n\nVahvistettu puhelinnumero lisää tilisi tietoturvaa sekä mahdollistaa tekstiviestikirjautumisen. Puhelinnumero voi olla vahvistettuna yhteen S-käyttäjätiliin kerrallaan.\n\nVarmista myös, että puhelinnumero on oikeassa muodossa. Maakoodi valitaan alasvetovalikosta ja tekstikenttään laitetaan puhelinnumero ilman maakoodia, esim. 0501234567 tai 501234567\n\nJos tekstiviestiä ei saavu, voit pyytää tekstiviestin uudelleen lähetystä klikkaamalla “Lähetä uudelleen”. Jos et edelleenkään saa tekstiviestiä, kirjaudu sähköpostiosoitteellasi ja tarkista matkapuhelinnumerosi tilanne S-käyttäjätililtä.",
+        "syöte": "",
+        "ohje": "Miksi en pysty kirjautumaan tekstiviestillä?"
+    },
+    {
+        "tulos": "Kun vahvistat puhelinnumerosi, on kirjautuminen jatkossa todella nopeaa ja helppoa, sillä voit valita kirjautumisessa tarvittavan vahvistuskoodin lähetystavaksi tekstiviestin. Vahvistettu puhelinnumero lisää myös tilisi tietoturvaa.",
+        "syöte": "",
+        "ohje": "Miksi S-käyttäjätilin tiedoissani oleva puhelinnumero kannattaa vahvistaa?"
+    },
+    {
+        "tulos": "Omat ostot on asiakasomistajatalouksille tarjottava palvelu, jonka avulla asiakas voi seurata omaa kulutustaan.\n\nNäet palvelussa  tarkemmat tiedot henkilökohtaisista ostoistasi kuluneen vuoden aikana. Ostotiedot näytetään tuoteryhmittäin, esimerkiksi juusto, vihannekset, oluet, tuore kala, suklaavalmisteet jne. Omat ostot -palvelun löydät S-mobiilista.\n\nPalvelussa näkyvät Prismassa, S-marketissa, Salessa, Alepassa, ABC:lla sekä Prisma Raudassa tekemäsi ostot. Muiden ketjujen, kuten Sokoksen, Emotionin sekä verkkokauppojen ostokset tuodaan palveluun vaiheittain.\n\nHotelli- ja ravintolaostojen sekä yhteistyökumppaneiltamme tehtyjen ostojen tiedot eivät toistaiseksi näy Omat ostot-palvelussa, sillä ne kertyvät S‑ryhmän asiakasomistaja- ja asiakasrekisteriin vain kuitin loppusummatasolla.",
+        "syöte": "",
+        "ohje": "Mikä on Omat ostot -palvelu?"
+    },
+    {
+        "tulos": "Omat ostot -palvelussa näet tarkkaa ostotietoasi, jota voit myös jakaa niiden  asiakasomistajatalouteesi kuuluvien kesken, jotka haluavat itse jakaa omat ostotietonsa sinun kanssasi. Perhejako auttaa näkemään koko talouden tasolla esimerkiksi ostosten hiilijalanjäljen tai kotimaisuusasteen.\n\nPerhejaon voi ottaa käyttöön asiakasomistajatalouden pääjäsen kutsumalla muut asiakasomistajatalouteen kuuluvat täysi-ikäiset seuraamaan yhteisiä ostoja Perhejaon piirissä. Kutsun saanut tekee valinnan haluaako liittyä mukaan Perhejakoon vai ei.\n\nAsiakasomistajatalouden pääjäsen voi aloittaa ostotietojen jakaminen Omat ostot -palvelussa etusivun oikean yläkulman ”Perhejako”-ikonin kautta.\n\nJos kuulut asiakasomistajatalouteen, mutta et löydä Perhejakoa Omat ostot -palvelusta, voit pyytää asiakasomistajataloutesi pääjäsentä aloittamaan Perhejaon ja kutsumaan sinut mukaan.\n\n",
+        "syöte": "",
+        "ohje": "Mitä Perhejako Omat ostot -palvelussa tarkoittaa?"
+    },
+    {
+        "tulos": "Jaat kaiken sen saman tarkan ostotiedon, jota Omat ostot -palvelussa näet itsekin. Jaat nimesi sekä tarkat ostotietosi niiden asiakasomistajatalouteesi kuuluvien kesken, jotka ovat hyväksyneet omien ostotietojensa jakamiseen ja liittyneet Perhejakoon. Ostotiedot näytetään takautuvasti vuoden ajalta. Voit tarkistaa Perhejaossa mukana olevat henkilöt koska tahansa Omat ostot -palvelun asetuksista.\n\nOstotiedoissa ei näytetä, kenen tekemä mikäkin osto on.\n\nBonusostot-osiossa ostotapahtumien näkyvyydet säilyvät ennallaan, eli pääjäsen näkee koko asiakasomistajatalouden ostotapahtumat oston loppusummatasolla, mutta muut näkevät vain omat ostotapahtumansa.\n\nPerhejako on otettu käyttöön Omat ostot -palvelussa, jotta mm. hiilijalanjäljen sekä kotimaisuusasteen seuraaminen on helpompaa talouden tasolla.",
+        "syöte": "",
+        "ohje": "Mitä tietoja jaan ja kenelle?"
+    },
+    {
+        "tulos": "Kun jaat ostotietosi asiakasomistajataloutesi kesken, jaat kaiken sen tarkan ostotiedon, jota Omat ostot -palvelussa näet itsekin. Yksittäisten ostojen tietoja ei voi estää näkymästä palvelussa. Jos et halua, että muut asiakasomistajatalouteesi kuuluvat näkevät ostotietojasi, voit hylätä kutsun Perhejakoon, tai lopettaa ostotietojen jakamisen myöhemmin poistumalla Perhejaon piiristä.",
+        "syöte": "",
+        "ohje": "Entä jos haluan estää tiettyjen ostotietojen jakamisen, miten se onnistuu?"
+    },
+    {
+        "tulos": "Asiakasomistajatalouden pääjäsenenä ylläpidät Perhejakoa ja voit asetusten kautta lopettaa ostotietojen jakamisen koko asiakasomistajataloudelta, koska vain haluat.\n\nJos taas sinut on kutsuttu jakamaan ostotietojasi, voit asetusten kautta poistua Perhejaon piiristä, jolloin sinun ostotietosi poistuvat yhteisistä ostotiedoista, mutta muiden Perhejakoon liittyneiden kesken ostotietojen jakaminen jatkuu.",
+        "syöte": "",
+        "ohje": "Miten voin lopettaa ostotietojeni jakamisen Omat ostot -palvelussa?"
+    },
+    {
+        "tulos": "Toistaiseksi ostotietojen jakaminen on mahdollista vain oman asiakasomistajatalouden kesken. Jos haluatte jakaa ostotietonne toisillenne, tulee teidän liittyä samaan asiakasomistajatalouteen. Muutoksia asiakasomistajatalouteen voi tehdä S-käyttäjätilillä tai Asiakasomistajapalvelu ja S-Pankki -pisteellä (useimmat Prismat ja Sokokset, valikoidut S-marketit), jossa voi pyytää toista henkilöä liittymään asiakasomistajatalouteen lähettämällä sähköpostitse kutsun. Kutsu hyväksytään pankkitunnuksilla.",
+        "syöte": "",
+        "ohje": "Kerrytämme erikseen Bonusta perheenjäseneni kanssa, mutta haluaisimme jakaa ostotietomme Omat ostot -palvelussa, miksi se ei ole mahdollista?"
+    },
+    {
+        "tulos": "Hintavertailija vertailee kahden eri kaupan hintatasoa. Asiakas voi valita vertailuun kaksi itselle keskeistä kauppaa ja vertailla ruokaostosten hintoja näiden välillä. Palvelu ottaa vertailuun mukaan käyttäjän 12 kuluneen kuukauden aikana tehtyjä ostoksia, joten näin vertailu tehdään sellaisten tuotteiden välillä, joita asiakas itse oikeasti ostaa ja tarvitsee.\n\nHintavertailu tehdään aina nykyisellä ja ajankohtaisella hintatiedolla, joka on enintään kaksi vuorokautta vanhaa. Hintojen vertailukelpoisuutta vahvistetaan sillä, että vertailtavien tuotteiden hintatieto on molempien vertailussa olevien kauppojen osalta samalta päivältä. Hintatasot on haettu verkkokaupoista, mutta tilanne ei ole reaaliaikainen, vaan ne päivittyvät päivittäin. Vertailun voi tehdä S-ryhmän kauppojen ja K-ryhmän kauppojen välillä, koska näistä on saatavilla verkkosivuilta ajankohtaista tietoa.\n\nKaikkia ostoksia ei ole saatavilla kaupasta samankaltaisina, joten Hintavertailija näyttää läpinäkyvästi, kuinka suuri osuus ostoksista on vertailukelpoista. Hintavertailija näyttää suuntaa antavan arvion kaikista ostoksista, jossa ovat mukana vertailukelpoiset hinnat ja joiden perusteella näytetään arvioitu säästö myös tuotteista, jotka eivät ole olleet suoraan vertailukelpoisia.",
+        "syöte": "",
+        "ohje": "Mikä on Hintavertailija ja miten se toimii?"
+    },
+    {
+        "tulos": "Hintavertailussa on asiakkaan kannalta selkeintä verrata ns. normaalihintaisia tuotteita keskenään ja tällaisella toteutustavalla vertailu on mahdollisimman puolueeton.\n\nHintavertailija huomioi tarjoustuotteet, jotka ovat voimassa kaikille asiakkaille, myös ilman kanta-asiakaskorttia.\n\nPaljousalennukset tai kanta-asiakkuuteen suoraan linkittyvät alennukset taasen eivät tule Hintavertailijaan. Palvelussa ei ole huomioitu nk. paljousalennuksia (esim. 5 tuotetta 2 eurolla), sillä vertailtavana ovat yhden tuotteen hinnat. Hintavertailussa ei myöskään huomioida asiakasohjelmien hyötyjä, kuten Bonusta tai Plussaa tai kanta-asiakastarjoushintoja.\n\nPalvelu hakee hintatiedot verkosta eli esimerkiksi myymäläkohtaisia kivijalkakaupoissa olevia tarjouksia palvelu ei pysty ottamaan huomioon. Alennukset voivat vaihdella päivittäin ja alennustyypit myös vaihtelevat eri toimijoilla, ja alennuksia on haastava tulkita yhteismitalliseksi. Siksi on selkeintä laskea listahintoja.\n\nMeidän toimintamme S-ryhmässä perustuu pysyvästi edulliseen hintatasoon – ja Bonukset päälle. Pysyvästi edulliset hinnat ovat meille pysyvä toimintatapa ja asiakkaan etu. Kauppaketjuilla on erilaisia etuohjelmia.",
+        "syöte": "",
+        "ohje": "Otetaanko Hintavertailijassa huomioon kanta-asiakasedut tai tarjoukset?"
+    },
+    {
+        "tulos": "Tällä hetkellä olemme tuoneet kaikki verkosta avoimesti saatavilla olevat hintatiedot ja kauppapaikat palveluun. Kaikkien osalta tämä ei ole vielä ole mahdollista. Voimme vertailla vain S-ryhmän ja K-ryhmän kauppoja, joilla hintatiedot ovat avoimesti verkossa.\n\nHintavertailu on sitä merkityksellisempää, mitä laajemmin tuotteita voi verrata keskenään.\n\nPalvelu pyrkii vertailemaan kaikkia käyttäjän 12 kuukauden aikana tehtyjä ostoksia. Kaikille tuotteille ei kuitenkaan löydy toisen myymälän valikoimasta vertailukelpoisia verrokkeja, joilla on ajankohtainen hinta.\n\nKaikkia ostoksia ei ole saatavilla kaupasta samankaltaisina, joten Hintavertailija näyttää läpinäkyvästi, kuinka suuri osuus ostoksista on vertailukelpoista sekä suuntaa antavan simuloidun arvion kaikista ostoksista.\n\nHintavertailija näyttää tuotteet siinä järjestyksessä, missä on suurin hintaero.\n\nPalvelun läpinäkyvyyden ja rehellisyyden varmistamiseksi mukaan otetaan vain todella toistensa kanssa vertailukelpoisia tuotteita. Palvelu näyttää vain toistensa kanssa vertailukelpoisia tuotteita, jotka löytyvät molemmista myymälöistä.\n\nEsimerkiksi hedelmien, vihannesten ja palvelutiskien punnittavissa tuotteissa on pääosin käytössä omat EAN-koodit, jotka usein ovat jopa kauppakohtaiset. Tämän vuoksi palvelutiskin tai hedelmä- ja vihannesosaston tuotteiden välillä vertailukelpoisuus ei ole yhtä kattavaa kuin esimerkiksi pakatuissa kuivatuotteissa.",
+        "syöte": "",
+        "ohje": "Mitä kauppoja ja tuotteita Hintavertailijassa on mukana?"
+    },
+    {
+        "tulos": "Omat ostot-palvelun ravintolaskuri näyttää hiilihydraattien, sokerin, kuidun, proteiinien, rasvojen, tyydyttyneiden rasvojen sekä suolan osuuden ja vertaa niitä saantisuosituksiin. Tiedot laskuri saa elintarvikepakkausten ravintosisällöistä. Palvelussa käytettävät suositusarvot pohjautuvat suomalaisiin ravitsemussuosituksiin, Fineli -tietokantaan sekä Euroopan parlamentin ja neuvoston asetukseen.\n",
+        "syöte": "",
+        "ohje": "Mikä on ravintolaskuri ja miten se toimii?"
+    },
+    {
+        "tulos": "Laskuri kertoo ostetun ruoan eri ravintoaineiden osuuden koko ostoskorista ja peilaa tätä virallisiin suosituksiin. Näin ei ole merkitystä kuinka monta syöjää taloudessa on. Eli käytännössä, jos suositus on esim. 20% sokeria kokonaisenergiasta ja sinun tai perheesi ostosten osuus on 25%, ostostesi sokerin osuus on n.5% yli suositusten.",
+        "syöte": "",
+        "ohje": "Perheen kulutus vai henkilökohtainen?"
+    },
+    {
+        "tulos": "Tuotteet, joiden paino- tai ravintoainetiedot eivät syystä tai toisesta ole palvelun käytettävissä, eivät myöskään kirjaudu palveluun. Esim. osa tuoretiskin tai leipomoiden irtotuotteista ei kirjaudu täysin laskuriin ja uusien tuotteiden näkymisessä saattaa esiintyä viiveitä. Monipakkausten ravintotietoja ei toistaiseksi ole luotettavasti saatavilla, joten ne on rajattu laskurin ulkopuolelle. Palvelun tuotetietojen kattavuutta kehitetään kuitenkin jatkuvasti.",
+        "syöte": "",
+        "ohje": "Miksi kaikki ostosteni ravintoaineet eivät näy ravintolaskurissa?"
+    },
+    {
+        "tulos": "Omat ostot -palvelun kotimaisuuslaskurissa voit seurata ostamiesi ruokatuotteiden raaka-aineiden ja valmistuksen kotimaisuutta. Kotimaisuuslaskuri erottelee toisistaan raaka-aineiltaan ja valmistukseltaan kotimaiset tuotteet sekä Suomessa valmistetut tuotteet. Lisäksi laskuri näyttää ulkomaiset ruokaostokset omana listanaan. Kotimaisuusaste lasketaan ruokakorin arvosta. Palvelussa näet tiedon kotimaisuudesta jopa yksittäisen tuotteen osalta.\n\nLaskuri havainnollistaa kotimaisten ruokaostosten osuuden kahdella tasolla.\n\nEnsimmäisellä tasolla ovat tuotteet, joiden raaka-aineet ovat kotimaisia ja jotka on valmistettu Suomessa. Kotimaisuuden takaavat suomalaisesta raaka-aineesta ja työstä kertovat Hyvää Suomesta ja Sirkkalehti -merkit.\n\nToisella tasolla ovat tuotteet, jotka on valmistettu Suomessa, mutta joiden raaka-aineiden alkuperä voi olla muu kuin Suomi. Lisäksi laskuri näyttää ulkomaiset ruokaostokset omana listanaan.",
+        "syöte": "",
+        "ohje": "Mikä on kotimaisuuslaskuri ja miten se toimii?"
+    },
+    {
+        "tulos": "Omat ostot-palvelun hiilijalanjälkilaskuri kertoo tuoteryhmätasolla omaan todelliseen kulutusdataan perustuvan ruoan ostoskorin hiilijalanjäljen. Palvelu kautta voit seurata oman ostoskorin ilmastovaikutuksia ja ilmastovaikutusten jakautumista eri tuoteryhmien välillä mahdollisimman vertailukelpoisesti.\n\nRuoan hiilijalanjälkilaskuri on kehitetty yhdessä Luonnonvarakeskuksen (Luken) kanssa. Luken tuottamat tuoteryhmäkohtaiset ilmastovaikutukset perustuvat olemassa olevaan, tuoreimpaan tutkimustietoon.\n\nRuoan hiilijalanjälkilaskurissa on huomioitu maataloustuotanto, jalostus, pakkaukset ja kuljetukset aina kaupan portille. Maankäytön muutoksia ja hiilivarastoja ei laskelmissa ole huomioitu, koska erityisesti hiilivarastojen arviointimenetelmät ovat vasta kehitteillä eikä niitä ole tässä vaiheessa pystytty huomioimaan kaikille ostoskoreista löytyville eri maalaisille tuotteille.\n\nJokainen ostettu ruokakorin tuote on mukana laskennassa. Yksittäisen tuotteen hiilijalanjäljen sijaan laskennassa käytetään tieteellisesti tutkittua tuoteryhmätason hiilijalanjälkitietoa. Esimerkiksi yksittäisen maitotölkin laskennassa käytettävä arvo lasketaan koko maitotuoteryhmän hiilijalanjälkiarvon mukaan.\n\nLisäksi laskelmissa on huomioitu ryhmien myydyimpien tuotteiden alkuperä niissä tuoteryhmissä, joissa alkuperällä on erityistä merkitystä ja alkuperän mukaista tietoa on ollut saatavilla (naudanliha, kasvikset, kala, viljatuotteet). Tämän lisäksi Omat ostot -palvelu hyödyntää asiakkaan omaa ostodataa, jolloin asiakas saa mahdollisimman hyvän käsityksen oman ruokakorinsa ilmastovaikutuksista.",
+        "syöte": "",
+        "ohje": "Mikä on hiilijalanjälkilaskuri ja miten se toimii?"
+    },
+    {
+        "tulos": "Helpotamme digipalveluita käyttävien asiakasomistajiemme arkea siten, että he saavat automaattisesti kuittinsa talteen myös digitaalisina. Tämä tarkoittaa, että vaikka paperikuitti katoaisi, sinulla on silti käytettävissä kuitin digitaalinen versio, kun sitä tarvitset. Esimerkiksi mahdolliset palautukset sujuvat näin vaivattomasti.\n\nKuittiarkistoon tuotu kuitti on käytännössä pelkkä digitaalinen kopio kassalla saamastasi kuitista. Kuittiarkistoon tallennettu kuitti täyttää myös lain vaatiman kuitin antamisvelvoitteen.",
+        "syöte": "",
+        "ohje": "Miksi kuittiarkisto on osa S-mobiilia ja S-käyttäjätiliä?"
+    },
+    {
+        "tulos": "Kuittiarkisto on kiinteä osa S-ryhmän asiakasomistajille tarjottavia digipalveluita eikä sitä voi erikseen kytkeä pois käytöstä. Arkiston käyttöönotto hyväksytään digipalveluiden ehtojen hyväksymisen yhteydessä. Kuittiarkistoon tallennettu kuitti täyttää myös lain vaatiman kuitin antamisvelvoitteen.\n\nJos et halua saada ilmoituksia tallentuneista kuiteista S-mobiilissa, saat poistettua ne helposti S-mobiilin asetuksista.\n\nKuittiarkisto on käytännössä vain tapa säilyttää digitaalisina tallessa kuitit, jotka joka tapauksessa tulostuvat automaattisesti kassalla.\n\nKuitit eivät tallennu laitteellesi, näet ne ainoastaan omissa tiedoissasi S-mobiilissa ja S-käyttäjätilillä. Ne eivät siis myöskään kuormita laitteesi muistia.\n\nAsiakkaiden toiveesta tuomme palveluun lähiaikoina myös mahdollisuuden poistaa halutut kuitit näkyvistä.",
+        "syöte": "",
+        "ohje": "Voinko estää sähköiset kuitit?"
+    },
+    {
+        "tulos": "Kassakuitit ovat osa normaalia kirjanpitoaineistoa, mihinkään muuhun tarkoitukseen niitä ei käytetä. Kuittiarkistossa on ainoastaan kassakuitin digitaalinen kopio.",
+        "syöte": "",
+        "ohje": "Hyödynnättekö kuittiarkistoon kertyviä sähköisiä kassakuitteja muihin tarkoituksiin?"
+    },
+    {
+        "tulos": "Saat S-Etukortilla kirjaamistasi ostoista automaattisesti sähköiset kassa- ja takuukuitit näissä toimipaikoissa: S-market, Prisma, Sale, Alepa, Food Market Herkku, Prisma Rauta, Sokos, Emotion ja ABC.\n\nHuom. Sähköiset kuitit saa toistaiseksi vain Suomen toimipaikoista ja vain fyysisissä toimipaikoissa. Niitä ei kerry esimerkiksi verkkokauppaostoista tai kotiinkuljetuksen yhteydessä maksetuista kauppakassiostoista.\n\nKuittiarkistoon tallentuvat vain ostojen kuitit, sinne ei arkistoida tositteita kassalla tehtävistä talletuksista tai nostoista,",
+        "syöte": "",
+        "ohje": "Miten ja mistä ostoista kuitit saa sähköisinä?"
+    },
+    {
+        "tulos": "Et valitettavasti voi. Sähköiset kuitit ovat kuittiarkistossa kuittien kuvakopioina, joten kuittien sisältämiä tietoja ei voi esimerkiksi yhdistellä ja järjestellä.\n\nS-käyttäjätililtä voit tilata ostotietoraportin kuitin loppusummaa tarkemmalla tasolla S-ryhmän asiakasomistaja- ja asiakasrekisteriin kertyvistä ostoistasi. Esimerkiksi ruokakauppaostoista tiedot kertyvät rekisteriimme tuoteryhmätasoisina.",
+        "syöte": "",
+        "ohje": "Voinko ladata kuittiarkistosta sähköisten kuittien tiedot koneluettavassa muodossa?"
+    },
+    {
+        "tulos": "Voit luopua paperikuiteista, jos sinulla on S-Etukortti Visa -kortti tai digitaalinen S-Etukortti.\n\nToimi näin:\n\nAktivoi ensiksi Paperiton asiointi S-mobiilin Minä-osiossa.\nPäivitä sen jälkeen palvelu omaan S-Etukorttiisi lähimmän S-ryhmän toimipaikan itsepalvelupisteestä löytyvässä S-Etukorttipäätteessä.\nSyötä S-Etukortti Visa -korttisi päätelaitteeseen ja paina F1-näppäintä. Itsepalvelupisteestä löytyy tähän selkeät ohjeet.",
+        "syöte": "",
+        "ohje": "Miten toimin, jos en halua lainkaan paperisia kuitteja?"
+    },
+    {
+        "tulos": "Ota yhteyttä joko ostopaikkaan tai S-ryhmän asiakasomistajapalveluun puh. 010 76 5858 ma-pe 9-16 (mpm/pvm).",
+        "syöte": "",
+        "ohje": "Miten toimin, jos kuittia ei löydykään kuittiarkistosta?"
+    },
+    {
+        "tulos": "Henkilökohtainen kuittiarkistosi löytyy sekä S-mobiilista että S-käyttäjätilisi Asiakasomistajuus-osiosta osoitteessa s-kayttajatili.fi.",
+        "syöte": "",
+        "ohje": "Miten sähköisiä kuitteja voi tarkastella?"
+    },
+    {
+        "tulos": "Saat kuittisi automaattisesti kuittiarkistoon. Sinulle tulostetaan kassalla myös paperikuitti, jos et ole ottanut käyttöön paperitonta asiointia.\n\nKun otat käyttöön paperittoman asioinnin, ostoistasi ei enää tulosteta kassalla paperikuittia. Voit kuitenkin ennen maksamista pyytää kassaa tulostamaan sinulle kuitin, jos sitä joskus tarvitset.\n\nKuittisi pysyvät tallessa kuittiarkistossa, jonne pääset joko S-mobiilissa tai S-käyttäjätilisi Asiakasomistajuus-osiossa osoitteessa s-kayttajatili.fi.",
+        "syöte": "",
+        "ohje": "Mitä tarkoittavat paperiton asiointi ja kuittiarkisto?"
+    },
+    {
+        "tulos": "Asiakasomistajana saat takuunalaisista ostoistasi automaattisesti takuukuitit sähköiseen kuittiarkistoon. Riittää, että ostot on kirjattu bonusostoiksi  S-Etukortilla.\n\nPalvelu tarjotaan kaikille asiakasomistajatalouteen kuuluville seuraavissa S-ryhmän toimipaikoissa: S-market, Prisma, Sale, Alepa, Food Market Herkku, Prisma Rauta, Sokos, Emotion ja ABC.\n\nSähköisiä takuukuitteja ei toistaiseksi kerry verkkokaupoista tai ulkomaan toimipaikoista tehdyistä ostoista.\n\nTakuukuittitiedot ovat henkilökohtaisia, et siis voi nähdä muiden samaan asiakasomistajatalouteen kuuluvien takuukuittitietoja.\n\nOmat kuittisi löydät joko S-mobiilista tai S-käyttäjätilisi Asiakasomistajuus-osiosta osoitteessa s-kayttajatili.fi.",
+        "syöte": "",
+        "ohje": "Miten sähköinen takuukuitti toimii käytännössä?"
+    },
+    {
+        "tulos": "Kuitti siirtyy kuittiarkistoon alle minuutissa.",
+        "syöte": "",
+        "ohje": "Kuinka nopeasti kuitti siirtyy kuittiarkistoon?"
+    },
+    {
+        "tulos": "Ei tarvitse. Kuitit kertyvät kuittiarkistoon kaikilla maksutavoilla maksetuista ostoista, myös käteismaksuista.\n\nOstojen maksun yhteydessä S-Etukortti (joko fyysinen tai digitaalinen) on kuitenkin aina luettava maksupäätteeseen. Vain siten ostot voidaan kirjata bonusostoiksi ja niistä kertyvät kuitit saadaan talteen sähköiseen kuittiarkistoon.",
+        "syöte": "",
+        "ohje": "Pitääkö ostot myös maksaa S-Etukortilla, jotta niistä saa sähköisen kuitin?"
+    },
+    {
+        "tulos": "Kyllä, kassakuitin voi halutessaan välittää sähköpostitse tai jakaa puhelimen sovelluksilla (esim. iPhonen IDrop).\n\nKuitista voi myös ottaa kuvakaappauksen puhelimen kuvakaappaustoimintoa hyödyntäen ja lähettää kuvan eteenpäin.",
+        "syöte": "",
+        "ohje": "Voiko sähköisen kuitin lähettää S-mobiilista esimerkiksi sähköpostilla eteenpäin?"
+    },
+    {
+        "tulos": "Kuittiarkisto on asiakasomistajaetu, joten sen käyttö on sidottu asiakasomistajatalouteen kuulumiseen.\n\nMikäli luovut osuuskaupan asiakasomistajuudesta tai poistut asiakasomistajataloudesta, sinun oikeutesi asiakasomistajaetuihin päättyy.\n\nVaikka käyttöoikeutesi kuittiarkistoon päättyy, on ostamiesi tuotteiden takuu kuitenkin normaalisti voimassa takuuajan loppuun.",
+        "syöte": "",
+        "ohje": "Menetänkö takuukuittitietoni, jos eroan asiakasomistajuudesta tai asiakasomistajataloudesta?"
+    },
+    {
+        "tulos": "Kassa- ja takuukuitit ovat henkilökohtaisia. Siksi jokainen asiakasomistajatalouteen kuuluva näkee palvelussa vain  omalla S-Etukortilla tehdyistä ostoista kertyneet kassa- ja takuukuitit.",
+        "syöte": "",
+        "ohje": "Miksi en näe perheenjäsenieni sähköisiä kassa- tai takuukuitteja?"
+    },
+    {
+        "tulos": "Pyydä jo ennen maksamista kassaa (itsepalvelukassoilla kassavalvojaa) tulostamaan kuitti.  Kuitti ostoksistasi tallentuu automaattisesti myös kuittiarkistoon.",
+        "syöte": "",
+        "ohje": "Olen luopunut paperikuiteista, mutta haluaisin kuitenkin yksittäisestä ostoksesta paperikuitin. Miten toimin?"
+    },
+    {
+        "tulos": "S-Etukorttipääte on asiakasomistajatalouteen kuuluvien henkilöiden käyttöön tarkoitettu pieni maksupäätteen näköinen laite, joita löytyy monista S-ryhmän toimipaikoista, usein infopisteen tuntumasta tai itsepalvelupisteestä.\n\nS-Etukorttipäätteeltä voit tarkistaa asiakasomistajataloutesi kuluvan kuukauden bonusostokertymän. Tieto bonusostosta on tarkasteltavissa useimmiten bonusostoa seuraavana päivänä. Jos sinulla on etujen maksutili, näet S-Etukorttipäätteeltä myös etujen maksutilin saldon sekä tilin viisi viimeistä tilitapahtumaa. S-Etukorttipäätteellä tilitiedot näytetään vain tilinomistajalle.\n\nS-Etukorttipääte näyttää reaaliaikaisen tilanteen samaan asiakasomistajatalouteen kuuluvien henkilöiden yhteenlasketuista bonusostoista. Tiedot voi halutessaan myös tulostaa kuitille. Jokainen samaan asiakasomistajatalouteen kuuluva voi tarkistaa talouden bonusostojen yhteissumman omalla S-Etukortillaan.\n\nBonustiedot tarkistetaan syöttämällä S-Etukortti itsepalvelupisteessä olevaan S-Etukorttipäätteeseen ja painamalla F3-näppäintä. Tämän jälkeen pääte pyytää antamaan 4-numeroisen asiakastunnuksen. Huom! S-Etukorttipäätteellä käytettävä asiakastunnus ei ole sama kuin kassan maksupäätteellä käyttämäsi kortin PIN-koodi. Jos et tiedä tai muista omaa henkilökohtaista asiakastunnustasi, voit tarkistaa sen S-käyttäjätililtä. Asiakasomistajapalvelu ja S-Pankki -pisteellä (useimmat Prismat ja Sokokset, valikoidut S-marketit) tai soittamalla S-ryhmän asiakasomistajapalveluun puh. 010 76 5858 ma-pe 9-16 (mpm/pvm).",
+        "syöte": "",
+        "ohje": "Mikä on S-Etukorttipääte ja miten se toimii?"
+    },
+    {
+        "tulos": "Asiakastunnus on S-Etukorttipäätteen käytössä S-Etukortin lisäksi tarvittava henkilökohtainen, nelinumeroinen tunnusluku. Oman asiakastunnuksesi voit tarkistaa S-käyttäjätililtä.\n\nSaat asiakastunnuksen selville myös asioimalla Asiakasomistajapalvelu ja S-Pankki -pisteellä (useimmat Prismat ja Sokokset, valikoidut S-marketit) tai soittamalla S-ryhmän asiakasomistajapalveluun puh. 010 76 5858 ma-pe 9-16 (mpm/pvm).",
+        "syöte": "",
+        "ohje": "Mikä on S-Etukorttipäätteellä tarvittava asiakastunnus ja mistä löydän sen?"
+    },
+    {
+        "tulos": "Bonus on merkittävin asiakasomistajaeduista. Se on ostohyvitys, jota maksetaan osuuskauppojen asiakasomistajille heidän taloutensa yksityisostoista. Bonusta saa kaikista S-ryhmän ja sen yhteistyökumppaneiden bonustoimipaikoista riippumatta siitä, minkä osuuskaupan asiakasomistaja on. Maksettava bonusprosentti lasketaan koko asiakasomistajatalouden yhteenlasketuista kuukausiostoista asiakasomistajan oman osuuskaupan bonustaulukon mukaan. Kertynyt Bonus maksetaan kuukausittain asiakasomistajatalouden pääjäsenen tilille S-Pankkiin tai siirretään osuusmaksuun, jos se on vajaastimaksettu.",
+        "syöte": "",
+        "ohje": "Mitä on Bonus?"
+    },
+    {
+        "tulos": "Bonus kertyy S-ryhmän ja sen yhteistyökumppaneiden yli 2000 bonustoimipaikasta ympäri Suomen. S-ryhmän omia ketjuja ovat S-market, Prisma, Sale, Alepa, Food Market Herkku, Sokos, Emotion, Sokos Hotellit, Radisson Blu ja Radisson RED Hotellit Suomessa, Amarillo, Bistro, Coffee House, Frans & les Femmes, Grill it!, Pizza & buffa, Presso, Public Corner, Rosso, Trattoria, VENN ja muut S-ryhmän ravintolat, S-Rauta, Prisma Rauta, S-ryhmän autoliikkeet, Karla sekä ABC-liikennemyymälät ja automaattiasemat. Suomen bonustoimipaikkojen lisäksi S-Etukortilla kertyy Bonusta erikseen määritellyistä S-ryhmän toimipaikoista ulkomailla.\n\nBonusta kertyy myös S-kanavalla esiteltävistä S-ryhmän hotellien ja yhteistyökumppaneiden kotimaan ja ulkomaan lomamatkoista.\n\nBonusta kertyy myös yhteistyökumppaneiltamme. Valtakunnallisia yhteistyökumppaneita ovat LähiTapiola, Elisa/Saunalahti, Silmäasema, Oral Hammaslääkärit, Viking Line, Eckerö Line sekä Sector Alarm. Valtakunnallisista ja paikallisista yhteistyökumppaneista saat lisätietoa myös omasta osuuskaupastasi tai S-ryhmän asiakasomistajapalvelusta puh. 010 76 5858 ma-pe 9-16 (mpm/pvm).\n\nSaat Bonusta, kun kirjaat ostokset S-Etukortillasi maksun yhteydessä kassalla bonusostoiksi. Mikäli kyseessä on laskutusperusteinen yhteistyökumppani, tunnistaudu asiakasomistajana tai ilmoita jäsennumerosi palvelun tarjoajalle palvelun tarjoajan antamien ohjeiden mukaisesti.",
+        "syöte": "",
+        "ohje": "Mistä kaikkialta saa Bonusta?"
+    },
+    {
+        "tulos": "Bonusta ei kerry yrityskortilla maksetuista tai yrityksille tehdyistä ostoista, sopimushinnoitelluista tai laskutettavista ostoista, välitysmyynnistä, kuten Veikkauksen Online- ja arpamyynnistä ja pääsylipuista, yli 1,2 % alkoholia sisältävistä juomista ja yli 2,8 % alkoholia sisältävistä elintarvikkeista, tupakkatuotteista, tupakan vastikkeista, tupakointivälineistä, tupakkajäljitelmistä, sähkösavukkeista ja nikotiininesteistä tai -valmisteista, tax free -ostoista, matkakorttien latauksista, pullopanttien palautuksista eikä lahjakorttien ostosta.\n\nBonuksen kertymisessä eri ketjuista on joitakin erityisehtoja, jotka voit tarkistaa Asiakasomistajajärjestelmän säännöistä.",
+        "syöte": "",
+        "ohje": "Mistä ei saa Bonusta?"
+    },
+    {
+        "tulos": "Bonus maksetaan asiakasomistajatalouden pääjäsenen etujen maksutiliksi määritellylle tilille S-Pankkiin aina kuun 10. päivään mennessä (maksupäivän osuessa viikonlopulle tai pyhälle, maksetaan Bonus edeltävänä pankkipäivänä). Tilillä olevia rahoja voi\n\nkäyttää ostosten maksuun tiliin liitetyllä S-Etukortilla, jossa on maksuominaisuus. Tutustu S-Pankin kortteihin.\nkäyttää S-Pankin verkkopankissa ja S-mobiilissa laskujen maksuun tai tilisiirtoihin\nohjata rahastoon S-Pankin verkkopankissa tai S-mobiilin Säästäjä-palvelussa.\nnostaa käteisenä Asiakasomistajapalvelu ja S-Pankki -pisteellä (useimmat Prismat ja Sokokset, valikoidut S-marketit).\njättää tilille korkoa kasvamaan",
+        "syöte": "",
+        "ohje": "Miten Bonus maksetaan ja miten voin käyttää sitä?"
+    },
+    {
+        "tulos": "Bonus eli ostohyvitys on etu, jonka saat asiakasomistajana kaikista S-ryhmän ja yhteistyökumppaneiden bonustoimipaikoista. Joskus saat asiakasomistajana tietyistä toimipaikoista Bonusta tuplana. Se tarkoittaa sitä, että kampanja-aikana kampanjaan kuuluvista toimipaikoista tehdyistä ostoista maksettava Bonus kaksinkertaistuu. Ostot kirjautuvat sellaisenaan bonusostokertymään, mutta niistä kertyvä Bonus lasketaan ja maksetaan tuplana.\n\nBonusprosentin suuruuden määrää asiakasomistajatalouden kuluneen kuukauden aikana S-ryhmän tai sen yhteistyökumppaneilta tehtyjen bonusostojen yhteenlaskettu loppusumma. Jos kuukauden normaaliostot yltävät esimerkiksi 3 %:n Bonukseen, Bonusta tuplana myöntävästä toimipaikasta kampanja-aikana tehdyistä ostoista saa silloin 6 %:n Bonuksen.\n\nEsimerkiksi 500 euron kuukausiostoilla bonusprosentti olisi 3%, jolloin kampanjaostoista maksetaan 6% Bonusta.\n",
+        "syöte": "",
+        "ohje": "Mitä tarkoittaa Bonus tuplana?"
+    },
+    {
+        "tulos": "Bonus kertyy, kun luet S-Etukortin maksupäätteessä tai esität kortin kassahenkilölle ostosten maksun yhteydessä ja ostosi kirjataan bonusostoksi. Voit kerryttää Bonusta toimipaikoissamme myös S-mobiilista löytyvällä S-Etukortin viivakoodilla tai digitaalisella S-Etukortilla.\n\nSaadaksesi Bonusta S-ryhmän verkkokaupoista, rekisteröidy verkkokauppaan ja liitä asiakasomistajatiedot osaksi verkkokaupan asiakastietoja Asiakasomistajan tunnistamispalvelussa.\n\nSaadaksesi Bonusta laskutusperusteisilta yhteistyökumppaneilta, kuten LähiTapiolalta, Sector Alarmilta tai Elisa/Saunalahdelta, ilmoita osuuskaupan jäsen-/asiointinumerosi yhteistyökumppanille tämän antamien ohjeiden mukaisesti.",
+        "syöte": "",
+        "ohje": "Miten Bonusta saa S-Etukortilla?"
+    },
+    {
+        "tulos": "Bonus ja Tankkausbonus kertyy osuuskaupan henkilöjäsenille eli asiakasomistajille heidän yksityisostoistaan. Yritysjäsenille ei makseta Bonusta/Tankkausbonusta.\n\nAsiakasomistajana saat Bonusta eli ostohyvitystä kaikista S-ryhmän ja yhteistyökumppaneiden bonustoimipaikoista. Osto kirjautuu bonusostoksi, kun esität S-Etukortin kassalla ostosten maksun yhteydessä. S-ryhmän toimipaikoissa voit myös kerryttää Bonusta mobiilisti maksamalla MobilePayllä.\n\nMuille perheenjäsenille kannattaa hankkia omat S-Etukortit, jolloin kaikkien samaan asiakasomistajatalouteen kuuluvien ostokset lasketaan yhteiseen bonusostokertymään. Koko asiakasomistajatalouden ostoista kertynyt Bonus ja Tankkausbonus maksetaan asiakasomistajalle ostoja seuraavan kuukauden 10. päivään mennessä.\n\nBonus ei kerry sopimushinnoitelluista eikä laskutettavista tuotteista. Poikkeuksena laskutusperusteiset yhteistyökumppanit esim. Elisa/Saunalahti, LähiTapiola, Sector Alarm ja paikalliset sähköyhtiöt. Tällöin Bonus kirjautuu, kun asiakasomistajatalouteen kuuluva on ilmoittanut jäsen-/asiointinumeronsa yhteistyökumppanille tämän antamien ohjeiden mukaisesti.\n\nKatso tarkemmat Bonuksen kertymisen erityisehdot S-ryhmän asiakasomistajajärjestelmän säännöistä.",
+        "syöte": "",
+        "ohje": "Kuka saa Bonusta/Tankkausbonusta?"
+    },
+    {
+        "tulos": "Kätevimmin voit seurata Bonuksen kertymistä lataamalla S-mobiilin kännykkään. S-mobiili on saatavilla Applen iOS- ja Googlen Android-puhelimelle. S-mobiili toimii useimpien pankkien pankkitunnuksilla – täysin maksutta!\n\nBonustiedot voit myös tarkistaa S-käyttäjätililtä, kun olet lisännyt sinne S-Etukorttisi tiedot. Bonustiedot löydät myös kirjautumalla seuraaviin S-ryhmän verkkokauppoihin: Sokos.fi, Prisma.fi ja Prismarauta.fi.\n\nAsiakasomistajatalouden pääjäsenelle sekä talouden henkilölle lähetetään sähköpostiin kuukausittain tieto maksetun Bonuksen määrästä. Viesti lähetetään, jos yhteystiedoista löytyy sähköpostiosoite. Sähköpostiosoitteen päivittäminen on nopeaa ja vaivatonta, voit päivittää yhteystiedot S-käyttäjätilin kautta.\n\nJos et koe verkkopalveluita omaksesi, voit tarkistaa bonustilanteesi myös toimipaikan itsepalvelupisteessä S-Etukorttipäätteellä. S-Etukorttipäätteellä asioidessasi tarvitset S-Etukorttisi lisäksi myös nelinumeroisen asiakastunnuksesi. Asiakastunnus ei ole sama kuin kassalla maksettaessa käytettävä kortin pin-koodi. Jollet muista omaa asiakastunnustasi, voit tarvittaessa tarkistaa sen S-käyttäjätililtäsi, Asiakasomistajapalvelu ja S-Pankki -pisteellä (useimmat Prismat ja Sokokset, valikoidut S-marketit) tai soittamalla S-ryhmän asiakasomistajapalveluun puh. 010 76 5858 ma-pe 9-16 (mpm/pvm).",
+        "syöte": "",
+        "ohje": "Miten voin seurata Bonuksen kertymistä?"
+    },
+    {
+        "tulos": "Bonuksen ja Tankkausbonuksen tilanteen voit tarkistaa S-mobiilista ja S-Etukorttipäätteeltä. Näet tiedot myös S-käyttäjätililtä, kun olet liittänyt sinne S-Etukorttisi tiedot.\n\nS-Tilin saldon ja tarkempien tapahtumien tarkistelu onnistuu S-Pankin verkkopankissa ja S-mobiilissa pankkitunnuksilla. Maksuttomat pankkitunnukset voit tilata Asiakasomistajapalvelu ja S-Pankki -pisteellä (useimmat Prismat ja Sokokset, valikoidut S-marketit).\n\nLopullisen maksettavien etujen tilanteen pystyy tarkastamaan kunkin kuun lopussa. Bonus ja Tankkausbonus maksetaan ostoja seuraavan kuun 10.päivä.",
+        "syöte": "",
+        "ohje": "Mistä näen bonustilanteeni?"
+    },
+    {
+        "tulos": "Tarkista seuraavat asiat:\n\nLyhentävätkö Bonuksesi osuusmaksuasi? Asiakasomistajaksi liittyessäsi olet voinut maksaa 100 euron osuusmaksusta vasta osan, ja sopia loppuosan kerryttämisestä Bonuksilla. Voit tarkistaa osuusmaksusi tilanteen ja halutessasi myös maksaa osuusmaksun täyteen S-käyttäjätilillä. Kun osuusmaksu on maksettu täyteen, alkavat Bonukset ja muut rahana maksettavat edut kertyä etujen maksutilillesi S-Pankkiin.\nOlethan itse asiakasomistajatalouden pääjäsen? Jos kerrytät Bonusta toiselle henkilölle, maksetaan Bonus hänen etujen maksutililleen S-Pankkiin.\nOnhan S-Tilisi merkitty etujen maksutiliksi? Voit varmistaa ja päivittää tilanteen S-mobiilin tai S-Pankin verkkopankin kautta S-Tilin asetuksista.",
+        "syöte": "",
+        "ohje": "Mihin Bonukseni menevät, kun S-Tililleni ei vielä ole kertynyt mitään?"
+    },
+    {
+        "tulos": "S-ryhmän toimipaikoissa voit kerryttää Bonusta mobiilisti S-mobiilin kautta joko digitaalisella S-Etukortilla tai S_Etukortin viivakoodilla. Bonus kertyy myös ABC-mobiililla.",
+        "syöte": "",
+        "ohje": "Voinko kerryttää Bonusta mobiilisti?"
+    },
+    {
+        "tulos": "Jokainen osuuskauppa on oma itsenäinen yritys, joka päättää itsenäisesti voimassa olevista asiakasomistajaeduista ja niiden periaatteista. Käytännössä päätöksen osuuskaupan bonustaulukkorakenteesta tekee osuuskaupan hallitus.\n\nBonus on vain yksi tapa tuottaa etuja asiakasomistajille. Asiakasomistajille maksetaan myös 0,5 % maksutapaetua S-ryhmän omissa toimipaikoissa S-Etukortilla maksetuista ostoista.  Osuuskauppa voi maksaa lisäksi osuusmaksun korkoa sekä ylijäämänpalautusta.",
+        "syöte": "",
+        "ohje": "Miksi osuuskaupoilla on erilaisia bonustaulukoita?"
+    },
+    {
+        "tulos": "Pullopantin osuus kirjataan bonusostoksi siinä vaiheessa, kun pullot ostetaan ja niistä maksetaan pullopantti. Kun pullot palautetaan, hyvitetään panttina ollut summa, joka vähennetään ostosten loppusummasta.\n\nBonus lasketaan aina maksettujen ostosten loppusummasta eli pullopantin osuudella vähennetystä laskun loppusummasta.",
+        "syöte": "",
+        "ohje": "Miksei Bonus kerry pullonpalautuksista?"
+    },
+    {
+        "tulos": "Sokos Hotelleista ja Suomen Radisson Blu hotelleista kertyy Bonusta silloin, kun varaus on tehty hotellien omissa verkkopalveluissa sokoshotels.fi tai radissonblu.com, hotellien myyntipalvelussa tai hotellissa paikan päällä. Ulkopuolisista varauspalveluista varatuista majoituksista ei kerry Bonusta.\n\nHotellissa paikan päällä maksetusta majoituksesta bonusosto kirjautuu vasta hotellista uloskirjautumisen yhteydessä ja näkyy bonusostoissa parin päivän kuluessa majoituksen päättymisestä.\n\nSokos Hotellien verkkopalvelussa tai myyntipalvelussa etukäteen maksetusta majoituksesta bonusosto kirjautuu maksuhetkelle ja näkyy bonusostoissa parin päivän kuluessa. Radisson Blu hotelleissa bonusosto kirjautuu aina majoituksen päättyessä uloskirjautumisen yhteydessä.\n\nBonusta kertyy yksityistalouden ostoista. Bonuksen saamiseksi majoitus tulee maksaa henkilökohtaisella maksuvälineellä.",
+        "syöte": "",
+        "ohje": "Miten hotellimajoituksen Bonus kirjautuu?"
+    },
+    {
+        "tulos": "Tankkausbonusta kertyy ABC:lta tehdyistä polttonesteostoista. Kaikista muista S-ryhmästä tehtävistä ostoksista maksetaan Bonusta. Polttonesteostojen eurot nostavat asiakasomistajatalouden kalenterikuukauden bonusprosenttia.\n\nTankkausbonus on senteissä per litra samansuuruinen kuin tankkauskuukauden bonusprosentti. Koska kaikki kuukauden bonusostot kasvattava bonusprosenttia, varmistuu kuukauden lopullinen bonusprosentti ja siten myös maksettavan Tankkausbonuksen määrä vasta kuun loputtua. Bonusprosentin kehittymistä kuukauden aikana voi seurata osoitteessa S-käyttäjätili.fi, S-mobiilista ja S‑Etukorttipäätteeltä.\n\nJos olet tankannut ABC:n toimipaikoissa ja käyttänyt S-Etukorttia, Tankkausbonus näkyy omana rivinään bonusostotiedoissasi. Lisäksi tankkausostot on eritelty tarkasti ja saat selville, kuinka paljon Tankkausbonusta on tulossa. Tankkausbonus näkyy etujen maksutilin tapahtumissa omana Tankkausbonus-tilitapahtumana (samalla tavalla kuin Bonus).\n\nTankkausbonus maksetaan ostoja seuraavassa kuussa, samaan aikaan Bonuksen kanssa kuun 10. päivään mennessä.",
+        "syöte": "",
+        "ohje": "Mitä on Tankkausbonus?"
+    },
+    {
+        "tulos": "Maksutapaetu on osuuskaupan asiakasomistajaetu, jota kertyy 0,5 % S-ryhmän Suomen toimipaikoissa S-Etukortilla maksetuista, maksutapaedun piiriin kuuluvista ostoista. Ostoksistasi kertyy siis Bonuksen lisäksi myös maksutapaetua, kun maksat ostosi S-Etukortillasi.\n\nMaksutapaetua kertyy kaikilla S-Etukortin maksuominaisuuksilla. Valitse itse, maksatko ostoksesi suoraan pankkitililtäsi vai luotolla. Maksutapaetu kertyy kaikkien samaan asiakasomistajatalouteen kuuluvien S-Etukorteilla maksetuista ostoista.\n\nMaksutapaetu lasketaan pääsääntöisesti koko oston loppusummasta. Joitakin poikkeuksia kuitenkin on. Maksutapaetua ei kerry tupakka- tai alkoholiostoista eikä välitystuotteista, kuten rahapeleistä. Maksutapaetua kertyy S-ryhmän autokaupoissa huolloista, varaosista ja tarvikkeista, mutta ei auton ostamisesta. S-Rautamarketeissa maksutapaetua kertyy kaikista niistä ostoista, joista Bonustakin kertyy. Huomaathan, että maksutapaetua ei kerry S-ryhmän ulkomaan toimipaikoista eikä S-ryhmän ulkopuolella esimerkiksi yhteistyökumppaneilla.\n\nKertynyttä maksutapaetua voit seurata esimerkiksi S-mobiilista ja kirjautumalla osoitteeseen S-käyttäjätili.fi. Koko asiakasomistajatalouden kuukauden ostoista kertynyt maksutapaetu maksetaan Bonuksen maksun yhteydessä asiakasomistajatalouden pääjäsenen tilille S-Pankkiin.",
+        "syöte": "",
+        "ohje": "Mitä on maksutapaetu?"
+    },
+    {
+        "tulos": "Voit avata S-Pankkiin toisen tilin, johon liität maksukortiksi S-Etukortti Visan (tai muun maksuominaisuudella varustetun S-Etukortin).",
+        "syöte": "",
+        "ohje": "Haluan säästää Bonukset. Miten voin silti maksaa S-Etukortilla, jotta saan 0,5 % maksutapaedun?"
+    },
+    {
+        "tulos": "Liiketoiminnan tuloksena syntynyttä ylijäämää voidaan palauttaa jäsenille mm. maksamalla korkoa jäsenten sijoittamille osuusmaksuille. Päätöksen osuusmaksun koron maksamisesta tekee vuosittain osuuskaupan edustajisto hallituksen esityksestä.\n\nOsuuskaupan edustajisto voi myös vuosittain päättää jakaa osuutta liiketuloksesta ylijäämänpalautuksena. Ylijäämänpalautusta maksetaan asiakasomistajatalouden osuuskaupasta palautusta edeltävänä vuonna tekemien ostojen mukaan, edustajiston päättämän prosentin mukaisesti.",
+        "syöte": "",
+        "ohje": "Mitä ovat osuusmaksun korko ja ylijäämänpalautus?"
+    },
+    {
+        "tulos": "Voit liittyä verkossa Liity asiakasomistajaksi tai Asiakasomistajapalvelussa.\n\nLiittymisen yhteydessä maksetaan 100 euron osuusmaksu. Osuusmaksun voi maksaa kerralla tai osissa. Tällöin loppuosa kerrytetään  Bonuksilla, yleisimmin kahden vuoden kuluessa.",
+        "syöte": "",
+        "ohje": "Miten voin liittyä asiakasomistajaksi?"
+    },
+    {
+        "tulos": "Voit liittyä osuuskaupan jäseneksi ja perustaa oman asiakasomistajatalouden kätevimmin verkossa tai voit käväistä Asiakasomistajapalvelu ja S-Pankki -pisteellä (useimmat Prismat ja Sokokset, valikoidut S-marketit).",
+        "syöte": "",
+        "ohje": "Miten saan oman S-Etukortin, kun olen aiemmin kerryttänyt Bonuksia toiselle henkilölle?"
+    },
+    {
+        "tulos": "Osuusmaksu on sijoitus osuuskaupan pääomaan – ei siis maksu S-Etukortista. Liityttyäsi asiakasomistajaksi lunastat osuusmaksulla yhden osuuden osuuskaupastasi – olet siis yksi osuuskauppasi omistajista. Osuuskaupat voivat maksaa korkoa täyteenmaksetulle osuusmaksulle.\n\nOsuusmaksun suuruus ja maksutapa määritellään osuuskaupan säännöissä. Osuusmaksu on 100 euroa ja osaosuusmaksu 20 euroa. Jos et ole maksanut osuusmaksua kokonaisuudessaan liittyessäsi asiakasomistajaksi, voit kerryttää puuttuvan osuuden Bonuksella tai maksaa sen erikseen. Osuusmaksun täyteenmaksuaika määritellään osuuskaupan säännöissä ja yleisimmin se on 24 kk.\n\nJos joskus päätät erota asiakasomistajuudesta, saat sijoittamasi osuusmaksun takaisin osuuskaupan sääntöjen määräämällä tavalla.",
+        "syöte": "",
+        "ohje": "Mikä on osuusmaksu ja miksi se pitää maksaa?"
+    },
+    {
+        "tulos": "Asiakasomistajaksi liittyessäsi sinulle avataan rahana maksettavia etuja varten tili S-Pankkiin, jolloin sinusta tulee myös S-Pankin asiakas. S-Pankki kysyy sinulta muiden pankkien tapaan erilaisia tietoja varmistaakseen yhdessä viranomaisten kanssa pankkiasiointisi turvallisuuden ja sujuvuuden. Lue lisää S-Pankin sivuilta.",
+        "syöte": "",
+        "ohje": "Miksi minulta kysytään erilaisia tietoja esimerkiksi raha-asioistan i ja verovelvollisuudestani?"
+    },
+    {
+        "tulos": "Asiakasomistajaksi liittymisessä annettavat tiedot tallennetaan S-ryhmän asiakasomistaja- ja asiakasrekisteriin. Liittymisen yhteydessä asiakkaasta tulee myös S-Pankin asiakas, sillä hänelle avataan S-Pankkiin tili, jolle Bonus ja muut rahana maksettavat edut maksetaan. S-Pankin asiakkuuteen liittyvät asiakastiedot tallennetaan S-Pankin asiakasrekisteriin.",
+        "syöte": "",
+        "ohje": "Mihin asiakasrekistereihin tallennetaan tiedot, jotka annan asiakasomistajaksi liittymisen yhteydessä?"
+    },
+    {
+        "tulos": "Asiakasomistajaksi voi liittyä verkossa täysi-ikäinen henkilö, jolla on suomalainen henkilötunnus sekä vakituinen osoite Suomessa. Verkossa liittyminen ei ole mahdollista, jos on jo voimassaoleva jäsenyys jossain osuuskaupassa. Verkossa liittyessä tulee olla myös käytössä pankkitunnukset, jotta tunnistautuminen ja osuusmaksun maksu onnistuvat. Tunnistautumisen voi tehdä myös mobiilivarmenteella.",
+        "syöte": "",
+        "ohje": "Kuka voi liittyä asiakasomistajaksi verkossa?"
+    },
+    {
+        "tulos": "Kyllä, asiakasomistajaksi liityttäessä maksetaan osuusmaksu joko kokonaan tai osaosuusmaksuna vähintään 20 euroa. Osuusmaksu on 100 euroa, jonka voi maksaa osissa tai kerryttää Bonuksilla täyteen. Liittymisen yhteydessä osuusmaksua maksetaan vähintään 20 euroa, joka suoritetaan verkkomaksuna pankkitunnuksilla.",
+        "syöte": "",
+        "ohje": "Pitääkö verkossa asiakasomistajaksi liittyjän maksaa osuusmaksua?"
+    },
+    {
+        "tulos": "Voit siirtää asiakasomistajuutesi toiseen osuuskauppaan Asiakasomistajapalvelu ja S-Pankki -pisteellä (useimmat Prismat ja Sokokset, valikoidut S-marketit). Ota mukaasi S-Etukorttisi ja henkilöllisyystodistus.",
+        "syöte": "",
+        "ohje": "Miten pitää toimia kun haluan siirtyä toisen osuuskaupan asiakasomistajaksi?"
+    },
+    {
+        "tulos": "Ei tarvitse. Kerro asiakaspalvelutilanteessa, että haluat siirtää asiakasomistajuutesi osuuskaupasta toiseen. Tällöin nykyiseen osuuskauppaan maksamasi osuusmaksu siirretään uuden osuuskaupan osuusmaksuun.",
+        "syöte": "",
+        "ohje": "Tuleeko minun ensin lopettaa nykyisen osuuskaupan asiakasomistajuus ja sen jälkeen liittyä uudestaan toisen osuuskaupan asiakasomistajaksi?"
+    },
+    {
+        "tulos": "Kyllä. Kun siirrät asiakasomistajuutesi osuuskaupasta toiseen, jatkuvat sinulle kuuluvat edut katkeamatta ja siirtymiskuukauden aikana tekemäsi bonusostot lasketaan mukaan bonusostokertymään uudessa osuuskaupassa.",
+        "syöte": "",
+        "ohje": "Huomioidaanko uudessa osuuskaupassa ne bonusostot, jotka olen ennen siirtoa ehtinyt tehdä, mutta joista ei vielä ole maksettu Bonusta?"
+    },
+    {
+        "tulos": "Siirron yhteydessä tilataan kaikille samaan asiakasomistajatalouteen kuuluville uudet S-Etukortit. Uusissa korteissa on uuden osuuskaupan tiedot, mutta muuten korttien ominaisuudet ovat samat kuin nykyisissä S-Etukorteissa. Uudet kortit lähetetään postitse kotiin. Nykyisiä S-Etukortteja voi käyttää normaalisti siihen saakka, kunnes uudet kortit saapuvat.",
+        "syöte": "",
+        "ohje": "Säilyykö S-Etukortti Visani entisellään vai tuleeko tässä eteen myös S-Etukortin uusinta?"
+    },
+    {
+        "tulos": "S-ryhmässä voi maksaa myös mobiilimaksuilla, joissa on yleismaksukortti takana. Tällaisia maksutapoja ovat esimerkiksi ABC-mobiili, Google Pay ja Apple Pay. Maksuväline voi olla esimerkiksi kännykän tai älykellon maksusovellus tai erillinen maksutarra.\n\nBonuksen kerryttäminen mobiilisti onnistuu S-mobiilin digitaalisella S-Etukortilla / S-Etukortin viivakoodilla sekä ABC-mobiililla.",
+        "syöte": "",
+        "ohje": "Voiko S-ryhmässä maksaa mobiilimaksulla?"
+    },
+    {
+        "tulos": "MobilePay-yhteistyö päättynyt myymälöissämme vuoden 2023 lopussa.\n\nJos sinulla on Android-puhelin, löydät S-mobiilin Minä-osiosta Digitaalisen S-Etukortin, jonka käyttöönotettuasi voit kerryttää Bonusta ja muita asiakasomistajaetuja digitaalisesti. S-Etukortti Visa-kortin voi myös lisätä maksukortiksi Google Payhin.\n\nS-mobiilin S-Etukortti-osiossa on käytettävissä myös S-Etukortin viivakoodi. Lue lisää täältä.",
+        "syöte": "",
+        "ohje": "Miksi en voi aktivoida S-Etukorttia Bonuksen kerryttämiseen MobilePayssa?"
+    },
+    {
+        "tulos": "MobilePay on yhdistynyt norjalaisen Vippsin kanssa ja lopettaa Bluetooth-tekniikan hyödyntämisen. Koska järjestelmämme eivät ole jatkossa yhteensopivat, päättyi MobilePay-yhteistyö myymälöissämme vuoden 2023 lopussa.\n\nTutkimme yhdessä mahdollisuuksia jatkaa MobilePayn kanssa tulevaisuudessa.\n\nMobilePay säilyy kuitenkin maksutapana niissä S-ryhmän verkkopalveluissa, joissa se on ollut käytettävissä aiemminkin.\n\nBonusta voi kerryttää käyttämällä fyysistä S-Etukorttia tai ottamalla Android-puhelimessa käyttöön digitaalisen S-Etukortin. Käyttöönotto tapahtuu S-mobiilin Minä-osiossa.\n\nS-mobiilin S-Etukortti-osiossa on käytettävissä myös S-Etukortin viivakoodi. Lue lisää täältä.",
+        "syöte": "",
+        "ohje": "Miksi MobilePay-maksutapa ja Bonuksen kerrytys loppuu S-ryhmän kaupoissa?"
+    },
+    {
+        "tulos": "Jos sinulla on Android-puhelin, löydät S-mobiilin Minä-osiosta Digitaalisen S-Etukortin, jonka käyttöönotettuasi voit kerryttää Bonusta ja muita asiakasomistajaetuja digitaalisesti. S-Etukortti Visa -kortin voi myös lisätä maksukortiksi Google Payhin.\n\nS-mobiilin S-Etukortti-osiossa on käytettävissä myös S-Etukortin viivakoodi. Lue lisää täältä.",
+        "syöte": "",
+        "ohje": "Onko teillä jotain MobilePayn korvaavaa digitaalista ratkaisua?"
+    },
+    {
+        "tulos": "Ei tarvitse.\n\nKanta-asiakkuudet -ominaisuus poistuu nykyisessä muodossaan MobilePay-sovelluksesta toistaiseksi.",
+        "syöte": "",
+        "ohje": "Pitääkö minun poistaa S-Etukorttini MobilePaysta tai tehdä jotain?"
+    },
+    {
+        "tulos": "Voit edelleen käyttää S-Pankin kortteja normaalisti maksukortteina sovelluksessa samoin kuin S-Pankin tiliä vastaanottotilinä.",
+        "syöte": "",
+        "ohje": "Voinko jatkossa lisätä S-Pankin kortin MobilePayhin maksukortiksi?"
+    },
+    {
+        "tulos": "Jos sinulla on Android-puhelin, löydät S-mobiilin Minä-osiosta Digitaalisen S-Etukortin, jonka käyttöönotettuasi voit kerryttää Bonusta ja muita asiakasomistajaetuja digitaalisesti. S-Etukortti Visa-kortin voi myös lisätä maksukortiksi Google Payhin.\n\nS-mobiilin S-Etukortti-osiossa on käytettävissä myös S-Etukortin viivakoodi. Lue lisää täältä.\n\nVoit tilata Bonuksen kerryttämiseen uuden käteiskortin S-käyttäjätilin kautta kirjautumalla osoitteessa s-käyttäjätili.fi.",
+        "syöte": "",
+        "ohje": "Minulla ei ole enää lainkaan fyysistä S-Etukorttia, sillä olen maksanut kaikki ostokseni MobilePaylla. Miten jatkossa saan hyödynnettyä ja kerättyä edut?"
+    },
+    {
+        "tulos": "S-ryhmän kaupoissa MobilePyalla maksaminen päättyi 31.12.2023.\n\nMobilePay säilyy kuitenkin maksutapana niissä S-ryhmän verkkopalveluissa, joissa se on ollut käytettävissä aiemminkin.\n\nLue lisää mobilepay.fi",
+        "syöte": "",
+        "ohje": "Voinko maksaa MobilePaylla vielä muualla?"
+    },
+    {
+        "tulos": "S-Etukortti on merkki asiakasomistajuudesta ja avain asiakasomistajaetuihin. S-Etukortilla kerrytät Bonusta ostoistasi S-ryhmän ja yhteistyökumppaneidemme toimipaikoissa. Myös maksutapaetu kertyy S-Etukortilla, kun maksat sillä ostoksesi S-ryhmän omissa toimipaikoissa Suomessa. S-Etukortilla saat myös monenlaisia hintaetuja mm. ravintoloissa, kahviloissa ja tavarataloissa.\n\nS-Etukortti on paitsi etukortti, myös monipuolinen maksuväline. Asiakasomistajana tai asiakasomistajatalouteen kuuluvana saat S-Etukorttiisi kuukausi- ja vuosimaksutta Visan, jolloin korttisi on liitetty valintasi mukaan pankkitiliin ja/tai luottotiliin. S-Etukortti Visalla voit maksaa ostojasi ympäri maailmaa Visan hyväksymissä liikkeissä ja nostaa käteistä kotimaassa pankkiautomaateista ja maailmalla Visa-automaateista. S-Tiliin liitetyllä S-Etukortilla voit nostaa käteistä myös S-ryhmän kauppojen kassoilta. S-Etukortti Visalla voit myös mikrosäästää S-mobiilin Säästäjä-palvelussa ohjaamalla haluamasi summan 50 sentistä viiteen euroon säästöön jokaisen debit-korttitapahtuman yhteydessä.\n\nS-Etukortilla voit myös käyttää S-Etukorttipäätettä. S-Etukorttipääte on asiakasomistajatalouteen kuuluvien henkilöiden käyttöön tarkoitettu pieni maksupäätteen näköinen laite, joita löytyy monista S-ryhmän toimipaikoista. S-Etukorttipäätteellä voit mm. tarkistaa asiakasomistajataloutesi kuluvan kuukauden bonusostokertymän.",
+        "syöte": "",
+        "ohje": "Mitä S-Etukortilla voi tehdä?"
+    },
+    {
+        "tulos": "Jos käytössäsi ollut S-Etukortti Käteinen on kadonnut tai vioittunut, saat tilattua uuden S-käyttäjätilillä,  Asiakasomistajapalvelu ja S-Pankki -pisteellä (useimmat Prismat ja Sokokset, valikoidut S-marketit) tai soittamalla S-ryhmän asiakasomistajapalveluun puh. 010 76 5858 ma-pe 9-16 (mpm/pvm). Toimipaikassa asioidessasi voit saada käyttöösi väliaikaisen kortin.\n\nJos käytössäsi on maksuominaisuuksia sisältävä S-Etukortti, tulee kadonneesta kortista ilmoittaa välittömästi korttien sulkupalveluun puh. 020 333 (avoinna 24 h, ulkomailta soitettaessa +358 20 333). Jos käytössäsi on Visa-tunnuksella merkitty kortti tai S-Etukortti Debit -kortti, sinulle lähetetään ilmoituksen jälkeen uusi kortti automaattisesti.\n\nVioittuneen kortin tilalle voit tilata uuden kortin S-Pankin verkkopankissa joko kortin tiedoista tai viestillä, tai soittamalla S-Pankin Asiakaspalveluun puh. 010 765 800 ma–pe klo 9-16 (mpm/pvm).\n\nMaksukortin uusimisesta veloitetaan S-Pankin palveluhinnaston mukainen maksu.",
+        "syöte": "",
+        "ohje": "Mitä teen, jos S-Etukorttini katoaa? Miten saan uuden S-Etukortin kadonneen tai vioittuneen tilalle?"
+    },
+    {
+        "tulos": "Osuuskauppa postittaa perunkirjoituksessa tarvittavat tiedot automaattisesti edesmenneen henkilön viimeisimpään kotiosoitteeseen kun tieto kuolinpäivästä tulee väestötietojärjestelmästä. S-Pankki postittaa mahdolliset tilien ja luottojen saldotodistukset.\n\nOsuusmaksutositteen voit myös tarvittaessa pyytää puhelimitse S-ryhmän asiakasomistajapalvelusta p. 010 76 5858 ma-pe 9-16 (0,084€/min) tai asioimalla Asiakasomistajapalvelu ja S-Pankki -pisteellä (useimmat Prismat ja Sokokset, valikoidut S-marketit). Asioinnilla tulee olla mukana virkatodistus, josta ilmenee osakkuutesi kuolinpesään.\n\nTiedot osuusoikeudesta merkitään perukirjalle. Kun perunkirjoitus on pidetty ja varoista sovittu, voidaan osuuskaupan jäsenyys päättää. Tämä tulee tehdä vuoden sisällä kuolinpäivästä lukien. Jäsenyyden voi lopettaa tai siirtää Asiakasomistajapalvelu ja S-Pankki -pisteessä. Mukana tulee olla seuraavat asiakirjat:\n\nsukuselvitys\nperukirja (jos vahvistettu, ei tarvitse sukuselvitystä)\nmahdollinen testamentti\nmahdollisen edesmenneen puolison perukirja (jos pesä on ollut jakamaton, tai ositus- ja jakokirja, mikäli pesä on jo jaettu)\nsekä yksilöity valtakirja muilta pesänosakkailta. Jos osuusoikeus päätetään siirtää henkilölle, tulee siirron saajan olla itse myös paikalla.\nJos osuuskaupan jäsenyyttä ei ole päätetty tai siirretty toiselle henkilölle vuoden kuluttua, jäsenyys irtisanotaan ja mahdolliset S-Pankin palvelut muuttuvat maksullisiksi.\n\nMikäli edesmennyt henkilö ei ollut osuuskaupan jäsen, vaan hänellä oli käytössään rinnakkaiskortti, voi kyseisen asiakasomistajatalouden pääjäsen poistaa henkilön asiakasomistajataloudestaan S-käyttäjätilillä tai ilmoittamalla asiasta asiakaspalveluumme.",
+        "syöte": "",
+        "ohje": "Omaiseni on kuollut ja hänellä oli S-Etukortti, miten tulee toimia?"
+    },
+    {
+        "tulos": "S-Etukortin saat, kun liityt osuuskaupan asiakasomistajaksi.\n\nIlmoita liittyessäsi kaikki perheenjäsenesi omaan asiakasomistajatalouteesi, jotta hekin saavat itselleen omat S-Etukortit. S-Etukortti on aina henkilökohtainen, joten jokaiselle perheenjäsenelle kannattaa tilata oma, kullekin sopivilla ominaisuuksilla varustettu S-Etukortti. Kun kaikki perheenjäsenet kuuluvat samaan asiakasomistajatalouteen, kerryttävät koko perheen ostot yhteistä bonusostokertymää. Näin bonusprosentti kasvaa korkeammaksi, Bonusta saa kaikkien perheenjäsenten tekemistä ostoista ja jokainen saa omalla S-Etukortillaan myös asiakasomistajille kuuluvat hintaedut.\n\nAsiakasomistajatalouden pääjäsenenä voit kutsua täysi-ikäisen henkilön tai lisätä alaikäisen lapsesi asiakasomistajatalouteesi S-käyttäjätilillä tai Asiakasomistajapalvelu ja S-Pankki -pisteellä (useimmat Prismat ja Sokokset, valikoidut S-marketit). Vaihtoehtoisesti voit täyttää hakemuksen S-ryhmän toimipaikassa. Jos sinulla on S-Pankin pankkitunnukset, voit kutsua tai lisätä henkilön myös soittamalla S-ryhmän asiakasomistajapalveluun puh. 010 76 5858 ma-pe 9-16 (mpm/pvm). Henkilöllisyytesi varmennetaan pankkitunnuksilla.\n\nJos asiakasomistajatalouteen kuuluvat haluavat S-Etukorttiinsa maksuominaisuuksia, tulee korttia hakea henkilökohtaisesti S-Pankista.",
+        "syöte": "",
+        "ohje": "Miten saan S-Etukortin itselleni tai perheenjäsenelleni?"
+    },
+    {
+        "tulos": "Käteiskortilla ei voi maksaa ostoksia, vaan tämä onnistuu S-Etukortti Visa –kortilla. Maksuttoman kortin voit tilata:\n\nAsiakasomistajapalvelu ja S-Pankki -pisteellä (useimmat Prismat ja Sokokset, valikoidut S-marketit)\nS-Pankin verkkopankissa",
+        "syöte": "",
+        "ohje": "Voinko maksaa ostoksia S-Etukortin käteiskortilla?"
+    },
+    {
+        "tulos": "S-Etukortti Visalla voit nostaa rahaa Visan hyväksyvistä käteisautomaateista kaikkialla maailmassa mukaan lukien kotimaiset pankkiautomaatit.",
+        "syöte": "",
+        "ohje": "Voiko S-Etukortilla nostaa rahaa pankkiautomaatista?"
+    },
+    {
+        "tulos": "S-Tili on S-Pankin käyttötili. Asiakasomistajana voit määritellä S-Tilisi etujen maksutiliksi, jolloin sinne maksetaan sinulle kertyvät, rahana maksettavat asiakasomistajaedut, kuten Bonus, Tankkausbonus ja maksutapaetu. Tililtä voit maksaa ostoksia debit-ominaisuudella varustetulla S-Etukortilla ja sen tapahtumia voi tarkistella verkkopankissa ja S-mobiilissa.\n\nS-Tili on kuukausi- ja vuosimaksuton asiakasomistajille ja kaikille samaan asiakasomistajatalouteen kuuluville. Samalla henkilöllä voi olla useita S-Tilejä. S-Tiliin voi myös antaa käyttöoikeuksia toisille henkilöille. S-Tilin voi avata asiakasomistaja ja kaikki hänen asiakasomistajatalouteensa kuuluvat. Alaikäiselle tilin avaavat hänen edunvalvojansa. Lisätietoa S-Tilistä löydät S-Pankin sivuilta.",
+        "syöte": "",
+        "ohje": "Mikä on S-Tili ja kuka sen voi avata?"
+    },
+    {
+        "tulos": "S-Tili on kuukausi- ja vuosimaksuton asiakasomistajille ja kaikille asiakasomistajatalouteen kuuluville. S-Pankin palveluhinnaston löydät S-Pankin sivuilta.",
+        "syöte": "",
+        "ohje": "Onko S-Tilistä kuluja?"
+    },
+    {
+        "tulos": "S-Tilisi saldon tai tapahtumat voit tarkistaa:\n\nS-Pankin verkkopankissa ja S-mobiilissa, kun sinulla on S-Pankin pankkitunnukset, lue lisää täältä.\nS-ryhmän toimipaikoissa olevilta S-Etukorttipäätteiltä voit tarkastaa S-Etukortillasi ja asiakastunnuksellasi etujen maksutilisi saldon, tilin viisi viimeistä tapahtumaa sekä tilinumeron. S-Etukorttipäätteen käyttöä varten tarvitset asiakastunnuksen, jonka löydät omalta S-käyttäjätililtäsi osoitteessa s-käyttäjätili.fi. S-Etukorttipäätteellä tilitiedot näytetään vain tilinomistajalle. Jos käytössäsi on rinnakkaiskortti ja sinulla on tilin käyttöoikeus, voit tarkistaa tilin saldon S-Pankin verkkopankista tai S-mobiilista.\nAsiakasomistajapalvelu ja S-Pankki -pisteellä.",
+        "syöte": "",
+        "ohje": "Mistä näen S-Tilini tapahtumat ja saldon?"
+    },
+    {
+        "tulos": "Osuuskaupan hallituksen päätöksen mukaisesti rahana maksettavat edut maksetaan S-ryhmän oman rahalaitoksen kautta. Jokaisella asiakasomistajalla tulee olla tili S-Pankissa saadakseen Bonuksen ja muut rahana maksettavat asiakasomistajaedut. Kaikille uusille asiakasomistajaksi liittyville avataan tili S-Pankkiin. Ilman tiliä ei voi saada Bonusta eikä muita rahana maksettavia etuja.\n\nEtujen maksaminen S-Pankin tilille on myös asiakasomistajan kannalta helppoa ja järkevää: Tilille maksettu Bonus ei vanhene eikä häviä ja se kasvaa tilillä korkoa. S-Pankin tili on asiakasomistajalle vuosi- ja kuukausimaksuton.",
+        "syöte": "",
+        "ohje": "Miksi Bonus maksetaan vain S-Pankin tilille?"
+    },
+    {
+        "tulos": "Bonuksen ja muiden rahana maksettavien etujen maksaminen S-ryhmän oman rahalaitoksen tilille on osuuskaupan kannalta selvästi edullisin tapa maksaa asiakasomistajille kertyvät edut. S-ryhmässä pyritään aina mahdollisimman kustannustehokkaisiin prosesseihin, jotta asiakasomistajan saama hyöty voidaan maksimoida. Bonuksen ohjaaminen muiden pankkien tileille edellyttäisi muutoksia järjestelmiin ja aiheuttaisi ylimääräisiä kustannuksia.",
+        "syöte": "",
+        "ohje": "Miksi Bonusta ei voi ohjata jonkun muun, kuin S-Pankin tilille?"
+    },
+    {
+        "tulos": "Elisa:\n\nBonusta kerryttävät tietyt Elisan palvelut. Lue lisää S-ryhmän Bonus – Elisa ja Saunalahti asiakaspalvelu\n\nMatkapuhelinlaskutuksessa bonusoston kirjautumishetki määräytyy laskutuskauden loppupäivän perusteella. Jos laskutuskausi päättyy kuukauden 1.-22. päivä, kirjautuu bonusosto seuraavan kuukauden bonuslaskentaan. Mikäli laskutuskausi päättyy kuukauden 23.–31. päivä, kirjautuu bonusosto sitä seuraavan kuukauden bonuslaskentaan eli noin kahden kuukauden päähän.\n\nElisa Laajakaistan osalta Elisan tilille kuukauden 21. päivään mennessä saapuneet maksut ehtivät saman kuukauden bonuslaskentaan, muutoin ostot kirjautuvat seuraavalle kuukaudelle.\n\nLaskun tulee olla maksettu kokonaisuudessaan viimeistään eräpäivänä, jotta Bonus kertyy.\n\nLähiTapiola:\n\nBonusta kerryttävään vakuutukseen merkityn maksajan tulee rekisteröidä S-ryhmän asiakasomistajuus LähiTapiolaan. Lue lisää: http://www.lahitapiola.fi/henkilo/edut/asiakasedut/rekisteroi-bonuksesi\n\nBonus alkaa kertyä vakuutusmaksuista, jotka on maksettu asiakasomistajuuden rekisteröimisen jälkeen.\n\nKuukauden 20. päivään mennessä maksetut Bonuksen piiriin kuuluvat vahinkovakuutusmaksut ehtivät pääsääntöisesti saman kuukauden bonusostokertymään. Bonusostoihin tapahtumat rekisteröityvät kuukauden viimeisinä päivinä.\n\nOral Hammaslääkärit:\n\nBonusta saa esittämällä S-Etukortin maksun yhteydessä Oralin toimipaikassa.\n\nBonusosto kirjataan maksun yhteydessä maksukuukaudelle.\n\nSector Alarm:\n\nSopimukselle merkityn maksajan tulee rekisteröidä asiakasomistajuutensa Sector Alarmin asiakaspalvelun kautta. Lue lisää: www.sectoralarm.fi/bonus\n\nBonus kirjautuu laskun muodostumisen yhteydessä ja bonusosto kirjautuu parin päivän sisällä laskun muodostumisesta.\n\nSilmäasema:\n\nBonusta saa Bonusta kerryttävistä ostoista esittämällä S-Etukortin maksun yhteydessä Silmäaseman toimipaikassa.\n\nBonusosto kirjataan maksun yhteydessä maksukuukaudelle.\n\nViking Line:\n\nMatkavarauksen maksajan tulee ilmoittaa oma jäsennumeronsa varauksen yhteydessä. S-Etukortti on näytettävä lähtöselvityksessä.\n\nLue lisää: http://www.vikingline.fi/fi/suomi/varaa-maksa-muuta/s-etukortti/bonusehdot/\n\nMatkoista, joiden lähtöpäivä on viimeistään kuukauden 23. päivä, kirjataan Bonus pääsääntöisesti matkustuskuukaudelle.",
+        "syöte": "",
+        "ohje": "Miten Bonus kirjautuu bonuskumppaneilta?"
+    },
+    {
+        "tulos": "Bonusta kertyy seuraavista LähiTapiolan vakuutuksista maksetuista vakuutusmaksuista:\n\n \n\nVahinkovakuutukset:\n\nLiikenne- ja kaskovakuutus\nKotivakuutus\nMaatilavakuutuksen yksityistalouden osuus\nKoira-, kissa- ja hevosvakuutus\nVenevakuutus\nLasten ja aikuisten sairaskuluvakuutus\nYksityistapaturma- ja matkavakuutus\nHenkivakuutukset:\n\nPerus- ja pariturva -henkivakuutus\nReilumpi asuntolainavakuutus\nHenkivakuutus LähiTapiola\nS-Arkiturva\nBonuksen kertyminen edellyttää, että vakuutusasiakas on rekisteröinyt asiakasomistajuutensa LähiTapiolalle.\n\nBonus ei kerry seuraavista vakuutuksista:\n\nYritysliiketoiminnan vakuutukset\nVahinkovakuutukset: metsävakuutukset, merkkikaskot (Kamux ja Toyota),\nLähiTapiola Keskinäisen Henkivakuutusyhtiön myöntämät sairaskuluvakuutukset.",
+        "syöte": "",
+        "ohje": "Mistä vakuutuksista voin kerryttää Bonusta?"
+    },
+    {
+        "tulos": "Bonukseen kirjatut tapahtumat voit tarkistaa S-käyttäjätililtä tai S-mobiilista. Vakuutuksien osalta kannattaa huomioida, että saamme pääsääntöisesti yhteistyökumppaneiltamme bonustiedot kerran kuussa lähempänä kuun vaihdetta, jonka jälkeen ne kirjautuvat ostotapahtumiin.",
+        "syöte": "",
+        "ohje": "Mistä voin tarkistaa vakuutuksista kertyneet Bonukset?"
+    },
+    {
+        "tulos": "Bonus kertyy S-ryhmän asiakasomistajan tai hänen asiakasomistajatalouteensa kuuluvan henkilön maksamista vakuutusmaksuista ja se maksetaan asiakasomistajatalouden pääjäsenelle. Bonus lasketaan asiakkaan oman osuuskaupan perusbonustaulukon mukaan.\n\nVahinko- ja henkivakuutuksissa kuukauden 20. päivään mennessä maksetut vakuutusmaksut kerryttävät maksukuukauden bonusostokertymää. Kuukauden 20. päivän jälkeen maksetut vakuutusmaksut kerryttävät seuraavan kuukauden bonusostokertymää.\n\nPoikkeus: Reilumman asuntolainavakuutuksen vakuutusmaksut kerryttävät maksukuukautta seuraavan kuukauden bonusostokertymää.\n\nOsuuskauppa maksaa kertyneen Bonuksen seuraavan kuun 10. päivään mennessä.\n\nHuomaa, että Bonus kertyy vain oikealla viitteellä maksetuista vakuutusmaksuista.",
+        "syöte": "",
+        "ohje": "Miten Bonus kertyy vakuutusmaksuista ja milloin se maksetaan?"
+    },
+    {
+        "tulos": "Bonuksen kertyminen edellyttää, että LähiTapiolan vakuutusten maksaja on rekisteröinyt asiakasomistajuutensa LähiTapiolaan. Bonus kertyy maksetuista vakuutusmaksuista. Kuukauden 20. päivään mennessä oikealla viitenumerolla maksetut vahinko- ja henkivakuutusten vakuutusmaksut ehtivät saman kuukauden bonusostokertymään. Kuukauden 20. päivän jälkeen maksetut vakuutusmaksut kerryttävät seuraavan kuukauden bonusostokertymää. Poikkeus: Reilumman asuntolainavakuutuksen vakuutusmaksut kerryttävät maksukuukautta seuraavan kuukauden bonusostokertymää. Osuuskauppa maksaa kertyneen Bonuksen seuraavan kuun 10. päivään mennessä.",
+        "syöte": "",
+        "ohje": "Mistä johtuu, että en ole saanut Bonusta vakuutusmaksuistani, vaikka olen rekisteröinyt asiakasomistajuuteni LähiTapiolaan?"
+    },
+    {
+        "tulos": "Bonuksen puuttumiseen voi olla kolme eri syytä:\n\nLiittymäsopimus on tehty 2.2.2024 tai sen jälkeen. Elisa myöntää Bonusta vain ennen 2.2.2024 solmituista liittymäsopimuksista.\nJos olet maksanut liittymälaskusi kuun loppupuolella, sitä ei välttämättä ehditä kirjata mukaan seuraavan kuun bonusostoihin, vaan vasta sitä seuraavalle kuukaudelle. Bonus myönnetään, kun lasku on maksettu eräpäivään mennessä.\nVirhe Elisalle ilmoitetussa jäsennumerossa voi estää Bonusten oikean kohdentumisen. Ilmoittamasi jäsennumeron voit tarkistaa laskusta tai OmaElisasta.\nJos tarvitset lisäapua tai lisätietoja, voit ottaa yhteyttä Elisan asiakaspalveluun.",
+        "syöte": "",
+        "ohje": "Olen ottanut Bonusta kerryttävän Elisan Saunalahti-liittymän, mutta en kuitenkaan ole saanut Bonusta. Miksi?"
+    },
+    {
+        "tulos": "Silmäasemalla Bonusta kertyy S-Etukortilla optikkojen palveluista ja tuoteostoista, kuten silmälaseista, piilolinsseistä, aurinkolaseista ja muista näkemiseen liittyvistä tarvikkeista, sekä silmäsairaaloiden kaihileikkauksesta. Bonusta ei kerry silmälääkärin vastaanotosta tai silmäsairaaloiden muista palveluista.",
+        "syöte": "",
+        "ohje": "Mistä Silmäasemalla saa Bonusta?"
+    },
+    {
+        "tulos": "Oralissa Bonusta saa kaikista hammashoitopalveluista ja kotihoitotuotteista. Bonus kertyy S-Etukortilla, kun maksat hammashoidon heti käynnin yhteydessä.",
+        "syöte": "",
+        "ohje": "Mistä Oralin palveluista saa Bonusta?"
+    },
+    {
+        "tulos": "Bonusta kertyy Sector Alarmin hälytyspalvelun kuukausimaksusta. Laskut, jotka ovat muodostuneet kuun 25. päivään mennessä, kerryttävät kuluvan kuukauden bonuskertymää. Kuun 25. päivän jälkeen muodostuneet laskut kerryttävät seuraavan kuukauden bonuskertymää.",
+        "syöte": "",
+        "ohje": "Miten Bonus kertyy Sector Alarmilta?"
+    },
+    {
+        "tulos": "Saadaksesi Bonusta hälytyspalvelun kuukausimaksusta, sinun tulee olla sopimukselle merkitty maksaja ja rekisteröidä asiakasomistajuutesi Sector Alarmin asiakaspalvelussa joko soittamalla p. 0207 345 000 (0,088€/min), ottamalla yhteyttä chat-palvelun kautta osoitteessa www.sectoralarm.fi/asiakaspalvelu (ma-to 8-18, pe 8-17) tai lähettämällä sähköpostia asiakaspalvelu@sectoralarm.fi",
+        "syöte": "",
+        "ohje": "Mitä minun pitää tehdä, jotta saan Bonusta Sector Alarmilta?"
+    },
+    {
+        "tulos": "S-Etukortin numeroa ei tarvita rekisteröinnissä, mutta sinun tulee tietää 10-numeroinen jäsen-/asiointinumerosi. Löydät sen S-Etukortiltasi sekä omista tiedoistasi Omalta S-kanavalta ja S-mobiilista.",
+        "syöte": "",
+        "ohje": "Pitääkö minun tietää rekisteröitymisen yhteydessä S-Etukortin numero?"
+    },
+    {
+        "tulos": "Bonus kertyy sille asiakkaalle, jonka nimissä sopimus on, sen jälkeen, kun asiakas on ilmoittanut jäsen-/asiointinumeronsa Sector Alarmille.",
+        "syöte": "",
+        "ohje": "Mitä jos perheessämme on useampia palvelun maksajia? Miten rekisteröimme asiakasomistajuutemme Sector Alarmille?"
+    },
+    {
+        "tulos": "Et voi. Asiakasomistajuuden rekisteröinti onnistuu ainoastaan Sector Alarmin asiakaspalvelun kautta.",
+        "syöte": "",
+        "ohje": "Voinko rekisteröidä asiakasomistajuuteni Sector Alarmille S-ryhmän toimipisteessä?"
+    },
+    {
+        "tulos": "S-ryhmä ja Sector Alarm eivät luovuta asiakastietojaan toistensa käyttöön ilman asiakkaidensa lupaa, siksi rekisteröinti pitää tehdä itse. Rekisteröityessään asiakas antaa S-ryhmälle luvan välittää tiedon asiakasomistajuudesta Sector Alarmille ja Sector Alarmille luvan välittää tarvittavat tiedot S-ryhmälle Bonuksen maksamista varten.",
+        "syöte": "",
+        "ohje": "Miksi minun pitää rekisteröidä itse asiakasomistajuuteni? Eikö S-ryhmä voi toimittaa tietojani Sector Alarmille?"
+    },
+    {
+        "tulos": "Rekisteröityminen tulee voimaan välittömästi.",
+        "syöte": "",
+        "ohje": "Miten nopeasti asiakasomistajuuden rekisteröityminen tapahtuu Sector Alarmilla?"
+    },
+    {
+        "tulos": "Sinulla tulee olla olemassa asiakkuus Sector Alarmilla, jotta rekisteröityminen voidaan tehdä.",
+        "syöte": "",
+        "ohje": "Voinko rekisteröidä asiakasomistajuuteni, jos olen vasta pyytänyt tarjouksen Sector Alarmilta?"
+    },
+    {
+        "tulos": "Rekisteröitymisen yhteydessä S-ryhmän asiakasomistaja- ja asiakasrekisteristä tarkistetaan, että kuulut asiakasomistajatalouteen ja olet siten oikeutettu kerryttämään Bonusta Sector Alarmin laskuistasi. Sector Alarmin laskusi kerryttävät jatkossa asiakasomistajatalouden bonusostokertymää.",
+        "syöte": "",
+        "ohje": "Mitä vaikutuksia asiakasomistajuuden rekisteröimisellä Sector Alarmille on?"
+    },
+    {
+        "tulos": "Bonusta myönnetään kaikista S-Etukortti osiossa https://www.vikingline.fi/valitse-matka/s-etukortti/ markkinoitavista Viking Linen erikoishintaisista matkapaketeista. Bonukseen oikeuttava matkatarjonta pitää sisällään Viking Linen risteilyjä Helsingistä Tallinnaan ja Tukholmaan, Turusta Maarianhaminaan ja Tukholmaan, reittimatkoja Helsingistä Tukholmaan ja Tallinnaan ja Turusta Tukholmaan, sekä erilaisia hotellipaketteja Helsingistä ja Turusta. Kaikista Viking Linen matkoista ei siis kerry Bonusta.",
+        "syöte": "",
+        "ohje": "Mistä kaikista Viking Linen matkoista saa Bonusta?"
+    },
+    {
+        "tulos": "Yhteishyvä on kaikille asiakasomistajille ilmainen. Ilman S-Etukorttia se maksaa neljä euroa. Yhteishyvä on jaossa kaikissa S-ryhmän kaupoissa.\n\nYhteishyvä.fi-sivuston sisältö on saatavilla kaikille.",
+        "syöte": "",
+        "ohje": "Onko Yhteishyvä-lehti ilmainen?"
+    },
+    {
+        "tulos": "Yhteishyvä on siirtynyt  myymäläjakeluun. Lehden saa  S-Etukortilla maksutta kaikista S-ryhmän kaupoista.",
+        "syöte": "",
+        "ohje": "Miksi minulle ei tule Yhteishyvä-lehteä, vaikka olen asiakasomistaja?"
+    },
+    {
+        "tulos": "Samarbete-lehti ilmestyy neljä kertaa vuodessa Yhteishyvä-lehden tavoin ja se on jaossa kaksikielisillä alueilla.",
+        "syöte": "",
+        "ohje": "Onko Yhteishyvä-lehti vain suomenkielinen?"
+    },
+    {
+        "tulos": "S-ryhmän asiakasomistaja- ja asiakasrekisteriin tallennetaan tietoja\n•\tosuuskaupan asiakasomistajista eli jäsenistä\n•\tasiakasomistajatalouksiinsa kuuluvista muista henkilöistä sekä\n•\tmuista asiakkaista, jotka ovat tilanneet joitain tämän rekisterin tietojen perusteella tuotettavia palveluita (esim. uutiskirje, S-käyttäjätili).\nJos sinulla on S-Etukortti tai käytössäsi on S-käyttäjätili, on sinusta tietoja S-ryhmän asiakasomistaja- ja asiakasrekisterissä.\nVoit selvittää sen, onko sinusta tietoja / mitä tietoja sinusta on S-ryhmän asiakasomistaja- ja asiakasrekisterissä tarkastamalla omat tietosi kirjautumalla S-käyttäjätilille tai tilaamalla rekisteriotteen tiedoistasi postitse täyttämällä tilauksen verkkolomakkeella.",
+        "syöte": "",
+        "ohje": "S-Etukorttiasiakkaat: Mistä tiedän, onko minusta tietoja S-ryhmän asiakasomistaja- ja asiakasrekisterissä?"
+    },
+    {
+        "tulos": "Keräämme mm. asiakasomistajasopimuksella antamasi tiedot kuten nimi, henkilötunnus, yhteystiedot, ja asiakasomistajaksi liittymisaika sekä myöhemmin asiointitilanteissa antamasi tiedot kuten esim. tiedot ostoista ja tilatuista/käyttöönotetuista palveluista.\n\nKeräämme tiedot ostoistasi tuotetasolla\n\nS-marketeista\nPrismoista\nSaleista\nAlepoista\nSokoksista\nEmotioneista\nS-Raudoista\nABC:ltä\nS-ryhmän ravintoloista (esimerkiksi Rosso, Amarillo, Coffee House, Presso, Frans & les Femmes, Pizza & Buffa)\nSokos Hotelleista ja Suomen Radisson Blu -hotelleista\nS-kaupat.fi -verkkokaupasta (S-ryhmän ruoan verkkokauppa)\nSokos.fi -verkkokaupasta\nPrisma.fi -verkkokaupasta\nOstotiedot S-ryhmän muista toimipaikoista sekä Bonusta myöntäviltä yhteistyökumppaneilta kertyvät rekisteriin kuitin loppusummatasolla. Ostotietoja käytetään mm. Bonuksen ja muiden rahana maksettavien etujen laskentaan, markkinoinnin kohdentamiseen ja liiketoiminnan kehittämiseen. Tallennamme myös tiedot maksetuista Bonuksista ja muista rahana maksetuista eduista sekä etujen maksuosoitteesta, käyttöönottamistasi palveluista sekä verkko- ja mobiilipalveluiden käytöstä.\n\nTarkempaa tietoa S-ryhmän asiakasomistajajärjestelmässä käsiteltävistä henkilötiedoista ja niiden käyttötarkoituksista sekä omista oikeuksistasi löydät tältä tietosuojasivustolta sekä S-ryhmän asiakasomistaja- ja asiakasrekisterin tietosuojaselosteelta.\n\nS-Pankin asiakkuuteen liittyviä tietoja hallinnoidaan S-Pankin asiakasrekisterissä (www.s-pankki.fi).",
+        "syöte": "",
+        "ohje": "S-Etukorttiasiakkaat: Mitä tietoja minusta kerätään S-ryhmän asiakasomistaja- ja asiakasrekisteriin?"
+    },
+    {
+        "tulos": "S-ryhmän asiakasomistaja- ja asiakasrekisterissä käsittelemme myös alaikäisten henkilötietoja. Asiakasomistajaksi liittymisellä ei ole alaikärajaa, ja asiakasomistajatalouteen voi myös liittää alaikäisen.\n\nLiittymisestä asiakasomistajaksi tai asiakasomistajatalouteen tehdään sopimus. Alaikäisen sopimuksen tekee aina hänen huoltajansa, joka samalla hyväksyy alaikäisen liittämisen S-ryhmän asiakasomistajajärjestelmään ja siihen liittyvän henkilötietojen käsittelyn.\n\nVoimme myös rajoitetusti kohdentaa markkinointia alaikäiselle. Toteutamme suoramarkkinoinnin alaikäisille aina noudattaen lainsäädäntöä ja viranomaisohjeita.",
+        "syöte": "",
+        "ohje": "S-Etukorttiasiakkaat: Mitä alaikäisten henkilötietoja kerätään?"
+    },
+    {
+        "tulos": "Asiakasomistajatietoa käytetään mm. Bonuksen, maksutapaedun ja ylijäämänpalautuksen laskentaan, jäsenhallinnon ja asiakaspalvelun hoitamiseen, viestinnän, markkinoinnin ja sisältöjen kohdentamiseen sekä etutarjonnan ja S-ryhmän liiketoiminnan, kuten valikoimien ja palveluverkoston kehittämiseen. Tietoja käytetään myös erilaisten asiakasomistajille tarkoitettujen hyötypalvelujen, kuten Omat ostot -palvelun tuottamiseen.\n\nMarkkinoinnin ja sisältöjen kohdentamisessa käytetään mm. asiakasperustietoja, asiakasryhmittelyjä ja ostotietoja.\n\nTarkemmat tiedot asiakastietojen käyttötarkoituksista löydät tältä tietosuojasivustolta ja S-ryhmän asiakasomistaja- ja asiakasrekisterin tietosuojaselosteelta.",
+        "syöte": "",
+        "ohje": "S-Etukorttiasiakkaat: Mihin henkilötietojani käytetään?"
+    },
+    {
+        "tulos": "Voit tarkastaa sinusta S-ryhmän asiakasomistaja- ja asiakasrekisterissä olevat tiedot kirjautumalla S-käyttäjätilille tai tilaamalla rekisteriotteen tiedoistasi postitse täyttämällä tilauksen verkkolomakkeella.\n\nOmalla S-kanavalla voit tarkastella tietojasi ja tulostaa ja tallentaa ne itsellesi. Verkkolomakkeella tai sähköpostilla tilaamasi tiedot lähetämme sinulle postitse kirjattuna kirjeenä, varaudu todistamaan henkilöllisyytesi lähetystä noutaessasi.",
+        "syöte": "",
+        "ohje": "S-Etukorttiasiakkaat: Miten voin tarkastaa tietoni?"
+    },
+    {
+        "tulos": "Jos et halua vastaanottaa mielipide- ja markkinatutkimuskyselyjä, esim. asiakastyytyväisyyskyselyjä, voit antaa tutkimuskyselyjen kiellon S-ryhmän asiakasomistaja- ja asiakasrekisteriin. Kiellon voit antaa\n\nlisäämällä itse kiellon tietoihisi kirjautumalla S-käyttäjätilille osoitteessa S-käyttäjätili\nasioimalla asiakasomistajapalvelussa (lähes kaikissa Prismoissa ja Sokoksissa\nlähettämällä pyynnön kiellon lisäämisestä palautelomakkeella (valitse aiheeksi asiakasomistajuus, S-Etukortti ja Bonus)\nsoittamalla S-ryhmän asiakasomistajapalveluun puh. 010 76 5858 (ma-pe 9-16, puhelun hinta 0,084 €/min) tai\nlähettämällä sähköpostia suoraan rekisterinpitäjälle osoitteella tutkimuskyselykielto@sok.fi.\nKielto vaikuttaa sen asettamisen jälkeen tehtyihin tutkimuskyselyjen osoitepoimintoihin. On mahdollista, että saat vielä yhden kyselyn kiellon antamisen jälkeen, jos seuraavan kyselyn osoitteisto on jo ehditty muodostaa ennen kiellon asettamista.",
+        "syöte": "",
+        "ohje": "S-Etukorttiasiakkaat: Miten voin kieltää tutkimuskyselyt?"
+    },
+    {
+        "tulos": "Käytämme kerättyjä asiakastietoja asiakasomistajien hyödyksi tuottamalla tietojen avulla palveluja ja etuja.\n\nAsiakasomistaja hyötyy asiakastietojen käyttämisestä Bonuksen, maksutapaedun ja ylijäämänpalautuksen lisäksi myös mm. paremmin hänen tarpeitaan vastaavina valikoimina, palvelutarjontana ja toimipaikkaverkostona sekä osuvana markkinointina ja viestintänä.\n\nTietoja käytetään myös erilaisten asiakasomistajille tarkoitettujen hyötypalvelujen tuottamiseen.  Omat ostot -palvelussa voit tarkastella omia ostojasi visualisoituna eri tavoin ja seurata esimerkiksi ostojesi kotimaisuusastetta tai hiilijalanjälkeä.\n\nSaat lisää tietoa S-ryhmän asiakasomistaja- ja asiakasrekisteriin kerättävistä tiedoista ja niiden käyttötarkoituksista tältä tietosuojasivustolta sekä S-ryhmän asiakasomistaja- ja asiakasrekisterin tietosuojaselosteesta.",
+        "syöte": "",
+        "ohje": "S-Etukorttiasiakkaat: Miten hyödyn asiakastietojeni keräämisestä?"
+    },
+    {
+        "tulos": "Voit kieltää tarkan, tuotetasoisen ostotiedon keräämisen ja käyttämisen. Kiellon voit antaa\n\nlisäämällä itse kiellon tietoihisi kirjautumalla S-käyttäjätilille\nasioimalla asiakasomistajapalvelussa (lähes kaikissa Prismoissa ja Sokoksissa\nlähettämällä pyynnön kiellon lisäämisestä palautelomakkeella (valitse aiheeksi asiakasomistajuus, S-Etukortti ja Bonus)\nsoittamalla S-ryhmän asiakasomistajapalveluun puh. 010 76 5858 (ma-pe 9-16, puhelun hinta 0,084 €/min)\nHuomaathan, että kiellon annettuasi et voi enää käyttää tarkkaa ostotietoa tarvitsevaa Omat ostot -palvelua.",
+        "syöte": "",
+        "ohje": "S-Etukorttiasiakkaat: Miten voin kieltää tarkan ostotiedon käsittelyn?"
+    },
+    {
+        "tulos": "Kyllä. Voit kerryttää Bonusta vaikka kieltäisit tarkan ostotiedon keräämisen. Et kuitenkaan voi hyödyntää tarkkaa ostotietietoa tarvitsevia hyötypalveluja, kuten Omat ostot-palvelu tai älykäs ostoslista, jos kiellät meitä tallentamasta ostoistasi kuitin loppusummaa tarkempia tietoja. Ilman tarkkaa ostotietoa emme myöskään pysty kohdentamaan markkinointia ja verkkosivujen sisältöjä mahdollisimman hyvin juuri sinun tarpeitasi vastaaviksi.",
+        "syöte": "",
+        "ohje": "S-Etukorttiasiakkaat: Voinko saada Bonusta ostoistani, vaikka kieltäisin tarkan ostotiedon keräämisen?"
+    },
+    {
+        "tulos": "Asiakkaalla on aina halutessaan oikeus kieltää suoramarkkinointi. Voit antaa S-ryhmän asiakasomistaja- ja asiakasrekisteriin suoramarkkinointikiellon, jolloin emme lähetä sinulle minkäänlaista markkinointiviestintää emmekä käytä henkilötietojasi sisältöjen kohdentamiseen. Suoramarkkinointikielto on estää siis myös esimerkiksi bonustilanteesta kertovat sähköpostitiedotteet. Jos haluat saada esim. bonustiedotteet, mutta et suoramarkkinointia, voit rajata saamaasi viestintää tarkemmin omien mieltymystesi mukaan.\n\nVoit ohjata viestintää antamalla tietoihisi erilaisia lupa- ja kieltotietoja:\n\nAntamalla sähköpostimarkkinointiluvan annat meille luvan lähettää sähköpostiisi markkinointia S-ryhmältä ja S-ryhmän yhteistyökumppaneilta. S-ryhmällä tarkoitetaan osuuskauppoja ja SOK-yhtymää tytär- ja osakkuusyhtiöineen (esim. S-Pankki). Yhteistyökumppanilla tarkoitetaan yrityksiä, jotka esim. myöntävät Bonusta ja/tai etuja asiakasomistajille, sekä yrityksiä, jotka tekevät S-ryhmän kanssa yhteistyötä, yhteismarkkinointia tai ostavat S-ryhmältä medianäkyvyyttä.\nAntamalla markkinointiluvan mobiiliin päätelaitteeseen (matkapuhelimeen) annat meille luvan lähettää matkapuhelimeesi tai muuhun mobiiliin päätelaitteeseesi markkinointiviestejä, kuten tekstiviestejä tai kuvaviestejä S-ryhmältä ja S-ryhmän yhteistyökumppaneilta.\nJos et halua antaa sähköpostimarkkinointilupaa, mutta haluaisit saada markkinointiviestejä sähköpostiin itse valitsemiltasi S-ryhmän ketjuilta, voit tilata uutiskirjeitä.\nPuhelinmarkkinoinnin kielto estää perinteisen telemarkkinoinnin, eli markkinointisoitot. Huomioimme myös ASML:n Robinson-rekisteriin antamasi puhelinmarkkinointikiellot.\nPostitse lähetettävän suoramarkkinoinnin kielto estää muun postitse lähetettävän suoramarkkinoinnin, mutta ei Yhteishyvä-lehden lähettämistä.\nAsiakkuuteen ja etuihin liittyvien tiedotteiden kielto estää asiakasomistajaetuihin liittyvät sähköpostitiedotteet, kuten bonustilanteesta tiedottamisen.\nOsuuskaupan jäsenyyteen ja asiakasomistajatalouteen liittyvien tiedotteiden kielto estää osuuskaupan jäsenyyteen liittyvät sähköpostitiedotteet, tällaisia ovat esimerkiksi osuusmaksun tilanteesta tai osuuskaupan edustajiston vaaleista sekä asiakasomistajatalouden rakenteessa tapahtuvista muutoksista kertovat viestit.\nTuotearvostelupyyntöjen kielto estää sähköpostitse lähetettävät pyynnöt arvostella ostamiasi tuotteita.\nTutkimuskyselyjen kielto estää kaikki mielipide- ja markkinatutkimuskyselyt, mm. asiakastyytyväisyyskyselyt ja asiakaspaneelikyselyt.\nSuoramarkkinointikielto estää kaiken suoramarkkinoinnin ja sisältöjen kohdentamisen. Suoramarkkinointikiellon antaneille voidaan kuitenkin lähettää osuuskaupan äänioikeutetuille jäsenille tarkoitettu edustajiston vaalien vaaliaineisto sekä asiakkaillemme vakaviin, asiakkaan henkeä tai terveyttä uhkaaviin tuotevirheisiin liittyvät tiedotteet.\nVoit päivittää itse lupa- ja kieltotietoja kirjautumalla S-käyttäjätilille osoitteessa S-käyttäjätili, asioimalla asiakaspalvelupisteessä (suurimmissa Prismoissa ja Sokoksissa) tai lähettämällä viestiä palautekanavan kautta tai soittamalla S-ryhmän asiakasomistajapalveluun puh. 010 76 5858 (ma-pe 9-16, puhelun hinta 0,084 €/min).",
+        "syöte": "",
+        "ohje": "S-Etukorttiasiakkaat: Miten voin kieltää markkinoinnin?"
+    },
+    {
+        "tulos": "Henkilötietojasi säilytetään ainoastaan niin kauan, kuin se on tarpeellista. S-ryhmän asiakasomistaja- ja asiakasrekisterissä olevalle henkilötiedolle määritelty käsittelyperuste luo raamit säilytysajalle. Lakiin perustuvan henkilötiedon käsittelyn säilytysaika tulee annettuna suoraan laista. Sopimukseen, suostumukseen ja oikeutettuun etuun perustuvan henkilötietojen käsittelyn säilytysaika on rekisterinpitäjän määritettävissä. Näiden tietojen säilytysaikaan vaikuttaa myös tiedon tarpeellisuus virhetilanteiden selvityissä sekä asiakkuuden jatkuvuuden mahdollistamisessa.\n\nAsiakkaalla on lähtökohtaisesti mahdollisuus pyytää poistettavaksi tietoja, joiden säilytykseen rekisterinpitäjällä ei ole lakiin perustuvaa säilytysvelvollisuutta. Jos et halua, että käsittelemme henkilötietojasi, voit pyytää poistettavaksi joko osan tai kaikki henkilötietosi. Huomaathan kuitenkin, että jos olet osuuskaupan asiakasomistaja eli jäsen, emme voi poistaa kaikkia tietojasi, koska osuuskuntalaki edellyttää pitämään jäsenluetteloa osuuskaupan jäsenistä ja kirjanpitolaki säilyttämään tositeaineistoa rahatapahtumista. Jos haluat tietojasi poistettavaksi, ota yhteyttä:\n\npalautelomakkeella (valitse aiheeksi asiakasomistajuus, S-Etukortti ja Bonus)",
+        "syöte": "",
+        "ohje": "S-Etukorttiasiakkaat: Kuinka kauan säilytätte tietojani?"
+    },
+    {
+        "tulos": "Jos teet virallisen osoitteenmuutoksen maistraattiin etkä ole antanut väestötietojärjestelmään asiakasrekisterin päivityskieltoa, saamme tiedon muuttuneesta osoitteestasi automaattisesti väestötietojärjestelmästä. Jos sinulla on väestötietojärjestelmässä asiakasrekisterin päivityskielto tai joku muu päivityksen estävä kielto, ilmoita muuttunut osoitteesi meille asioimalla asiakasomistajapalvelussa (lähes kaikissa Prismoissa ja Sokoksissa, varaudu todistamaan henkilöllisyytesi) tai  soittamalla S-ryhmän asiakasomistajapalveluun puh. 010 76 5858 (ma-pe 9-16, puhelun hinta 0,084 €/min). Jos olet myös S-Pankki Oyj:n asiakas, edellytää osoitteen päivittäminen vahvaa tunnistamista.",
+        "syöte": "",
+        "ohje": "S-Etukorttiasiakkaat: Mihin ilmoitan nimen-/osoitteenmuutoksen?"
+    },
+    {
+        "tulos": "Voit päivittää sähköiset yhteystietosi (sähköpostiosoite ja matkapuhelinnumero) sekä ohjata henkilötietojesi käyttämistä antamalla lupa- ja kieltotietoja kirjautumalla S-käyttäjätilille, S-mobiilissa, asioimalla asiakasomistajapalvelussa (lähes kaikissa Prismoissa ja Sokoksissa), lähettämällä viestiä palautelomakkeella (valitse aiheeksi asiakasomistajuus, S-Etukortti ja Bonus) tai soittamalla S-ryhmän asiakasomistajapalveluun puh. 010 76 5858 (ma-pe 9-16, puhelun hinta 0,084 €/min).",
+        "syöte": "",
+        "ohje": "S-Etukorttiasiakkaat: Missä voin ylläpitää yhteystietojani, markkinointilupia ja kieltotietoja?"
+    },
+    {
+        "tulos": "Osaa henkilötiedoistasi voit päivittää itse kirjautumalla S-käyttäjätilille tai S-mobiiliin. Voit myös asioida asiakasomistajapalvelussa (lähes kaikissa Prismoissa ja Sokoksissa), lähettää viestiä palautelomakkeella (valitse aiheeksi asiakasomistajuus, S-Etukortti ja Bonus) tai soittaa S-ryhmän asiakasomistajapalveluun puh. 010 76 5858 (ma-pe 9-16, puhelun hinta 0,084 €/min).",
+        "syöte": "",
+        "ohje": "Miten toimin, jos asiakastiedoissani on virheitä?"
+    },
+    {
+        "tulos": "Jos epäilet, että henkilötietosi ovat joutuneet vääriin käsiin, ota viipymättä yhteyttä suoraan rekisterinpitäjään osoitteella tietosuoja.asiakkuus@sok.fi. Voit myös ottaa yhteyttä S-ryhmän tietosuojavastaavaan osoitteella tietosuojavastaava@sok.fi.",
+        "syöte": "",
+        "ohje": "S-Etukorttiasiakkaat: Mihin olen yhteydessä, jos epäilen, että toinen henkilö on nähnyt minun tietojani?"
+    },
+    {
+        "tulos": "Ilmoitamme S-Pankille perustietojesi ja yhteystietojesi päivitykset, jos olet myös S-Pankin asiakas. Ilmoitamme verottajalle tiedot maksamistamme osuusmaksun koroista ja eronneille jäsenille maksetuista pääomanpalautuksista. Voimme myös luovuttaa muita tietoja viranomaisille vastatessamme viranomaisten lakisääteisiin tietopyyntöihin.\n\nAsiakasomistajajärjestelmään kuuluville yhteistyökumppaneille luovutamme tietojasi ainoastaan sinun toimeksiannostasi. Eli esimerkiksi silloin, kun rekisteröidyt asiakasomistajaksi yhteistyökumppanillemme saadaksesi Bonusta laskulla maksettavista palveluista.",
+        "syöte": "",
+        "ohje": "S-Etukorttiasiakkaat: Mitä ovat henkilötietojen luovutukset?"
+    },
+    {
+        "tulos": "Lisätietoja asiakasomistajuudesta, asiakasomistajaeduista ja esimerkiksi liittymisestä asiakasomistajaksi saat\n\nverkkosivuiltamme osoitteesta www.s-kanava.fi\nasioimalla kauppareissulla asiakasomistajapalvelussa, palvelupisteitä löydät lähes kaikista Prismoista ja Sokoksista. Palvelupisteiden sijainnit ja aukioloajat löydät täältä (kirjoita hakuun asiakasomistajapalvelu)\nsoittamalla S-ryhmän asiakasomistajapalveluun puh. 010 76 5858 (ma-pe 9-16, puhelun hinta 0,084 €/min) tai\nlähettämällä kysymyksen palautelomakkeella (valitse aiheeksi asiakasomistajuus, S-Etukortti ja Bonus)",
+        "syöte": "",
+        "ohje": "S-Etukorttiasiakkaat: Mistä saan lisätietoja asiakasomistajuudesta?"
+    },
+    {
+        "tulos": "Keräämme asiakkaistamme sellaisia tietoja, joita tarvitsemme hotelliyöpymisen, ravintolavierailun tai kokousvarauksen ja hyvän asiakaspalvelun toteuttamiseksi. Hotelliyöpymiseen tarvitsemme nimesi ja yhteystietosi. Laki myös vaatii kaikissa hotelleissa niin sanotun matkustajailmoituksen täyttämistä. Voimme täydentää matkustajailmoituksesta varausjärjestelmäämme varaukseen ja majoittumiseesi liittyen kotiosoitetiedot, mutta emme tallenna varausjärjestelmään esimerkiksi henkilötunnustasi. Käsittelemme myös muun muassa tulevien ja aiempien majoitustesi tietoja varmistaaksemme sinulle mahdollisimman hyvän kokemuksen ja palvelun vierailusi aikana.\n\nJos kuulut S-Card -kanta-asiakasjärjestelmään, keräämme yöpymis- ja ostotietoa voidaksemme ylläpitää jäsenyyttäsi ja jotta voit hyödyntää kanta-asiakkaalle kuuluvat etusi.\n\nLisätietoja kerättävistä henkilötiedoista ja niiden käsittelyperusteista saat sivulta www.sokoshotels.fi/tietosuoja.",
+        "syöte": "",
+        "ohje": "Hotelli- ja ravintola-asiakkaat: Mitä tietoja minusta kerätään?"
+    },
+    {
+        "tulos": "Kun saavut hotellimme, tarkista esitäytetystä matkustajailmoituksesta, että meillä olevat tietosi pitävät paikkansa. Kerro muuttuneista tiedoistasi hotellin vastaanottohenkilökunnalle niin korjaamme tietosi oikeiksi.\n\nJos olet asiakasomistaja tai S-Card-kanta-asiakas ja olet tehnyt varauksesi internetistä www.sokoshotels.fi -sivustolta kirjautuneena käyttäjänä, saamme yhteystietosi asiakasomistaja- tai S-Card-järjestelmästä. Saamme asiakasomistajien osoitteenmuutokset Väestörekisterikeskuksesta automaattisesti ellet ole kieltänyt päivityspalvelua.  Päivittyneitä osoitetietojasi käytetään seuraavan varauksesi yhteydessä.",
+        "syöte": "",
+        "ohje": ": "
+    },
+    {
+        "tulos": "Haluamme palvella sinua tarpeesi ja toiveesi huomioiden. Kun käsittelemme tietoa sukupuolestasi tai tietoa aiemmista tai tulevista varauksistasi, voimme esitäyttää puolestasi matkustajailmoituksen, huomioida toiveesi hotellissa tai ravintolassa tai huomioida sinua erityisesti esimerkiksi juhlapyhinä tai syntymäpäivinä. Matkailu on elämystoimiala, jossa yöpymiseen tai ravintolakäyntiin liittyy muutakin kuin fyysiset puitteet.\n\nVoimme myös lähettää sinulle suoramarkkinointia suostumuksellasi. Sinulla on milloin vain mahdollisuus kieltää suoramarkkinointi.",
+        "syöte": "",
+        "ohje": "Hotelli- ja ravintola-asiakkaatMihin henkilötietojani käytetään?"
+    },
+    {
+        "tulos": "S-ryhmälle annetun suoramarkkinointiluvan, joka koskee myös hotellien ja ravintoloidemme suoramarkkinointia, voi peruuttaa usealla tavalla.\n\nVoit poistaa antamasi suoramarkkinointisuostumuksen kirjautumalla Omalle S-kanavalle\nAsioimalla asiakasomistajapalvelussa (lähes kaikissa Prismoissa ja Sokoksissa)\nLähettämällä pyynnön suoramarkkinointiluvan peruuttamisesta palautelomakkeella (valitse aiheeksi asiakasomistajuus, S-Etukortti ja Bonus)\nSoittamalla S-ryhmän asiakasomistajapalveluun puh. 010 76 5858 (ma–pe klo 9–16, puhelun hinta 0,084 €/min) tai\nLähettämällä sähköpostia osoitteeseen asiakkuus@sok.fi.\nUutiskirjetilauksen tai markkinointiviestin voi peruuttaa uutiskirjeen lopussa olevasta linkistä. Hotellin henkilökunnalla ei ole mahdollisuutta peruuttaa tilaamiasi uutiskirjeitä, sillä emme hallitse uutiskirjeiden tilaustietoa hotellien varausjärjestelmässä.",
+        "syöte": "",
+        "ohje": "Hotelli- ja ravintola-asiakkaatMiten voin kieltää markkinoinnin?"
+    },
+    {
+        "tulos": "Tietosi poistetaan automaattisesti järjestelmistämme kun viimeisestä yöpymisestäsi on kulunut kolme vuotta eikä sinulla ole voimassaolevia varauksia.",
+        "syöte": "",
+        "ohje": "Hotelli- ja ravintola-asiakkaat: Kuinka kauan tietojani säilytetään?"
+    },
+    {
+        "tulos": "Varauksen eri vaiheessa voimme käyttää ulkopuolisia palveluntuottajia erilaisten asiakaspalveluun ja asiakassuhteen hoitoon tarkoitettujen toimintojen tuottamiseksi. Kaikki yhteistyökumppanimme noudattavat S-ryhmän periaatteita asiakastiedon käsittelyssä ja heidän kanssaan on solmittu tietojenkäsittelysopimukset ja tarvittaessa vakiolausekkeet.\n\nVaratessasi majoitusta Suomen Radisson Blu –hotelleista, varauksen tiedot luovutetaan myös Radisson Hotel Groupille, joka toimii itsenäisenä rekisterinpitäjänä. Lisätietoa Radisson Hotels Groupin tietosuojasta voi lukea www.radissonhotels.com/fi-fi/tietosuoja.\n\nSiirrämme ostotietojasi S-ryhmän sisällä asiakasomistajan Bonusostojen ja ja S-Card –asiakkaan pisteiden kerryttämiseksi. Lisäksi jos haluat kerryttää lentoyhtiön kanta-asiakasohjelman pisteitä, tietoja yöpymisestäsi voidaan luovuttaa yhteistyökumppaneille.",
+        "syöte": "",
+        "ohje": "Hotelli- ja ravintola-asiakkaat: Kenelle tietojani luovutetaan?"
+    },
+    {
+        "tulos": "Laki majoitus- ja ravitsemistoiminnasta vaatii hotelleja ylläpitämään niin sanottua matkustajarekisteriä. Siksi pyydämme sinua täyttämään matkustajailmoituksen saapuessasi hotelliimme. Ryhmämatkalle osallistuvista matkustajista voidaan tehdä yhteinen matkustajailmoitus. Matkustajailmoitukset kerätään matkustajarekisteriin, jota säilytetään hotellissa.\n\nMatkustajailmoituksella kerätään matkustajan täydellinen nimi ja suomalainen henkilötunnus tai syntymäaika sekä kansalaisuus, mikäli matkustaja ei ole suomalainen. Ilmoituksessa kerrotaan myös matkustajan mukana olevan puolison sekä alaikäisten lasten täydelliset nimet ja suomalaiset henkilötunnukset tai niiden puuttuessa syntymäajat ja matkustajan osoitetiedot. Näiden lisäksi matkustajailmoituksessa kerrotaan maa, josta matkustaja saapuu Suomeen, matkustajan matkustusasiakirjan numero sekä matkustajan hotelliin saapumispäivä ja lähtöpäivä. Matkustajailmoituksella annettuja tietoja voidaan viedä SOK:n matkailu- ja ravitsemiskaupan asiakasrekisteriin pois lukien tieto henkilötunnuksesta, jota käsitellään vain matkustajarekisterissä.\n\nMatkustajailmoitukset ja -tiedot säilytetään yhden vuoden ajan matkustajailmoituksen allekirjoittamispäivästä, minkä jälkeen ne hävitetään. Tästä poiketen asiakaspalveluun ja suoramarkkinointiin käytettäviä tietoja voidaan säilyttää kauemmin SOK:n matkailu- ja ravitsemiskaupan asiakasrekisterissä.\n\nMatkustajien tietoja voidaan luovuttaa viranomaisille voimassa olevan lainsäädännön sallimissa ja velvoittamissa rajoissa esimerkiksi viranomaisten tietopyyntöihin vastattaessa.",
+        "syöte": "",
+        "ohje": "Hotelli- ja ravintola-asiakkaat: Miksi minun täytyy täyttää matkustajailmoitus ja mihin tarvitsette henkilötunnukseni?"
+    },
+    {
+        "tulos": "Hotellivaraukseen yleensä liitetään sähköpostiosoite, jota käytämme tarvittaessa yhteydenottoihin. Voimme myös pyytää palautetta yöpymisestäsi. Kysely lähetetään automaattisesti varaukseen merkittyyn sähköpostiosoitteeseen. Asiakaspalautteiden perusteella parannamme palvelujamme.\n\nToisinaan tapahtuu tilanne, että saat asiakaspalvelukyselyn, vaikka et olisi hetkeen yöpynyt hotellissamme. Tällöin olet mahdollisesti joskus varannut yöpymisen toisen puolesta ja tässä yhteydessä sähköpostiosoitteesi on yhdistynyt toisen henkilön tietoihin esimerkiksi varausvahvistuksen lähettämistä varten. Toinen asiakkaamme on myös voinut kirjoittaa oman sähköpostiosoitteensa väärin varauksen yhteydessä. Ota virhetilanteissa yhteyttä tietosuoja.mara@sok.fi ja korjaamme tietosi oikeiksi.",
+        "syöte": "",
+        "ohje": "Hotelli- ja ravintola-asiakkaat: Miksi sain asiakas- tai tutkimuskyselyn?"
+    },
+    {
+        "tulos": "Keräämme asiakkaistamme seuraavia tietoja:\n\nnimi ja yhteystiedot (esim. puhelinnumero, sähköpostiosoite, kortin toimitusosoite, laskutusosoite)\näidinkieli\nmahdollinen markkinointikielto\nauton rekisterinumero polttoainelaskutuksessa\nostotapahtumat\nchat-keskustelut",
+        "syöte": "",
+        "ohje": "S-Business asiakkaat: Mitä tietoja minusta kerätään?"
+    },
+    {
+        "tulos": "Voit olla yhteydessä S-Business -asiakaspalveluun osoitteeseen s-business@sok.fi.",
+        "syöte": "",
+        "ohje": "S-Business asiakkaat: Mihin ilmoitan, jos tiedoissani on virheitä?"
+    },
+    {
+        "tulos": "Käytämme henkilötietojasi palvelun tuottamiseen (esimerkiksi S-Business-kortin tilaaminen, laskutus) sekä asiakasviestintään. Lisäksi asiakasrekisterissämme olevia tietoja voidaan käsitellä S-ryhmään kulloinkin kuuluvien yhteisöjen sekä yhteistyökumppaneiden markkinointitarkoituksiin.",
+        "syöte": "",
+        "ohje": "S-Business asiakkaat: Mihin henkilötietojani käytetään?"
+    },
+    {
+        "tulos": "Voimme lähettää asiakkaillemme S-Business -etuihin tai uusiin toiminnallisuuksiin liittyvää asiakasviestintää sekä sähköistä markkinointia (sähköposti tai mobiili). Voimme esimerkiksi lähettää sähköpostitse tietoa kortin uusista toiminnallisuuksista ja kortin käyttömahdollisuuksista S-ryhmän toimipaikoissa.",
+        "syöte": "",
+        "ohje": "S-Business asiakkaat: Miksi saan teiltä markkinointia työsähköpostiini?"
+    },
+    {
+        "tulos": "Suoramarkkinointikiellon voit tehdä ottamalla yhteyttä asiakaspalveluumme s-business@sok.fi.",
+        "syöte": "",
+        "ohje": "S-Business asiakkaat: Miten voin kieltää markkinoinnin?"
+    },
+    {
+        "tulos": "Näet työnhakujärjestelmäämme tallentuneet tietosi kirjautumalla järjestelmään itse. Järjestelmässä on työnhaun yhteydessä itse antamasi tiedot. Meillä voi olla sinusta myös muita tietoja kuten esimerkiksi soveltuvuuslausunto (asiantuntijatehtävissä), tai muita mahdollisia selvityksiä. Näiden tietojen osalta voit olla yhteydessä sen S-ryhmän yrityksen (esimerkiksi osuuskauppa tai SOK) henkilöstöyksikköön, jota hakusi on koskenut. Löydät yhteystiedot täältä linkin takaa.",
+        "syöte": "",
+        "ohje": "Työnhakijat: Mitä tietoja työnhakujärjestelmässä minusta on?"
+    },
+    {
+        "tulos": "Näet omat, työnhakujärjestelmäämme tallentuneet tietosi kirjautumalla järjestelmään itse. Sinun ei tarvitse täyttää erillisiä lomakkeita.",
+        "syöte": "",
+        "ohje": "Työnhakijat: Onko teillä lomaketta, jolla voin tehdä pyynnön omista tiedoistani?"
+    },
+    {
+        "tulos": "Säilytämme työnhakutietojasi enintään 2,5 vuotta siitä, kun kyseinen rekrytointi on suljettu. Tämän jälkeen tiedot poistetaan automaattisesti. Säilytysajat perustuvat kanne- ja vanhemisaikoihin, jotka määritellään tasa-arvo- ja yhdenvertaisuuslaeissa sekä rikoslaissa.",
+        "syöte": "",
+        "ohje": ": "
+    },
+    {
+        "tulos": "Ota yhteyttä sen S-ryhmän yrityksen (esimerkiksi osuuskauppa tai SOK) henkilöstöyksikköön, jota asia koskee. Voit myös lähettää viestin yrityksen tietosuojaosoitteeseen. Löydät yhteystiedot täältä linkin takaa.",
+        "syöte": "",
+        "ohje": "Työnhakijat: Keneen voin olla yhteydessä henkilötietojeni käsittelyyn liittyvissä asioissa?"
+    },
+    {
+        "tulos": "Ole yhteydessä sen S-ryhmän yrityksen (esimerkiksi osuuskauppa tai SOK) henkilöstöyksikköön, jota asia koskee. Voit myös lähettää viestin kyseisen työnantajayrityksen tietosuojaosoitteeseen. Löydät yhteystiedot täältä linkin takaa. Huomioithan kuitenkin, että emme välttämättä voi heti poistaa kaikkia tietojasi: jos olet hakenut meiltä jotakin avointa tehtävää, säilytämme hakijoiden tiedot niin kauan, että työntekijävalinnan riitautusaika on ohi.",
+        "syöte": "",
+        "ohje": "Työnhakijat: Miten toimin, jos haluan poistaa kaikki tietoni järjestelmistänne?"
+    },
+    {
+        "tulos": "Keräämme sinusta ainoastaan työsuhteesi kannalta tarpeellisia tietoja. Meillä tulee olla yhteystietojesi lisäksi esimerkiksi tiedot pankkitilistäsi palkanmaksua varten. Kysymme sinulta myös tiedon hätäyhteyshenkilöstäsi, jotta tiedämme, keneen voimme olla yhteydessä sinua koskevassa hätätapauksessa. Työsuhteesi aikana meille kerääntyy myös tietoja terveydentilastasi, jos joudut esimerkiksi sairastumisen vuoksi olemaan poissa työstä.",
+        "syöte": "",
+        "ohje": "Työntekijät: Mihin henkilötietojani käytetään?"
+    },
+    {
+        "tulos": "Olemme määritelleet tarkasti ne roolit ja henkilöt, jotka voivat nähdä työntekijöiden eritasoisia tietoja. Näet itsekin S-ryhmän työtovereidesi perustiedot, kuten nimen, paikan organisaatiossa ja työnantajayrityksen HR-järjestelmästä. Esihenkilölläsi on luonnollisesti pääsy sinua koskeviin tietoihin. HR-yksikössä ja palkanlaskennassa on myös henkilöitä, joilla on tehtäviinsä kuuluen oikeudet päästä katsomaan ja käsittelemään työntekijöiden henkilötietoja.",
+        "syöte": "",
+        "ohje": "Työntekijät: Ketkä kaikki näkevät tietojani?"
+    },
+    {
+        "tulos": "Pääset katsomaan omat HR-järjestelmään kertyneet tietosi itsepalveluna suoraan järjestelmästä. Muualle kertyneet henkilötietosi saat selvitettyä, kun otat yhteyttä oman työnantajasi henkilöstöyksikköön.",
+        "syöte": "",
+        "ohje": "Työntekijät: Miten voin tarkastaa tietoni?"
+    },
+    {
+        "tulos": "Ota yhteyttä omaan esihenkilöösi, jos et itse pysty päivittämään virheellistä tietoa esimerkiksi HR-järjestelmään.",
+        "syöte": "",
+        "ohje": "Työntekijät: Mihin ilmoitan, jos tiedoissani on virheitä tai jokin tieto on muuttunut?"
+    },
+    {
+        "tulos": "Työnantajana meillä on oikeus säilyttää rajoitetusti tietoja sinusta vielä työsuhteesi päättymisen jälkeenkin. Sinulla on oikeus esimerkiksi pyytää työtodistusta vielä 10 vuotta työsuhteesi päättymisestä: jotta voimme sellaisen laatia, meidän tulee säilyttää sinusta tarvittavat tiedot riittävältä ajalta. Meillä on lisäksi oikeus säilyttää tietojasi niin kauan, kuin työsuhteeseesi liittyvistä asioista voisi lain mukaan tulla jälkikäteen riitaa.",
+        "syöte": "",
+        "ohje": "Työntekijät: En enää ole S-ryhmässä töissä, enkä halua, että tietojani säilytetään vanhalla työnantajallani. Miten toimin, jos haluan poistaa kaikki tietoni järjestelmistänne?"
+    },
+    {
+        "tulos": "Tietojen käsitteleminen työsuhteessa ei yleensä perustu suostumukseen vaan työsopimuksen täytäntöönpanemiseen tai lakisääteiseen velvoitteeseen.",
+        "syöte": "",
+        "ohje": "Työntekijät: Miksi käsittelette tietojani, vaikka en ole antanut siihen suostumustani?"
+    },
+    {
+        "tulos": "Asia lähtee eteenpäin, kun ilmoitat havainnostasi heti esimiehellesi tai kyseessä olevan S-ryhmän yrityksen henkilöstöyksikköön.",
+        "syöte": "",
+        "ohje": "Työntekijät: Miten toimin, jos havaitsen näkeväni muiden ihmisten tietoja tai joku muu näkee minun tietoni?"
+    },
+    {
+        "tulos": "Tämä riippuu siitä, millaisesta tiedosta on kyse. Säilytysajat on määritelty tarkasti tietotyypeittäin, ja ne perustuvat siihen, kuinka kauan jostakin työsuhteeseen liittyvästä asiasta voisi tulla erimielisyyttä. Säilytämme tietojasi kuitenkin enintään 10 vuotta työsuhteen päättymisestä eli sen aikaa, kuin meillä on velvoite laatia pyytäessäsi työtodistus sinulle.",
+        "syöte": "",
+        "ohje": "Työntekijät: Kuinka kauan säilytätte tietojani?"
+    },
+    {
+        "tulos": "\nTältä sivulta löydät vastauksia työntekijöiden usein kysymiin tietosuojakysymyksiin. Lue lisää henkilötietojesi käsittelystä myös täältä.\n\nJos mielessäsi on kysymys, johon et löydä vastausta tai haluat antaa palautetta tietosuojasivuistamme, ota yhteyttä tietosuojavastaava@sok.fi.\n\nS-ryhmässä olemme laatineet roolien mukaisia tietosuojakoulutuksia koko henkilöstölle sekä erikseen rekisterinpitäjien edustajille, johdolle ja asiantuntija- tai asiakaspalvelutehtävissä toimiville.\n\nHarjoittelemme erilaisia tietosuojaprosesseja ja pidämme tietosuojaverkostolle erityisiä tietosuoja- ja tietoturvallisuuspäiviä kaksi kertaa vuodessa vuosikellon mukaisesti.",
+        "syöte": "",
+        "ohje": "Työntekijät: S-ryhmä kouluttaa työntekijöille tietosuojaa ja toimintaa myös harjoitellaan"
+    },
+    {
+        "tulos": "Sinulla on oikeus saada meiltä tietoa siitä, käsittelemmekö henkilötietojasi. Jos käsittelemme tietojasi, sinulla on oikeus saada kopio meillä olevista henkilötiedoistasi.\n\nVoit itse tutustua S-Etukorttiin ja asiakasomistajuuteen liittyviin tietoihisi kirjautumalla S-käyttäjätilillesi.  Kerromme enemmän tietopyynnön tekemisestä Haluatko tietää mitä tietoja meillä sinusta on? -sivulla.",
+        "syöte": "",
+        "ohje": "Sinun oikeutesi: Omiin tietoihin tutustuminen"
+    },
+    {
+        "tulos": "Sinulla on oikeus vaatia, että sinua koskevat virheelliset henkilötiedot korjataan tai puutteelliset henkilötiedot täydennetään. Osan hallussamme olevista tiedoista voit korjata itse kirjautumalla S-käyttäjätilillesi.  Osoitteenmuutokset saamme Väestörekisterikeskuksesta, ellet ole tehnyt tietojen luovutuskieltoa.\n\nOta virheellisten tietojen oikaisua varten yhteyttä siihen rekisterinpitäjään, joka käyttää virheellisiä tietojasi. Löydät S-ryhmän rekisterinpitäjien yhteystiedot linkin takaa.",
+        "syöte": "",
+        "ohje": "Sinun oikeutesi: Virheellisten tietojen oikaisu"
+    },
+    {
+        "tulos": "Jos henkilötietojesi käyttö perustuu sinulta pyydettyyn suostumukseen, sinulla on oikeus peruuttaa meille antamasi suostumus milloin tahansa. Voit tutustua henkilötietojesi käsittelyn perusteeseen tarkemmassa tietosuojainformaatiossa Asiakkaana, Töissä meillä tai Yhteistyökumppanina -sivulla.\n\nJos haluat peruttaa suostumuksen, ota yhteyttä siihen rekisterinpitäjään, joka käyttää tietojasi suostumuksesi perusteella. Löydät S-ryhmän rekisterinpitäjien yhteystiedot linkin takaa.\n\nMarkkinoinnista ja tietosuojasta voit lukea lisää tietoa linkin kautta.",
+        "syöte": "",
+        "ohje": "Sinun oikeutesi: Suostumuksen peruuttaminen"
+    },
+    {
+        "tulos": "Sinulla on oikeus saada meiltä sinua koskevat henkilötiedot koneellisesti luettavassa muodossa ja oikeus siirtää kyseiset tiedot esimerkiksi toiselle yritykselle silloin, kun olemme käyttäneet tietojasi antamasi suostumuksen tai sopimuksen perusteella ja käytämme tietojasi automaattisen käsittelyn avulla. Käytännössä tämä tarkoittaa S-ryhmässä sitä, että toimitamme meille antamasi henkilötiedot sinulle muistitikulla tai muulla sähköisellä keinolla.\n\nJoudumme tunnistamaan sinut siirron toteuttamisen yhteydessä, jotta emme anna tietojasi väärälle henkilölle. Tunnistaminen tehdään rekisterinpitäjän määrittelemällä tavalla. Ota tietojesi siirtopyyntöä varten yhteyttä siihen rekisterinpitäjään, jolta haluat henkilötietosi saada. Löydät S-ryhmän rekisterinpitäjien yhteystiedot linkin takaa.",
+        "syöte": "",
+        "ohje": "Sinun oikeutesi: Henkilötietojen siirtäminen toiselle rekisterinpitäjälle"
+    },
+    {
+        "tulos": "Tietosuojalainsäädäntö antaa sinulle oikeudet rajoittaa tai vastustaa henkilötietojesi käsittelyä silloin kun käytämme käsittelyn perusteena niin sanottua rekisterinpitäjän oikeutettua etua.\n\nHenkilötietojen rajoittaminen tarkoittaa toimia, joilla varmistamme, että tietosi eivät muutu eivätkä poistu rajoitusaikana, ellet pyydä meiltä muita toimia. Jotta voimme rajoittaa henkilötietojesi käsittelyä,\n\nsinun täytyy tuoda esiin, että meillä sinusta hallussa olevat henkilötiedot eivät pidä paikkaansa. Silloin rajoitamme henkilötietojesi käsittelyä siksi aikaa kun tarkistamme tiedot. tai\nsinun täytyy vastustaa tietojesi poistoa vaikka olemme käsitelleet henkilötietojasi lainvastaisesti. tai\nsinä tarvitset tietoja oikeudellisista syistä ja haluat meidän säilyttävän tietojasi, jotta voit laatia tai esittää vaateen tai muuten puolustaa oikeuksiasi. Tällöin emme poista niitä tietojasi, jotka muuten poistaisimme esimerkiksi säilytysajan päättyessä. tai\nsinun täytyy vastustaa rekisterinpitäjän oikeutettuun etuun perustuvaa henkilötietojen käsittelyä. Tällöin rajoitamme henkilötietojen käsittelyä siksi aikaa kun selvitetään, onko rekisterinpitäjän oikeutetuksi katsoma henkilötietojesi käyttö perusteltua vai ei.\nSinulla on myös oikeus vastustaa suoramarkkinointia tai henkilötietojesi perusteella tehtyä markkinoinnin profilointia. Tämän jälkeen henkilötietojasi ei enää käsitellä suoramarkkinointiin.",
+        "syöte": "",
+        "ohje": "Sinun oikeutesi: Henkilötietojen käsittelyn rajoittaminen ja vastustamisoikeus"
+    },
+    {
+        "tulos": "Sinulla on oikeus pyytää meitä poistamaan sinua koskevat henkilötiedot. Emme kuitenkaan voi aina poistaa sinua koskevia tietoja, jos esimerkiksi laki vaatii meiltä tietojesi säilyttämistä. Tietojen poiston arviointia ja toteuttamista helpottaa, jos pystyt tarkentamaan mitä tietoja haluat meidän poistavan. Tee tietojen poistopyyntö sille rekisterinpitäjälle, joka käyttää tietojasi. Löydät S-ryhmän rekisterinpitäjien yhteystiedot linkin takaa.",
+        "syöte": "",
+        "ohje": "Sinun oikeutesi: Tietojen poistaminen"
+    },
+    {
+        "tulos": "Jos meillä tapahtuisi henkilötietoihin kohdistuva tietoturvaloukkaus, sinulla on oikeus saada tietoa tapahtuneesta, jos loukkaus voi aiheuttaa korkeaa riskiä oikeuksillesi tai vapauksillesi. Tämä tarkoittaa sitä, että meidän tulee ilmoittaa sinulle, jos esimerkiksi sinun täytyy tietoturvaloukkauksen takia vaihtaa salasanojasi tai sulkea luottokorttisi.\n\nSinulla on oikeus saada meiltä tietoa siitä,\n\nmillainen henkilötietojen tietoturvaloukkaus on tapahtunut\nmitä tietoturvaloukkauksesta todennäköisesti seuraa\nmitä olemme tehneet tai aiomme tehdä asian eteen ja haittavaikutusten lieventämiseksi\nmistä voit saada lisätietoja asiasta.\nIlmoitamme tapahtuneista tietoturvaloukkauksista myös tietosuojaviranomaiselle.\n\nLue lisää S-ryhmän tietoturvallisuudesta täältä.",
+        "syöte": "",
+        "ohje": "Sinun oikeutesi: Oikeus saada tietoa tietoturvaloukkauksesta"
+    },
+    {
+        "tulos": "Asiakasomistaja on S-ryhmän asiakasomistajajärjestelmään kuuluvan osuuskaupan henkilöjäsen.",
+        "syöte": "",
+        "ohje": "Mikä on asiakasomistaja?"
+    },
+    {
+        "tulos": "Eväste on pieni tekstitiedosto, jonka selain tallentaa käyttäjän päätelaitteelle. Evästeet sisältävät nimettömän, yksilöllisen tunnisteen, jonka avulla voimme tunnistaa ja laskea sivustollamme vierailevat eri selaimet.",
+        "syöte": "",
+        "ohje": "Mikä on eväste?"
+    },
+    {
+        "tulos": "Henkilötietoja luovutetaan silloin kun rekisterinpitäjä antaa henkilötietoja toiselle rekisterinpitäjälle käsiteltäväksi toisen rekisterinpitäjän omaan käyttötarkoitukseen. Toisella rekisterinpitäjällä tulee olla oikeus vastaanottaa henkilötiedot ja ennalta määritelty käyttötarkoitus.",
+        "syöte": "",
+        "ohje": "Mitä on henkilötiedon luovuttaminen?"
+    },
+    {
+        "tulos": "Henkilötietoja ovat esimerkiksi etunimi, sukunimi, henkilötunnus, puhelinnumero tai palvelun käytöstä kertyvä tieto. Henkilötietoa ovat kaikki tunnistettuun tai tunnistettavissa olevaan henkilöön liitettävissä olevat tiedot.",
+        "syöte": "",
+        "ohje": "Mitä on henkilötieto?"
+    },
+    {
+        "tulos": "Henkilötietojen käsittelyä ovat kaikki henkilötietoihin kohdistuvat toimet esimerkiksi kerääminen, tallentaminen, muokkaaminen, luovuttaminen, korjaaminen tai niiden poistaminen.",
+        "syöte": "",
+        "ohje": "Mitä on henkilötietojen käsittely?"
+    },
+    {
+        "tulos": "Henkilötietojen käsittelijä on se taho, joka toimii rekisterinpitäjän lukuun ja avustaa rekisterinpitäjää yleensä sopimukseen perustuen esimerkiksi alihankkijana. Käsittelijällä voi olla esimerkiksi pääsy henkilötietoihin tutkimus-, tuki- tai ylläpitotehtävää toteuttaessaan.",
+        "syöte": "",
+        "ohje": "Mikä on käsittelijä?"
+    },
+    {
+        "tulos": "Rekisterinpitäjä on se taho, joka vastaa henkilötiedon käsittelystä eli määrittelee muun muassa miten henkilötietoja kerätään, käytetään ja suojataan. Rekisterinpitäjän vastuulla on myös toteuttaa rekisteröidyn oikeudet ja muut lain rekisterinpitäjälle asettamat vaatimukset.",
+        "syöte": "",
+        "ohje": "Mikä on rekisterinpitäjä?"
+    },
+    {
+        "tulos": "Rekisteröity on yksittäinen henkilö, jonka henkilötietoja rekisterinpitäjä käyttää ennalta määriteltyihin käyttötarkoituksiin. Rekisteröitynä voit esimerkiksi käyttää palvelujamme asiakkaanamme tai olla S-ryhmän työntekijä.",
+        "syöte": "",
+        "ohje": "Mitä tarkoittaa rekisteröity?"
+    },
+    {
+        "tulos": "S-tunnus on asiakkaan henkilökohtainen tunnus S-ryhmän digitaalisiin palveluihin.",
+        "syöte": "",
+        "ohje": "Mikä on S-Tunnus?"
+    },
+    {
+        "tulos": "Suoramarkkinointi on mainontaa, jota voidaan tehdä perinteisesti tai sähköisesti. Perinteistä suoramarkkinointia on puhelimella soitettu tai kirjeenä lähetetty mainonta. Sähköistä suoramarkkinointia on esimerkiksi sovelluksen sisällä, sähköpostilla tai tekstiviestinä lähetetty mainonta. Suoramarkkinointi voi olla yleistä, joka toimitetaan samanlaisena kaikille tai kohdennettua, jolloin mainos on tarkoitettu vain sinulle.\n\nLue lisää Markkinoinnista ja tietosuojasta linkin takaa.",
+        "syöte": "",
+        "ohje": "Mitä on suoramarkkinointi?"
+    },
+    {
+        "tulos": "Tietosuojaseloste on käyttämämme termi henkilötietojen käsittelyn informaatiolle. Informaatio on S-ryhmässä kerroksellista. Tämä tietosuojasivusto antaa sinulle yleistä informaatiota sekä ohjaa tarkan informaation lähteeseen. Voimme antaa informaatiota tekstinä, kuvina tai esimerkiksi videoilla.",
+        "syöte": "",
+        "ohje": "Mikä on tietosuojaseloste?"
+    },
+    {
+        "tulos": "Tietosuojavastaavan tehtävänä on valvoa, seurata ja neuvoa organisaatiota ja rekisteröityjä henkilötietojen käsittelyyn liittyvissä kysymyksissä. Tietosuojavastaava toimii yhteydenottopisteenä rekisteröidyille ja viranomaiselle.\n\nLue lisää tietosuojavastaavan tehtävistä.",
+        "syöte": "",
+        "ohje": "Mikä on tietosuojavastaava, DPO?"
+    }
+]

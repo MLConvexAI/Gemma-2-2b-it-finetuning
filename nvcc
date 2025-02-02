@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# Configuration
+WINDOWS_NVCC_PATH="C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.1\\bin\\nvcc.exe"  # Full path to nvcc.exe on Windows
+
+# Convert the Windows path to a path that PowerShell can understand
+WSL_NVCC_PATH=$(wslpath -a "$WINDOWS_NVCC_PATH")
+
+# Replace forward slashes with backslashes
+WINDOWS_PATH=$(echo "$WSL_NVCC_PATH" | tr '/' '\\')
+
+# Replace /mnt/c with C:
+WINDOWS_PATH=$(echo "$WINDOWS_PATH" | sed 's/^\\mnt\\c/C:/')
+
+# Execute the command using powershell.exe
+powershell.exe -NoProfile -NonInteractive -Command "& \"$WINDOWS_PATH\" $*"
